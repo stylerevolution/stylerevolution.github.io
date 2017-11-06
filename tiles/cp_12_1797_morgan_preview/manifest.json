@@ -1,0 +1,45 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "/srplates/tiles/cp_12_1797_morgan_preview/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "style revolution plates - plates - cp_12_1797_morgan_preview",
+  "thumbnail": "/srplates/tiles/images/cp_12_1797_morgan_preview-1/full/187,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "paged",
+  "sequences": [
+    {
+      "@id": "/srplates/tiles/cp_12_1797_morgan_preview/sequence/default.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "/srplates/tiles/cp_12_1797_morgan_preview/canvas/front.json",
+          "label": "front",
+          "width": 1495,
+          "height": 2000,
+          "thumbnail": "/srplates/tiles/images/cp_12_1797_morgan_preview-1/full/187,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "/srplates/tiles/cp_12_1797_morgan_preview/annotation/front.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "/srplates/tiles/images/cp_12_1797_morgan_preview-1/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "/srplates/tiles/images/cp_12_1797_morgan_preview-1",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 1495,
+                "height": 2000
+              },
+              "on": "/srplates/tiles/cp_12_1797_morgan_preview/canvas/front.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

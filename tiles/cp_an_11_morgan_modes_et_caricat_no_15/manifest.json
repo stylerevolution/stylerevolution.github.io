@@ -1,0 +1,45 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "/srplates/tiles/cp_an_11_morgan_modes_et_caricat_no_15/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "style revolution plates - plates - cp_an_11_morgan_modes_et_caricat_no_15",
+  "thumbnail": "/srplates/tiles/images/cp_an_11_morgan_modes_et_caricat_no_15-1/full/183,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "paged",
+  "sequences": [
+    {
+      "@id": "/srplates/tiles/cp_an_11_morgan_modes_et_caricat_no_15/sequence/default.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "/srplates/tiles/cp_an_11_morgan_modes_et_caricat_no_15/canvas/front.json",
+          "label": "front",
+          "width": 1460,
+          "height": 2000,
+          "thumbnail": "/srplates/tiles/images/cp_an_11_morgan_modes_et_caricat_no_15-1/full/183,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "/srplates/tiles/cp_an_11_morgan_modes_et_caricat_no_15/annotation/front.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "/srplates/tiles/images/cp_an_11_morgan_modes_et_caricat_no_15-1/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "/srplates/tiles/images/cp_an_11_morgan_modes_et_caricat_no_15-1",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 1460,
+                "height": 2000
+              },
+              "on": "/srplates/tiles/cp_an_11_morgan_modes_et_caricat_no_15/canvas/front.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

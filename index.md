@@ -16,6 +16,7 @@ iiif_image: cp_332_an_10_morgan
     <td><b>Plate</b></td>
     <td><b>Expects the File</b></td>
     <td><b>Image found?</b></td>
+    <td><b>Student</b></td>
   </tr>
   {% for plate in site.data.plates %}
   <tr>
@@ -29,6 +30,9 @@ iiif_image: cp_332_an_10_morgan
       <a href="{{ site.baseurl }}/plates/{{ plate.plate }}">
         <img src="{{ site.baseurl }}/tiles/images/{{ plate.iiif_image }}-1/full/full/0/default.jpg" width="20"/>
       </a>
+    </td>
+    <td>
+      {{ plate.student }}
     </td>
   </tr>
   {% endfor %}

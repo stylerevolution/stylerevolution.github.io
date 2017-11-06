@@ -1,0 +1,508 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "/srplates/tiles/collection/top.json",
+  "@type": "sc:Collection",
+  "label": "top",
+  "manifests": [
+    {
+      "@id": "/srplates/tiles/cp_100_an_7_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_100_an_7_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_108_an_7_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_108_an_7_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_109_an_7_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_109_an_7_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_10_1797_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_10_1797_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_11_1797_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_11_1797_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_12_1797_morgan_preview/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_12_1797_morgan_preview"
+    },
+    {
+      "@id": "/srplates/tiles/cp_13_1797_morgan_preview/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_13_1797_morgan_preview"
+    },
+    {
+      "@id": "/srplates/tiles/cp_141_an_7_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_141_an_7_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_142_an_7_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_142_an_7_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_14_1797_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_14_1797_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_154_an_7_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_154_an_7_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_15_1797_morgan_preview/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_15_1797_morgan_preview"
+    },
+    {
+      "@id": "/srplates/tiles/cp_163_an_8_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_163_an_8_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_166_an_8_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_166_an_8_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_16_1797_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_16_1797_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_17_1798_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_17_1798_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_183_an_8_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_183_an_8_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_18_1798_morgan_preview/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_18_1798_morgan_preview"
+    },
+    {
+      "@id": "/srplates/tiles/cp_19_1798_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_19_1798_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_1_1797_preview/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_1_1797_preview"
+    },
+    {
+      "@id": "/srplates/tiles/cp_206_an_8_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_206_an_8_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_20_1798_morgan_preview/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_20_1798_morgan_preview"
+    },
+    {
+      "@id": "/srplates/tiles/cp_21_1798_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_21_1798_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_225_n_8_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_225_n_8_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_228_an_8_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_228_an_8_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_22_1798_morgan_preview/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_22_1798_morgan_preview"
+    },
+    {
+      "@id": "/srplates/tiles/cp_23_1798_morgan_preview/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_23_1798_morgan_preview"
+    },
+    {
+      "@id": "/srplates/tiles/cp_248_an_9_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_248_an_9_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_24_1798_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_24_1798_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_25_1798_morgan_preview/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_25_1798_morgan_preview"
+    },
+    {
+      "@id": "/srplates/tiles/cp_287_an_9_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_287_an_9_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_294_an_9_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_294_an_9_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_297_an_9_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_297_an_9_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_298_an_9_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_298_an_9_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_299_an_9_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_299_an_9_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_2_1797_morgan_preview/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_2_1797_morgan_preview"
+    },
+    {
+      "@id": "/srplates/tiles/cp_301_an_9_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_301_an_9_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_322_an_9_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_322_an_9_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_329_an_9_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_329_an_9_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_332_an_10_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_332_an_10_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_333_an_10_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_333_an_10_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_334_an_10_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_334_an_10_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_346_an_10_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_346_an_10_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_349_an_10_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_349_an_10_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_352_an_10_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_352_an_10_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_353_an_10_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_353_an_10_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_359_an_10_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_359_an_10_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_378_an_10_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_378_an_10_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_390_an_10_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_390_an_10_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_3_1797_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_3_1797_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_40_an_6_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_40_an_6_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_416_an_11_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_416_an_11_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_422_an_11_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_422_an_11_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_424_an_11_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_424_an_11_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_425_an_11_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_425_an_11_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_432_an_11_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_432_an_11_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_445_an_11_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_445_an_11_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_467_an_11_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_467_an_11_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_481_an_11_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_481_an_11_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_483_an_11_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_483_an_11_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_4_1797_morgan_preview/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_4_1797_morgan_preview"
+    },
+    {
+      "@id": "/srplates/tiles/cp_56_an_6_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_56_an_6_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_5_1797_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_5_1797_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_69_an_7_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_69_an_7_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_6_1797_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_6_1797_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_74_an_7_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_74_an_7_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_75_an_7_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_75_an_7_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_76_an_7_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_76_an_7_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_78_an_7_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_78_an_7_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_7_1797_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_7_1797_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_80_an_7_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_80_an_7_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_81_an_7_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_81_an_7_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_82_an_7_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_82_an_7_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_83_an_7_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_83_an_7_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_84_an_7_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_84_an_7_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_85_an_7_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_85_an_7_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_86_an_7_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_86_an_7_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_88_an_7_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_88_an_7_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_8_1797_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_8_1797_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_93_an_7_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_93_an_7_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_94_an_7_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_94_an_7_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_98_an_7_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_98_an_7_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_9_1797_morgan/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_9_1797_morgan"
+    },
+    {
+      "@id": "/srplates/tiles/cp_an_11_morgan_modes_et_caricat_no_15/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - cp_an_11_morgan_modes_et_caricat_no_15"
+    },
+    {
+      "@id": "/srplates/tiles/plate58/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - plate58"
+    },
+    {
+      "@id": "/srplates/tiles/plate59/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - plate59"
+    },
+    {
+      "@id": "/srplates/tiles/plate60/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - plate60"
+    },
+    {
+      "@id": "/srplates/tiles/plate61/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - plate61"
+    },
+    {
+      "@id": "/srplates/tiles/plate62/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - plate62"
+    },
+    {
+      "@id": "/srplates/tiles/plate63/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - plate63"
+    },
+    {
+      "@id": "/srplates/tiles/plate64/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - plate64"
+    },
+    {
+      "@id": "/srplates/tiles/plate65/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - plate65"
+    },
+    {
+      "@id": "/srplates/tiles/plate66/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - plate66"
+    },
+    {
+      "@id": "/srplates/tiles/plate67/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - plate67"
+    },
+    {
+      "@id": "/srplates/tiles/plate68/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - plate68"
+    },
+    {
+      "@id": "/srplates/tiles/plate69/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - plate69"
+    },
+    {
+      "@id": "/srplates/tiles/plate70/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - plate70"
+    },
+    {
+      "@id": "/srplates/tiles/plate71/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - plate71"
+    },
+    {
+      "@id": "/srplates/tiles/plate72/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - plate72"
+    },
+    {
+      "@id": "/srplates/tiles/plate73/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - plate73"
+    }
+  ]
+}

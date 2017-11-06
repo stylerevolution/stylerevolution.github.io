@@ -16,7 +16,7 @@ collections:
   plates:
     title: "plates"
     output: true
-    iiif: false
+    iiif: true
     paged: false
     pm_generate: false
     pm_input: csv
