@@ -2,7 +2,11 @@
 layout: page
 iiif_image: cp_332_an_10_morgan
 ---
-<style>table{width:100% !important;}tr:nth-child(even){background-color: #f2f2f2}</style>
+<style>
+  td{padding-left:5px;}
+  table{width:100% !important;border-collapse:collapse;}
+  tr:nth-child(even){background-color: #f2f2f2}
+</style>
 
 
 {% include iiif_image.html %}
@@ -23,7 +27,7 @@ iiif_image: cp_332_an_10_morgan
     </td>
     <td>
       <a href="{{ site.baseurl }}/plates/{{ plate.plate }}">
-        <img src="{{ site.baseurl }}/tiles/images/{{ plate.iiif_image }}/full/full/0/default.jpg" width="20"/>
+        <img src="{{ site.baseurl }}/tiles/images/{{ plate.iiif_image }}-1/full/full/0/default.jpg" width="20"/>
       </a>
     </td>
   </tr>

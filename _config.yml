@@ -9,7 +9,6 @@ theme: minima
 plugins:
   - pagemaster
   - jekyll-feed
-  # - jekyll-iiif
 
 exclude: [Gemfile*, node_modules, vendor]
 
