@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "http://127.0.0.1:4000/srplates/tiles/images/cp_416_an_11_morgan",
+  "protocol": "http://iiif.io/api/image",
+  "width": 1460,
+  "height": 2000,
+  "sizes": [
+    {
+      "width": 1460,
+      "height": 2000
+    },
+    {
+      "width": 183,
+      "height": 250
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

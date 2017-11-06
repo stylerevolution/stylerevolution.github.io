@@ -2,7 +2,7 @@
 plate: cp9
 an: '6'
 name: plate9
-file_name: cp_9_an_6_morgan.jpg
+iiif_image: cp_9_an_6_morgan
 year: 
 _date: '1797'
 caption: Chignon à la Grecque, entrelacé avec un Fichu de couleur, Bandeau en Cheveaux,

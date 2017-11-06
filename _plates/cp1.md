@@ -2,7 +2,7 @@
 plate: cp1
 an: '6'
 name: plate1
-file_name: cp_1_an_6_morgan.jpg
+iiif_image: cp_1_an_6_morgan
 year: 
 _date: '1797'
 caption: 'Perruque grecque. Collier montant ganses sur le corsage petit fichu. Robe

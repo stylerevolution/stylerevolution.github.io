@@ -1,11 +1,17 @@
 ---
 layout: page
+iiif_image: cp_332_an_10_morgan
 ---
-<table border="1">
+<style>table{width:100% !important;}tr:nth-child(even){background-color: #f2f2f2}</style>
+
+
+{% include iiif_image.html %}
+<br><br>
+<table>
   <tr>
     <td><b>Plate</b></td>
     <td><b>Expects the File</b></td>
-    <td><b>Image Found?</b></td>
+    <td><b>Image found?</b></td>
   </tr>
   {% for plate in site.data.plates %}
   <tr>
@@ -13,10 +19,12 @@ layout: page
       <a href="{{ site.baseurl }}/plates/{{ plate.plate }}">{{ plate.plate }}<br></a>
     </td>
     <td>
-      {{ plate.file_name }}
+      {{ plate.iiif_image }}.jpg
     </td>
     <td>
-      <img src="{{ site.baseurl }}/images/{{ plate.file_name }}" width="50"/>
+      <a href="{{ site.baseurl }}/plates/{{ plate.plate }}">
+        <img src="{{ site.baseurl }}/tiles/images/{{ plate.iiif_image }}/full/full/0/default.jpg" width="20"/>
+      </a>
     </td>
   </tr>
   {% endfor %}

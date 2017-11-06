@@ -1,19 +1,53 @@
 ---
 layout: page
 ---
-<img src="{{ site.baseurl }}/images/{{ page.file_name }}"/>
+{% capture the_collection %}{{page.collection}}{% endcapture %}
+  {% if page.collection %}
+    {% assign documents = site[the_collection] %}
+  {% endif %}
+{% for link in documents  %}
+  {% if link.title == page.title %}
+    {% unless forloop.first %}
+      {% assign prevurl = prev.url %}
+      {% assign prevtitle = prev.title %}
+    {% endunless %}
+    {% unless forloop.last %}
+      {% assign next = documents[forloop.index] %}
+      {% assign nexturl = next.url %}
+      {% assign nexttitle = next.title %}
+    {% endunless %}
+  {% endif %}
+  {% assign prev = link %}
+{% endfor %}
 
-<p><b>wanted image:</b> {{ page.file_name }}</p>
+<div class="prevnext">
+{% if prevurl %}Previous: <a href="{{site.baseurl}}{{prevurl}}" class="prev">{{prevtitle}}</a>{% endif %}<br />
 
+{% if nexturl %}Next: <a href="{{site.baseurl}}{{nexturl}}" class="next">{{nexttitle}}</a>{% endif %}
+</div>
 
-<p><b>plate:</b> {{ page.plate }}</p>
-<p><b>an:</b> {{ page.an }}</p>
-<p><b>name:</b> {{ page.name }}</p>
-<p><b>year:</b> {{ page.year }}</p>
-<p><b>date:</b> {{ page._date }}</p>
-<p><b>caption:</b> {{ page.caption }}</p>
-<p><b>translation:</b> {{ page.translation }}</p>
-<p><b>student:</b> {{ page.student }}</p>
-<p><b>keywords:</b> {{ page.keywords }}</p>
-<p><b>column:</b> {{ page.column }}</p>
-<p><b>flag translation:</b> {{ page.flag_translation }}</p>
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <div class="post-content">
+  	{% include iiif_image.html %}
+    <br><br>
+    <p>
+      <b>file name (according to csv):</b> {{ page.iiif_image }}.jpg<br>
+      <b>plate:</b> {{ page.plate }}<br>
+      <b>an:</b> {{ page.an }}<br>
+      <b>name:</b> {{ page.name }}<br>
+      <b>year:</b> {{ page.year }}<br>
+      <b>date:</b> {{ page._date }}<br>
+      <b>caption:</b> {{ page.caption }}<br>
+      <b>translation:</b> {{ page.translation }}<br>
+      <b>student:</b> {{ page.student }}<br>
+      <b>keywords:</b> {{ page.keywords }}<br>
+      <b>column:</b> {{ page.column }}<br>
+      <b>flag translation:</b> {{ page.flag_translation }}
+    </p>
+  </div>
+</article>

@@ -2,7 +2,7 @@
 plate: cpan11
 an: '11'
 name: CP An 11 Morgan Modes et Caricat no 15
-file_name: cp_an_11_an_11_morgan.jpg
+iiif_image: cp_an_11_an_11_morgan
 year: 
 _date: 1802/1803
 caption: Modes et Caricat no. 15
