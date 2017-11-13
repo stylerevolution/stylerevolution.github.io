@@ -10,7 +10,7 @@ iiif_image: cp_332_an_10_morgan
   tr:nth-child(even){background-color: #f2f2f2}
 </style>
 
-<h1>Missing Images Table</h1>
+<h1>Proper Filename Table</h1>
 
 
 {% include iiif_image.html %}
