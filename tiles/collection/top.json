@@ -95,14 +95,14 @@
       "label": "style revolution plates - plates - cp_18_1798_morgan_preview"
     },
     {
-      "@id": "/srplates/tiles/cp_19_1798_morgan/manifest.json",
+      "@id": "/srplates/tiles/cp_19_an_6_morgan/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp_19_1798_morgan"
+      "label": "style revolution plates - plates - cp_19_an_6_morgan"
     },
     {
-      "@id": "/srplates/tiles/cp_1_1797_preview/manifest.json",
+      "@id": "/srplates/tiles/cp_1_an_6_morgan/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp_1_1797_preview"
+      "label": "style revolution plates - plates - cp_1_an_6_morgan"
     },
     {
       "@id": "/srplates/tiles/cp_206_an_8_morgan/manifest.json",
