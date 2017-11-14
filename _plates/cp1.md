@@ -11,7 +11,7 @@ translation: Greek wig. Necklace on collar braided into straps on the bodice a s
 student: Meghan Collins
 keywords: 
 column: 
-flag_translation: 
+flag_translation: flag
 slug: cp1
 layout: plate-page
 ---
