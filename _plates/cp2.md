@@ -10,7 +10,7 @@ translation: Toquet (Peasant style bonnet) in gauze Bouillonneée (?). Spencer (
 student: Meghan Collins
 keywords: 
 column: 
-flag_translation: 
+flag_translation: flag 
 slug: cp2
 layout: plate-page
 ---
