@@ -7,11 +7,11 @@ year:
 _date: '1797'
 caption: 'Perruque grecque. Collier montant ganses sur le corsage petit fichu. Robe
   trousée jusu''au molet. '
-translation: Greek wig. Necklace on collar braided into straps on the bodice a small kercheif. Frilly dress up to the calf. 
+translation: 
 student: Meghan Collins
 keywords: 
 column: 
-flag_translation: flag
+flag_translation: 
 slug: cp1
 layout: plate-page
 ---

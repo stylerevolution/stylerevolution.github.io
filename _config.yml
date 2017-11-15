@@ -6,31 +6,16 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
-  - pagemaster
-  - jekyll-feed
 
 exclude: [Gemfile*, node_modules, vendor]
 
 collections:
   plates:
-    title: "plates"
     output: true
-    iiif: true
-    paged: false
-    pm_generate: false
-    pm_input: csv
-    pm_source: plates
-    pm_key: plate
-    pm_directory: plates
-    pm_layout: plate-page
-
-defaults:
-  - scope:
-      path: ""
-      type: iiif_collection
-    values:
-      layout: iiif_image
+    source: plates.csv
+    key: plate
+    directory: plates
+    layout: plate-page
 
 webrick:
   headers:

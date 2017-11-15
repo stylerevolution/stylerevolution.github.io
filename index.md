@@ -22,7 +22,8 @@ iiif_image: cp_332_an_10_morgan
     <td><b>Image found?</b></td>
     <td><b>Student</b></td>
   </tr>
-  {% for plate in site.data.plates %}
+  {% assign plates = site.data.plates | sort: "student" %}
+  {% for plate in plates %}
   <tr>
     <td>
       <a href="{{ site.baseurl }}/plates/{{ plate.plate }}">{{ plate.plate }}<br></a>
