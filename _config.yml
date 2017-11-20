@@ -10,6 +10,8 @@ theme: minima
 exclude: [Gemfile*, node_modules, vendor]
 
 collections:
+  iiif:
+    output: true
   plates:
     output: true
     source: plates.csv

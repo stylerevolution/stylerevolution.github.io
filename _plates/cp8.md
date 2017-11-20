@@ -1,9 +1,9 @@
 ---
 plate: cp8
-an: '6'
+iiif_image: cp8
+an: an 6
 name: plate8
-iiif_image: cp_8_an_6_morgan
-year: 
+rev_year: 
 _date: '1797'
 caption: Capote Anglaise, garnie en Crêpe, Bandeau de Velours, Guilloché en Or, Petit
   fichu croisé, Rubans en Cothurnes

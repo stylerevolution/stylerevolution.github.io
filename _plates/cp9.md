@@ -1,9 +1,9 @@
 ---
 plate: cp9
-an: '6'
+iiif_image: cp9
+an: an 6
 name: plate9
-iiif_image: cp_9_an_6_morgan
-year: 
+rev_year: 
 _date: '1797'
 caption: Chignon à la Grecque, entrelacé avec un Fichu de couleur, Bandeau en Cheveaux,
   Collier de Perles, Ceinlure à la Victime

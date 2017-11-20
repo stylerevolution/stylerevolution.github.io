@@ -1,9 +1,9 @@
 ---
 plate: cp6
-an: '6'
+iiif_image: cp6
+an: an 6
 name: plate6
-iiif_image: cp_6_an_6_morgan
-year: 
+rev_year: 
 _date: '1797'
 caption: Turban à Calotte plate, orné de Perles et d'un Plumet, Robe froncée, Schall
   en Sautoir

@@ -1,6 +1,6 @@
 ---
 layout: page
-iiif_image: cp_332_an_10_morgan
+iiif_image: cp332
 ---
 
 
@@ -40,5 +40,5 @@ iiif_image: cp_332_an_10_morgan
       {{ plate.student }}
     </td>
   </tr>
-  {% endfor %}
+  {% endfor %}  
 </table>

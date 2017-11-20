@@ -1,9 +1,9 @@
 ---
 plate: cp7
-an: '6'
+iiif_image: cp7
+an: an 6
 name: plate7
-iiif_image: cp_7_an_6_morgan
-year: 
+rev_year: 
 _date: '1797'
 caption: Chignon à la grecque, Relevé sur un Bonnet Rond,  Chemise à la Prêtresse,
   Mantelet de gaze, glands sur les souliers.

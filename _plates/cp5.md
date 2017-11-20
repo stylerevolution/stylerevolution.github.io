@@ -1,9 +1,9 @@
 ---
 plate: cp5
-an: '6'
+iiif_image: cp5
+an: an 6
 name: plate5
-iiif_image: cp_5_an_6_morgan
-year: 
+rev_year: 
 _date: '1797'
 caption: " Toquet d'enfant, garni en dentelle, Bride noire Spencer, Robe Blanche,
   sure un Transparent"
