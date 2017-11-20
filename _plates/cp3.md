@@ -1,9 +1,9 @@
 ---
 plate: cp3
-an: '6'
+iiif_image: cp3
+an: an 6
 name: plate3
-iiif_image: cp_3_an_6_morgan
-year: 
+rev_year: 
 _date: '1797'
 caption: Chapeau-Spencer, Robe de Linon, Schall Long, Rubans croisés, en forme de
   Cothurne

@@ -20,23 +20,18 @@ layout: page
   {% assign prev = link %}
 {% endfor %}
 
-<div class="prevnext">
-{% if prevurl %}Previous: <a href="{{site.baseurl}}{{prevurl}}" class="prev">{{prevtitle}}</a>{% endif %}<br />
-
-{% if nexturl %}Next: <a href="{{site.baseurl}}{{nexturl}}" class="next">{{nexttitle}}</a>{% endif %}
-</div>
+<table class="prevnext" width="100%" style="margin-bottom:30px;">
+  <tr>
+    <td style="text-align:left;">{% if prevurl %}Previous: <a href="{{site.baseurl}}{{prevurl}}" class="prev">{{prevtitle}}</a>{% endif %}</td>
+    <td style="text-align:right;">{% if nexturl %}Next: <a href="{{site.baseurl}}{{nexturl}}" class="next">{{nexttitle}}</a>{% endif %}</td>
+  </tr>
+</table>
 
 <article class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
-
   <div class="post-content">
   	{% include iiif_image.html %}
     <br><br>
     <p>
-      <b>file name (according to csv):</b> {{ page.iiif_image }}.jpg<br>
       <b>plate:</b> {{ page.plate }}<br>
       <b>an:</b> {{ page.an }}<br>
       <b>name:</b> {{ page.name }}<br>
