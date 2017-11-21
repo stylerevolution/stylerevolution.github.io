@@ -2,3 +2,37 @@
 
 // Make all changes not included in the minima.scss file here
 
+#Header
+
+h1 {
+	font-family: "Forum";
+	font-size: 18px;
+	text-transform: uppercase;
+	color: white;
+}
+
+h2 {
+	font-family: "Playfair Display";
+	font-size: 42px;
+	color: yellow;
+	text-align: center;
+}
+
+h3 {
+	font-family: "Playfair Display";
+	font-size: 22px;
+	color: #E52B50;
+	text-align: center;
+}
+
+p {
+	font-family: Arial;
+	font-size: 12px;
+
+}
+
+.intro {
+	font-family: "Forum";
+	font-size: 13px;
+
+}
