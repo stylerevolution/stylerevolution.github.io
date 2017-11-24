@@ -1,0 +1,87 @@
+body {padding: 0px 100px 4px 100px;
+    background-color: #f1f1f1;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #717273;
+}
+
+li {
+    float: left; 
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 50px;
+    text-decoration: none;
+}
+
+.home_logo {
+    padding: 7px 50px;
+    width:60px;
+}
+.logo {
+    padding: 0px 
+}
+
+img { 
+    display: block; 
+}
+
+li a:hover {
+    background-color: #606162;
+}
+h1 {font-family: 'Forum', 'Cinzel',serif;
+    font-size: 22px;
+    font-style: normal;
+    font-variant: normal;
+    text-align: center;
+}
+
+h2 {font-family: 'Playfair Display', serif;
+    font-size: 46px;
+    color: #d61e40;
+    font-style: normal;
+    font-variant: normal;
+    text-align: center;
+    margin: 0px 0px 25px 0px;
+}
+h3 {font-family: 'Playfair Display', serif;
+    font-size: 26px;
+    color: #d61e40;
+    font-style: normal;
+    font-variant: normal;
+    text-align: center;
+    padding-top: 25px;
+}
+
+h4 {
+
+}
+
+p {font-family: 'Forum';
+    font-size: 20px;
+    font-style: normal;
+    font-variant: normal;
+}
+.about {
+    text-align: center;
+    
+}
+.banner {width: 100%;
+}
+.tile {display: inline;
+    float: left;
+}
+
+.section2 {
+    background-color: #fefefe;
+    padding-left: 5%;
+}
