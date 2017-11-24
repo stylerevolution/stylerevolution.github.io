@@ -2,37 +2,111 @@
 
 // Make all changes not included in the minima.scss file here
 
-#Header
-
-h1 {
-	font-family: "Forum";
-	font-size: 18px;
-	text-transform: uppercase;
-	color: white;
+div {
+    padding: 0px, 0px, 0px, 0px;
+}
+body {
+    padding: 0px 150px 0px 150px;
+    background-color: #f1f1f1;
+ 
 }
 
-h2 {
-	font-family: "Playfair Display";
-	font-size: 42px;
-	color: yellow;
-	text-align: center;
+.header {
+    padding: 0px, 0px, 0px, 0px;
+    font-family: 'Forum', 'Cinzel',serif;
+    font-size: 22px;
+    text-align: center;
+
 }
 
+.main-content {
+    background-color: #ffffff;
+    padding: 4px 4px 4px 4px;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #717273;
+}
+
+li {
+    float: left; 
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 45px;
+    border: none;
+    margin: none;
+    text-decoration: none;
+}
+
+.home_logo {
+    padding: 7px 50px;
+    width:60px;
+}
+.logo {
+    padding: 0px 
+}
+
+img { 
+    display: inline-block; 
+}
+.tile {
+    display: inline-block;
+    float: left;
+    }
+
+.tilesize { 
+    padding: 3px 3px 3px 3px;
+    width:350px;height:350px;
+}
+
+li a:hover {
+    background-color: #606162;
+}
+h1 {font-family: 'Forum', 'Cinzel',serif;
+    font-size: 22px;
+    text-align: center;
+}
+
+h2 {font-family: 'Playfair Display', serif;
+    font-size: 46px;
+    color: #d61e40;
+    font-style: normal;
+    font-variant: normal;
+    text-align: center;
+    margin: 0px 0px 25px 0px;
+}
 h3 {
-	font-family: "Playfair Display";
-	font-size: 22px;
-	color: #E52B50;
-	text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 26px;
+    color: #d61e40;
+    font-style: normal;
+    font-variant: normal;
+    text-align: center;
+    padding-top: 25px;
 }
 
 p {
-	font-family: Arial;
-	font-size: 12px;
-
+    font-family: 'Forum';
+    font-size: 20px;
+    font-style: normal;
+    font-variant: normal;
+}
+.about {
+    text-align: center;
+    
+}
+.banner {
+    width: 100%;
 }
 
-.intro {
-	font-family: "Forum";
-	font-size: 13px;
-
+.cont-section {
+    background-color: #fefefe;
+    padding-left: 5%;
+    padding-right: 5%;
 }
