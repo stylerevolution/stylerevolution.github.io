@@ -1,12 +1,27 @@
-body {padding: 0px 100px 4px 100px;
+div {
+    padding: 0px, 0px, 0px, 0px;
+}
+body {
+    padding: 0px 150px 0px 150px;
     background-color: #f1f1f1;
+ 
+}
 
+.header {
+    padding: 0px, 0px, 0px, 0px;
+    font-family: 'Forum', 'Cinzel',serif;
+    font-size: 22px;
+    text-align: center;
+
+}
+
+.main-content {
+    background-color: #ffffff;
+    padding: 4px 4px 4px 4px;
 }
 
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
     overflow: hidden;
     background-color: #717273;
 }
@@ -19,7 +34,9 @@ li a {
     display: inline-block;
     color: white;
     text-align: center;
-    padding: 14px 50px;
+    padding: 14px 45px;
+    border: none;
+    margin: none;
     text-decoration: none;
 }
 
@@ -31,25 +48,17 @@ li a {
     padding: 0px 
 }
 
-.landing2 {
-    background-color: #ffffff;
-}
-
 img { 
     display: inline-block; 
 }
 .tile {
     display: inline-block;
     float: left;
-    width:300px;
-    height:300px;
     }
 
 .tilesize { 
-    padding: 4px 0px 4px 0px;
-    width:300px;height:300px;
-    border: 2px;
-
+    padding: 3px 3px 3px 3px;
+    width:350px;height:350px;
 }
 
 li a:hover {
@@ -57,8 +66,6 @@ li a:hover {
 }
 h1 {font-family: 'Forum', 'Cinzel',serif;
     font-size: 22px;
-    font-style: normal;
-    font-variant: normal;
     text-align: center;
 }
 
@@ -94,8 +101,9 @@ p {
     width: 100%;
 }
 
-.section2 {
+.cont-section {
     background-color: #fefefe;
     padding-left: 5%;
+    padding-right: 5%;
 }
 
