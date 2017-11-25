@@ -6,22 +6,19 @@ div {
     padding: 0px, 0px, 0px, 0px;
 }
 body {
-    padding: 0 10% 0 10%;
     background-color: #f1f1f1;
- 
+
 }
 
-.header {
-    padding: 0px, 0px, 0px, 0px;
+.nav {
     font-family: 'Forum', 'Cinzel',serif;
     font-size: 22px;
     text-align: center;
-
 }
 
 .main-content {
     background-color: #ffffff;
-    padding: 4px 4px 4px 4px;
+    padding: 0 10% 0 10%;
 }
 
 ul {
@@ -68,12 +65,12 @@ img {
 li a:hover {
     background-color: #606162;
 }
-h1 {font-family: 'Forum', 'Cinzel',serif;
+nav {font-family: 'Forum', 'Cinzel',serif;
     font-size: 22px;
     text-align: center;
 }
 
-h2 {font-family: 'Playfair Display', serif;
+h1 {font-family: 'Playfair Display', serif;
     font-size: 46px;
     color: #d61e40;
     font-style: normal;
@@ -81,7 +78,7 @@ h2 {font-family: 'Playfair Display', serif;
     text-align: center;
     margin: 0px 0px 25px 0px;
 }
-h3 {
+h2 {
     font-family: 'Playfair Display', serif;
     font-size: 26px;
     color: #d61e40;
@@ -91,7 +88,7 @@ h3 {
     padding-top: 25px;
 }
 
-h4 {
+h3 {
     font-family: 'Forum';
     font-weight: bold;
     font-size: 22px;
@@ -105,13 +102,14 @@ p {
     font-size: 20px;
     font-style: normal;
     font-variant: normal;
+    padding: 5px;
 }
 
 
 .about {
     text-align: center;
-    padding-right: 100px;
-    padding-left: 100px;
+    padding-right: 15%;
+    padding-left: 15%;
 }
 .banner {
     width: 100%;
@@ -119,8 +117,9 @@ p {
 
 div.cont-section {
     background-color: #fefefe;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin: 0px 10% 0px 10%;
 }
 
 div.cont-section img {
