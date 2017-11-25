@@ -91,12 +91,23 @@ h3 {
     padding-top: 25px;
 }
 
+h4{
+    font-family: 'Forum';
+    font-weight: bold;
+    font-size: 22px;
+    font-variant: normal;
+    margin: 1px 1px 1px 1px;
+    border: 2 2 2 2;
+}
+
 p {
     font-family: 'Forum';
     font-size: 20px;
     font-style: normal;
     font-variant: normal;
 }
+
+
 .about {
     text-align: center;
     padding-right: 100px;
@@ -106,9 +117,24 @@ p {
     width: 100%;
 }
 
-.cont-section {
+div.cont-section {
     background-color: #fefefe;
     padding-left: 5%;
     padding-right: 5%;
+}
+
+div.cont-section img {
+    height: 100px; 
+    width: 100px;
+    margin: 4px 15px 10px 0px; 
+    border: 1px solid #000000;
+    float: left;
+} 
+
+div.cont-section p {
+    font-family: 'Forum';
+    font-weight: bold;
+    font-size: 18px;
+    font-variant: normal;
 }
 
