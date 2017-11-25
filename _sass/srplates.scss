@@ -91,13 +91,13 @@ h3 {
     padding-top: 25px;
 }
 
-h4{
+h4 {
     font-family: 'Forum';
     font-weight: bold;
     font-size: 22px;
     font-variant: normal;
     margin: 1px 1px 1px 1px;
-    border: 2 2 2 2;
+
 }
 
 p {
@@ -136,4 +136,17 @@ div.cont-section p {
     font-weight: bold;
     font-size: 18px;
     font-variant: normal;
+    margin: 1px 0 0 0;
+}
+
+.contributor {
+    
+    padding: 20px;
+    overflow: hidden;
+}
+
+.contributor img {
+    width: 100px;
+    margin-right: 15px;
+    float: left;
 }
