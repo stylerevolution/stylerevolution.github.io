@@ -3,31 +3,31 @@
 // Make all changes not included in the minima.scss file here
 
 div {
-    padding: 0px, 0px, 0px, 0px;
+    padding: 0;
 }
 body {
-    padding: 0px 100px 0px 100px;
     background-color: #f1f1f1;
- 
+    margin: 0;
+
 }
 
-.header {
-    padding: 0px, 0px, 0px, 0px;
-    font-family: 'Forum', 'Cinzel',serif;
+.nav {
+    font-family: 'Forum', 'Cinzel', serif;
     font-size: 22px;
     text-align: center;
-
+    margin: auto; 
 }
 
 .main-content {
     background-color: #ffffff;
-    padding: 4px 4px 4px 4px;
+    padding: 0 10% 0 10%;
 }
 
 ul {
     list-style-type: none;
     overflow: hidden;
     background-color: #717273;
+    margin: 0;
 }
 
 li {
@@ -45,8 +45,8 @@ li a {
 }
 
 .home_logo {
-    padding: 7px 50px;
-    width:60px;
+    padding: 3px 45px;
+    width:78px;
 }
 .logo {
     padding: 0px 
@@ -68,12 +68,12 @@ img {
 li a:hover {
     background-color: #606162;
 }
-h1 {font-family: 'Forum', 'Cinzel',serif;
+.nav {font-family: 'Forum', 'Cinzel',serif;
     font-size: 22px;
     text-align: center;
 }
 
-h2 {font-family: 'Playfair Display', serif;
+h1 {font-family: 'Playfair Display', serif;
     font-size: 46px;
     color: #d61e40;
     font-style: normal;
@@ -81,7 +81,7 @@ h2 {font-family: 'Playfair Display', serif;
     text-align: center;
     margin: 0px 0px 25px 0px;
 }
-h3 {
+h2 {
     font-family: 'Playfair Display', serif;
     font-size: 26px;
     color: #d61e40;
@@ -91,24 +91,64 @@ h3 {
     padding-top: 25px;
 }
 
+h3 {
+    font-family: 'Forum';
+    font-weight: bold;
+    font-size: 22px;
+    font-variant: normal;
+    margin: 1px 1px 1px 1px;
+
+}
+
 p {
     font-family: 'Forum';
     font-size: 20px;
     font-style: normal;
     font-variant: normal;
+    padding: 5px;
 }
+
+
 .about {
     text-align: center;
-    padding-right: 100px;
-    padding-left: 100px;
+    padding-right: 15%;
+    padding-left: 15%;
 }
 .banner {
     width: 100%;
 }
 
-.cont-section {
+div.cont-section {
     background-color: #fefefe;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin: 0px 10% 0px 10%;
 }
 
+div.cont-section img {
+    height: 100px; 
+    width: 100px;
+    margin: 4px 15px 10px 0px; 
+    border: 1px solid #000000;
+    float: left;
+} 
+
+div.cont-section p {
+    font-family: 'Forum';
+    font-weight: bold;
+    font-size: 18px;
+    font-variant: normal;
+    margin: 1px 0 0 0;
+}
+
+.contributor {
+    
+    padding: 20px;
+    overflow: hidden;
+}
+
+.contributor img {
+    width: 100px;
+    margin-right: 15px;
+    float: left;
+}
