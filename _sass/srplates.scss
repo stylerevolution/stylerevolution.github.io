@@ -33,7 +33,6 @@ body {
     padding: 14px 45px;
     border: none;
     margin: none;
-    text-decoration: none;
 }
 
 .main-content {
@@ -104,8 +103,6 @@ p {
 
 .about {
     text-align: center;
-    padding-right: 5%;
-    padding-left: 5%;
 }
 
 .banner {
@@ -148,6 +145,8 @@ div.cont-section p {
 
 .letter {
     text-align: left;
+    font-size: 30px;
+    font-weight: bold;
 }
 
 .london {
