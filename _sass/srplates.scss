@@ -5,10 +5,16 @@
 div {
     padding: 0;
 }
+
 body {
     background-color: #f1f1f1;
     margin: 0;
 
+}
+
+.site-header {
+    width: 100%;
+    border-top: 0px;
 }
 
 .nav {
@@ -33,6 +39,7 @@ body {
     padding: 14px 45px;
     border: none;
     margin: none;
+    text-decoration: none;
 }
 
 .main-content {
@@ -41,7 +48,7 @@ body {
 }
 
 .home_logo {
-    padding: 3px 45px;
+    padding: 10px 45px;
     width:78px;
 }
 .logo {
@@ -157,15 +164,18 @@ div.cont-section p {
 }
 
 .gallery-block {
-    background-color: white;
+    text-align: center
 }
-.gallery{
+
+.gallery {
     display: inline-block;
     float: left;
-    width: 100px;
+    width: 75px;
     height: 75px;
     margin: auto;
 }
+
+
 
 
 
