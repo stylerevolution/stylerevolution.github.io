@@ -16,25 +16,13 @@ body {
     font-size: 22px;
     text-align: center;
     margin: auto; 
-}
-
-.main-content {
-    background-color: #ffffff;
-    padding: 0 10% 0 10%;
-}
-
-ul {
     list-style-type: none;
     overflow: hidden;
     background-color: #717273;
     margin: 0;
 }
 
-li {
-    float: left; 
-}
-
-li a {
+.navlink {
     display: inline-block;
     color: white;
     text-align: center;
@@ -43,6 +31,16 @@ li a {
     margin: none;
     text-decoration: none;
 }
+
+.navlist {
+    float: left;
+}
+
+.main-content {
+    background-color: #ffffff;
+    padding: 0 10% 0 10%;
+}
+
 
 .home_logo {
     padding: 3px 45px;
