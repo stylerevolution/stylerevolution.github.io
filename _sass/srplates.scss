@@ -150,14 +150,21 @@ div.cont-section p {
 }
 
 .london {
+    display: block;
+    margin: auto;
     vertical-align: middle;
+    background-color: white;
 }
 
+.gallery-block {
+    background-color: white;
+}
 .gallery{
     display: inline-block;
-    width: 150px;
-    height: 200px;
-    margin: 10px;
+    float: left;
+    width: 100px;
+    height: 75px;
+    margin: auto;
 }
 
 

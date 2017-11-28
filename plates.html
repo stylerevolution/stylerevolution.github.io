@@ -5,11 +5,13 @@ author: Everyone
 ---
 <h1>Plates</h1>
 
-<ul class="gallery">
+
+<div class="gallery-block">
+<ul>
 
 {% for item in site.plates %}
 
-	<li class="gallery"><a href="{{site.baseurl}}{{item.url}}"><img src="{{site.baseurl}}/assets/thumbnails/{{item.plate}}.jpg" width="30%"><br>{{item.plate}}</a></li>
+	<li class="gallery"><a href="{{site.baseurl}}{{item.url}}"><img src="{{site.baseurl}}/assets/thumbnails/{{item.plate}}.jpg" width="50%"></a></li>
 
 
 {% endfor %}
