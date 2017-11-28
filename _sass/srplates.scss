@@ -153,22 +153,22 @@ div.cont-section p {
 }
 
 .letter {
-    text-align: left;
+    text-align: center;
     font-size: 30px;
     font-weight: bold;
 
 }
-.color {
+.color-dic{
     float: left;
     font-family: 'Forum', 'Cinzel', serif;
     font-size: 18px;
     width: 100%;
 }
 
-.color img {
-    height: 25px;
-    width: 25px;
+#color {
+    font-weight: bold;
 }
+
 
 table {
     border-spacing: 5px;
