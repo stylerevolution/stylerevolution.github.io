@@ -16,32 +16,28 @@ body {
     font-size: 22px;
     text-align: center;
     margin: auto; 
-}
-
-.main-content {
-    background-color: #ffffff;
-    padding: 0 10% 0 10%;
-}
-
-ul {
     list-style-type: none;
     overflow: hidden;
     background-color: #717273;
     margin: 0;
 }
 
-li {
-    float: left; 
+.navlist {
+    float: left;
 }
 
-li a {
+.navlink {
     display: inline-block;
     color: white;
     text-align: center;
     padding: 14px 45px;
     border: none;
     margin: none;
-    text-decoration: none;
+}
+
+.main-content {
+    background-color: #ffffff;
+    padding: 0 10% 0 10%;
 }
 
 .home_logo {
@@ -67,10 +63,6 @@ img {
 
 li a:hover {
     background-color: #606162;
-}
-.nav {font-family: 'Forum', 'Cinzel',serif;
-    font-size: 22px;
-    text-align: center;
 }
 
 h1 {font-family: 'Playfair Display', serif;
@@ -101,7 +93,7 @@ h3 {
 }
 
 p {
-    font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
+    font-family: 'Forum', 'Cinzel', serif;
     font-size: 20px;
     font-style: normal;
     font-variant: normal;
@@ -111,9 +103,8 @@ p {
 
 .about {
     text-align: center;
-    padding-right: 15%;
-    padding-left: 15%;
 }
+
 .banner {
     width: 100%;
 }
@@ -134,7 +125,7 @@ div.cont-section img {
 } 
 
 div.cont-section p {
-    font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
+    font-family: 'Forum', 'Cinzel', serif;
     font-size: 18px;
     font-variant: normal;
     margin: 1px 0 0 0;
@@ -152,6 +143,39 @@ div.cont-section p {
     float: left;
 }
 
+.letter {
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+}
+
 .london {
     vertical-align: middle;
 }
+
+.gallery{
+    display: inline-block;
+    width: 150px;
+    height: 200px;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
