@@ -22,6 +22,10 @@ body {
     margin: 0;
 }
 
+.navlist {
+    float: left;
+}
+
 .navlink {
     display: inline-block;
     color: white;
@@ -32,15 +36,10 @@ body {
     text-decoration: none;
 }
 
-.navlist {
-    float: left;
-}
-
 .main-content {
     background-color: #ffffff;
     padding: 0 10% 0 10%;
 }
-
 
 .home_logo {
     padding: 3px 45px;
@@ -65,10 +64,6 @@ img {
 
 li a:hover {
     background-color: #606162;
-}
-.nav {font-family: 'Forum', 'Cinzel',serif;
-    font-size: 22px;
-    text-align: center;
 }
 
 h1 {font-family: 'Playfair Display', serif;
@@ -99,7 +94,7 @@ h3 {
 }
 
 p {
-    font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
+    font-family: 'Forum', 'Cinzel', serif;
     font-size: 20px;
     font-style: normal;
     font-variant: normal;
@@ -132,7 +127,7 @@ div.cont-section img {
 } 
 
 div.cont-section p {
-    font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
+    font-family: 'Forum', 'Cinzel', serif;
     font-size: 18px;
     font-variant: normal;
     margin: 1px 0 0 0;
