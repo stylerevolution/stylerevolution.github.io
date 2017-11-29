@@ -154,7 +154,35 @@ div.cont-section p {
     float: left;
 }
 
+/*Glossary Home Page*/
+.glossary {
+    width: 630px; 
+    margin: 0;
+    padding: 0;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.textilegloss {
+    width: 310px;
+    height: 310px;
+    float: left;
+}
+
+.colorgloss {
+    width: 310px;
+    height: 310px;
+    margin-left: 320px;
+}
+
+.textilegloss, .colorgloss {
+    background-color: white;
+    text-align: center;
+    padding-top: 5px;
+}
+
 /* Glossaries*/
+
 .letter {
     text-align: center;
     font-size: 30px;
