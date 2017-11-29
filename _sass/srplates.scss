@@ -12,6 +12,42 @@ body {
 
 }
 
+h1 {font-family: 'Playfair Display', serif;
+    font-size: 46px;
+    color: #d61e40;
+    font-style: normal;
+    font-variant: normal;
+    text-align: center;
+    margin: 0px 0px 25px 0px;
+}
+h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 26px;
+    color: #d61e40;
+    font-style: normal;
+    font-variant: normal;
+    text-align: center;
+    padding-top: 25px;
+}
+
+h3 {
+    font-family: 'Forum', 'Cinzel', serif;
+    font-weight: bold;
+    font-size: 22px;
+    font-variant: normal;
+    margin: 1px 1px 1px 1px;
+
+}
+
+p {
+    font-family: 'Forum', 'Cinzel', serif;
+    font-size: 20px;
+    font-style: normal;
+    font-variant: normal;
+    padding: 5px;
+}
+
+/* Nav Bar*/
 .site-header {
     width: 100%;
     border-top: 0px;
@@ -74,42 +110,6 @@ li a:hover {
     text-decoration: none;
 }
 
-h1 {font-family: 'Playfair Display', serif;
-    font-size: 46px;
-    color: #d61e40;
-    font-style: normal;
-    font-variant: normal;
-    text-align: center;
-    margin: 0px 0px 25px 0px;
-}
-h2 {
-    font-family: 'Playfair Display', serif;
-    font-size: 26px;
-    color: #d61e40;
-    font-style: normal;
-    font-variant: normal;
-    text-align: center;
-    padding-top: 25px;
-}
-
-h3 {
-    font-family: 'Forum', 'Cinzel', serif;
-    font-weight: bold;
-    font-size: 22px;
-    font-variant: normal;
-    margin: 1px 1px 1px 1px;
-
-}
-
-p {
-    font-family: 'Forum', 'Cinzel', serif;
-    font-size: 20px;
-    font-style: normal;
-    font-variant: normal;
-    padding: 5px;
-}
-
-
 .about {
     text-align: center;
 }
@@ -154,6 +154,7 @@ div.cont-section p {
     float: left;
 }
 
+/* Glossaries*/
 .letter {
     text-align: center;
     font-size: 30px;
@@ -183,6 +184,8 @@ table {
     border-spacing: 5px;
 }
 
+/*Plate Gallery (with search?)*/
+
 .gallery-block {
     text-align: center
 }
@@ -195,6 +198,7 @@ table {
     float: none;
 }
 
+/*Individual Plate Pages*/
 .post-content {
     text-align: center;
 }
@@ -203,32 +207,27 @@ table {
     width: 810px; 
     margin: 0;
     padding: 0;
-    overflow: wrap;
     vertical-align: middle;
     display: inline-block;
-
 }
 
 .French {
     width: 400px;
     float: left;
-    background-color: white;
-    text-align: left;
 }
 
 .English {
     width: 400px;
     margin-left: 410px;
+}
+
+.French, .English {
     background-color: white;
     text-align: left;
+    padding-top: 5px;
 }
 
-@media (max-width: 600px) {
-    .description {
-        width: 100%;
-    }
-}
-
+/*Individual Projects*/
 
 .london {
     display: block;

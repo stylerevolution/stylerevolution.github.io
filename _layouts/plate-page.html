@@ -22,8 +22,8 @@ layout: page
 
 <table class="prevnext" width="100%" style="margin-bottom:30px;">
   <tr>
-    <td style="text-align:left;">{% if prevurl %}Previous: <a href="{{site.baseurl}}{{prevurl}}" class="prev">{{prevtitle}}</a>{% endif %}</td>
-    <td style="text-align:right;">{% if nexturl %}Next: <a href="{{site.baseurl}}{{nexturl}}" class="next">{{nexttitle}}</a>{% endif %}</td>
+    <td style="text-align:left;">{% if prevurl %}<a href="{{site.baseurl}}{{prevurl}}" class="prev">{{prevtitle}}</a>{% endif %}</td>
+    <td style="text-align:right;">{% if nexturl %}<a href="{{site.baseurl}}{{nexturl}}" class="next">{{nexttitle}}</a>{% endif %}</td>
   </tr>
 </table>
 
