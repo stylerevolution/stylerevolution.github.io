@@ -186,14 +186,19 @@ table {
 
 /*Plate Gallery (with search?)*/
 
+#gallerypage {
+    padding: 0;
+    margin: 0;
+}
+
 .gallery-block {
     text-align: center
 }
 
 .gallery {
     display: inline-block;
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     margin: auto;
     float: none;
 }
