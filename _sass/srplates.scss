@@ -154,7 +154,38 @@ div.cont-section p {
     float: left;
 }
 
+/*Glossary Home Page*/
+.glossary {
+    width: 630px; 
+    align-items: center;
+    justify-content: center; 
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+.textilegloss {
+    width: 310px;
+    height: 310px;
+    float: left;
+    margin-left: auto;
+}
+
+.colorgloss {
+    width: 310px;
+    height: 310px;
+    margin-left: 320px;
+    margin-right: auto;
+}
+
+.textilegloss, .colorgloss {
+    background-color: white;
+    text-align: center;
+    padding-top: 5px;
+}
+
 /* Glossaries*/
+
 .letter {
     text-align: center;
     font-size: 30px;
@@ -186,14 +217,19 @@ table {
 
 /*Plate Gallery (with search?)*/
 
+#gallerypage {
+    padding: 0;
+    margin: 0;
+}
+
 .gallery-block {
     text-align: center
 }
 
 .gallery {
     display: inline-block;
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     margin: auto;
     float: none;
 }
