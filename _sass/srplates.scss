@@ -70,6 +70,8 @@ img {
 
 li a:hover {
     background-color: #606162;
+    color: white;
+    text-decoration: none;
 }
 
 h1 {font-family: 'Playfair Display', serif;
@@ -91,7 +93,7 @@ h2 {
 }
 
 h3 {
-    font-family: 'Forum';
+    font-family: 'Forum', 'Cinzel', serif;
     font-weight: bold;
     font-size: 22px;
     font-variant: normal;
@@ -158,6 +160,7 @@ div.cont-section p {
     font-weight: bold;
 
 }
+
 .color-dic{
     float: left;
     font-family: 'Forum', 'Cinzel', serif;
@@ -172,20 +175,12 @@ div.cont-section p {
       padding-left: 20px;
 }
 
-
 #color {
     font-weight: bold;
 }
 
-
 table {
     border-spacing: 5px;
-}
-
-.london {
-    display: block;
-    margin: auto;
-    vertical-align: middle;
 }
 
 .gallery-block {
@@ -199,4 +194,20 @@ table {
     margin: auto;
     float: none;
 }
+
+.post-content {
+    text-align: center;
+}
+.description {
+    display: inline-block;
+    background-color: white;
+    float: left;
+}
+
+.london {
+    display: block;
+    margin: auto;
+    vertical-align: middle;
+}
+
 
