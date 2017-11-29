@@ -1,0 +1,7 @@
+language: ruby
+rvm:
+  - 2.4
+script:
+  - bundle exec jekyll build -d _site/srplates
+  - bundle exec htmlproofer ./_site --only-4xx --check-html --allow-hash-href --assume-extension --disable-external --empty-alt-ignore
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true

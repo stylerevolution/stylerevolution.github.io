@@ -1,5 +1,5 @@
 
-<script defer="true" src="{{ site.baseurl }}/osd/openseadragon.min.js"></script>
+<script defer="true" src="{{ site.baseurl }}/iiif_viewer/openseadragon/openseadragon.min.js"></script>
 <script>
 //<![CDATA[
 var iiif_viewerfuncs = [];
@@ -20,7 +20,7 @@ iiif_viewerfuncs.push(
     OpenSeadragon({
       id: "openseadragon{{ page.instancecounter }}",
       minZoomImageRatio: 1,
-      prefixUrl: "{{ site.baseurl }}/osd/images/",
+      prefixUrl: "{{ site.baseurl }}/iiif_viewer/openseadragon/images/",
       tileSources: "{{ site.baseurl }}/tiles/images/{{ page.iiif_image }}-1/info.json",
       crossOriginPolicy: false
     });
