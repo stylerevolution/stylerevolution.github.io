@@ -29,9 +29,12 @@ layout: page
 
 <article class="post">
   <div class="post-content">
-  	{% include iiif_image.html %}
+    {% include iiif_image.html %}
     <br><br>
     <p>
+      <b>Plate Name:</b> {{ page.name }}<br>
+      <b>Date:</b> {{ page._date }}<br>
+    <p hidden>
       <b>plate:</b> {{ page.plate }}<br>
       <b>an:</b> {{ page.an }}<br>
       <b>name:</b> {{ page.name }}<br>
@@ -45,4 +48,17 @@ layout: page
       <b>flag translation:</b> {{ page.flag_translation }}
     </p>
   </div>
+  <div class="description">
+    <b hidden>caption:</b> {{ page.caption }}<br>
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in viverra orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce tempor sem eu libero venenatis molestie. Curabitur vitae purus porttitor justo aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in viverra orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce tempor sem eu libero venenatis molestie. Curabitur vitae purus porttitor justo aliquet. 
+    </p>
+    
+    <b hidden>translation:</b> {{ page.translation }}<br>
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in viverra orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce tempor sem eu libero venenatis molestie. Curabitur vitae purus porttitor justo aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in viverra orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce tempor sem eu libero venenatis molestie. Curabitur vitae purus porttitor justo aliquet. 
+    </p>
+  </div>
+
+
 </article>
+</article>
+

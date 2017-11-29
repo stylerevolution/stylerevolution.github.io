@@ -5,10 +5,16 @@
 div {
     padding: 0;
 }
+
 body {
     background-color: #f1f1f1;
     margin: 0;
 
+}
+
+.site-header {
+    width: 100%;
+    border-top: 0px;
 }
 
 .nav {
@@ -16,25 +22,17 @@ body {
     font-size: 22px;
     text-align: center;
     margin: auto; 
-}
-
-.main-content {
-    background-color: #ffffff;
-    padding: 0 10% 0 10%;
-}
-
-ul {
     list-style-type: none;
     overflow: hidden;
     background-color: #717273;
     margin: 0;
 }
 
-li {
-    float: left; 
+.navlist {
+    float: left;
 }
 
-li a {
+.navlink {
     display: inline-block;
     color: white;
     text-align: center;
@@ -44,8 +42,13 @@ li a {
     text-decoration: none;
 }
 
+.main-content {
+    background-color: #ffffff;
+    padding: 0 10% 0 10%;
+}
+
 .home_logo {
-    padding: 3px 45px;
+    padding: 10px 45px;
     width:78px;
 }
 .logo {
@@ -67,10 +70,8 @@ img {
 
 li a:hover {
     background-color: #606162;
-}
-.nav {font-family: 'Forum', 'Cinzel',serif;
-    font-size: 22px;
-    text-align: center;
+    color: white;
+    text-decoration: none;
 }
 
 h1 {font-family: 'Playfair Display', serif;
@@ -92,7 +93,7 @@ h2 {
 }
 
 h3 {
-    font-family: 'Forum';
+    font-family: 'Forum', 'Cinzel', serif;
     font-weight: bold;
     font-size: 22px;
     font-variant: normal;
@@ -101,7 +102,7 @@ h3 {
 }
 
 p {
-    font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
+    font-family: 'Forum', 'Cinzel', serif;
     font-size: 20px;
     font-style: normal;
     font-variant: normal;
@@ -111,18 +112,19 @@ p {
 
 .about {
     text-align: center;
-    padding-right: 15%;
-    padding-left: 15%;
 }
+
 .banner {
     width: 100%;
 }
 
 div.cont-section {
     background-color: #fefefe;
-    padding-left: 10%;
-    padding-right: 10%;
-    margin: 0px 10% 0px 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: auto;
+    width: 700px;
+    vertical-align: middle;
 }
 
 div.cont-section img {
@@ -134,7 +136,7 @@ div.cont-section img {
 } 
 
 div.cont-section p {
-    font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
+    font-family: 'Forum', 'Cinzel', serif;
     font-size: 18px;
     font-variant: normal;
     margin: 1px 0 0 0;
@@ -151,3 +153,61 @@ div.cont-section p {
     margin-right: 15px;
     float: left;
 }
+
+.letter {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.color-dic{
+    float: left;
+    font-family: 'Forum', 'Cinzel', serif;
+    font-size: 18px;
+    width: 100%;
+}
+
+#colorimage {
+      height: 50px;
+      width: 50px;
+      border-style: none;
+      padding-left: 20px;
+}
+
+#color {
+    font-weight: bold;
+}
+
+table {
+    border-spacing: 5px;
+}
+
+.gallery-block {
+    text-align: center
+}
+
+.gallery {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    float: none;
+}
+
+.post-content {
+    text-align: center;
+}
+.description {
+    display: inline-block;
+    background-color: white;
+    float: left;
+}
+
+.london {
+    display: block;
+    margin: auto;
+    vertical-align: middle;
+}
+
+
