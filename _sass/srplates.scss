@@ -47,6 +47,10 @@ p {
     padding: 5px;
 }
 
+p.about {
+    text-align: center;
+}
+
 /* Nav Bar*/
 .site-header {
     width: 100%;
@@ -110,8 +114,30 @@ li a:hover {
     text-decoration: none;
 }
 
-.about {
+/*footer*/
+.foot {
+    font-family: 'Forum', 'Cinzel', serif;
+    font-size: 22px;
     text-align: center;
+    margin: auto; 
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #717273;
+    margin: 0;
+}
+
+.footlist {
+    float: left;
+}
+
+.footlink {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 45px;
+    border: none;
+    margin: none;
+    text-decoration: none;
 }
 
 .banner {
@@ -123,7 +149,7 @@ div.cont-section {
     padding-left: 5%;
     padding-right: 5%;
     margin: auto;
-    width: 700px;
+    width: 100%;
     vertical-align: middle;
 }
 
@@ -136,14 +162,13 @@ div.cont-section img {
 } 
 
 div.cont-section p {
-    font-family: 'Forum', 'Cinzel', serif;
+    font-family: 'Forum', 'Cinzel', 'Constantia', serif;
     font-size: 18px;
     font-variant: normal;
     margin: 1px 0 0 0;
 }
 
 .contributor {
-    
     padding: 20px;
     overflow: hidden;
 }
@@ -154,7 +179,38 @@ div.cont-section p {
     float: left;
 }
 
+/*Glossary Home Page*/
+.glossary {
+    width: 630px; 
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding-left: 50px;
+    display: inline-block;
+}
+
+.textilegloss {
+    width: 310px;
+    height: 310px;
+    float: left;
+    margin-left: auto;
+}
+
+.colorgloss {
+    width: 310px;
+    height: 310px;
+    margin-left: 320px;
+    margin-right: auto;
+}
+
+.textilegloss, .colorgloss {
+    background-color: white;
+    text-align: center;
+    padding-top: 5px;
+}
+
 /* Glossaries*/
+
 .letter {
     text-align: center;
     font-size: 30px;
@@ -186,14 +242,19 @@ table {
 
 /*Plate Gallery (with search?)*/
 
+#gallerypage {
+    padding: 0;
+    margin: 0;
+}
+
 .gallery-block {
     text-align: center
 }
 
 .gallery {
     display: inline-block;
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     margin: auto;
     float: none;
 }
@@ -235,4 +296,20 @@ table {
     vertical-align: middle;
 }
 
+.map {
+    vertical-align: middle;
+    margin: auto;
+    padding-left: 35%;
+    padding-right: 25%;
+}
 
+.map-link {
+    background-color: #E62E50;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    vertical-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+}
