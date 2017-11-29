@@ -157,9 +157,10 @@ div.cont-section p {
 /*Glossary Home Page*/
 .glossary {
     width: 630px; 
+    align-items: center;
+    justify-content: center; 
     margin: 0;
     padding: 0;
-    vertical-align: middle;
     display: inline-block;
 }
 
@@ -167,12 +168,14 @@ div.cont-section p {
     width: 310px;
     height: 310px;
     float: left;
+    margin-left: auto;
 }
 
 .colorgloss {
     width: 310px;
     height: 310px;
     margin-left: 320px;
+    margin-right: auto;
 }
 
 .textilegloss, .colorgloss {
