@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "/srplates/tiles/images/cp108-1",
+  "@id": "/tiles/images/cp108-1",
   "protocol": "http://iiif.io/api/image",
   "width": 1438,
   "height": 2000,

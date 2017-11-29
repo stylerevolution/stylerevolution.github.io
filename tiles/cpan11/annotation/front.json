@@ -1,19 +1,19 @@
 {
   "@type": "oa:Annotation",
-  "@id": "/srplates/tiles/cpan11/annotation/front.json",
+  "@id": "/tiles/cpan11/annotation/front.json",
   "motivation": "sc:painting",
   "resource": {
-    "@id": "/srplates/tiles/images/cpan11-1/full/full/0/default.jpg",
+    "@id": "/tiles/images/cpan11-1/full/full/0/default.jpg",
     "@type": "dcterms:Image",
     "format": "image/jpeg",
     "service": {
       "@context": "http://iiif.io/api/image/2/context.json",
-      "@id": "/srplates/tiles/images/cpan11-1",
+      "@id": "/tiles/images/cpan11-1",
       "profile": "http://iiif.io/api/image/2/level0.json"
     },
     "width": 1460,
     "height": 2000
   },
-  "on": "/srplates/tiles/cpan11/canvas/front.json",
+  "on": "/tiles/cpan11/canvas/front.json",
   "@context": "http://iiif.io/api/presentation/2/context.json"
 }

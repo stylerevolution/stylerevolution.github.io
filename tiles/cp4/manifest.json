@@ -1,41 +1,41 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "/srplates/tiles/cp4/manifest.json",
+  "@id": "/tiles/cp4/manifest.json",
   "@type": "sc:Manifest",
   "label": "style revolution plates - plates - cp4",
-  "thumbnail": "/srplates/tiles/images/cp4-1/full/187,/0/default.jpg",
+  "thumbnail": "/tiles/images/cp4-1/full/187,/0/default.jpg",
   "viewingDirection": "left-to-right",
   "viewingHint": "paged",
   "sequences": [
     {
-      "@id": "/srplates/tiles/cp4/sequence/default.json",
+      "@id": "/tiles/cp4/sequence/default.json",
       "@type": "sc:Sequence",
       "canvases": [
         {
           "@type": "sc:Canvas",
-          "@id": "/srplates/tiles/cp4/canvas/front.json",
+          "@id": "/tiles/cp4/canvas/front.json",
           "label": "front",
           "width": 1495,
           "height": 2000,
-          "thumbnail": "/srplates/tiles/images/cp4-1/full/187,/0/default.jpg",
+          "thumbnail": "/tiles/images/cp4-1/full/187,/0/default.jpg",
           "images": [
             {
               "@type": "oa:Annotation",
-              "@id": "/srplates/tiles/cp4/annotation/front.json",
+              "@id": "/tiles/cp4/annotation/front.json",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "/srplates/tiles/images/cp4-1/full/full/0/default.jpg",
+                "@id": "/tiles/images/cp4-1/full/full/0/default.jpg",
                 "@type": "dcterms:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "/srplates/tiles/images/cp4-1",
+                  "@id": "/tiles/images/cp4-1",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
                 "width": 1495,
                 "height": 2000
               },
-              "on": "/srplates/tiles/cp4/canvas/front.json"
+              "on": "/tiles/cp4/canvas/front.json"
             }
           ]
         }
