@@ -22,8 +22,8 @@ layout: page
 
 <table class="prevnext" width="100%" style="margin-bottom:30px;">
   <tr>
-    <td style="text-align:left;">{% if prevurl %}Previous: <a href="{{site.baseurl}}{{prevurl}}" class="prev">{{prevtitle}}</a>{% endif %}</td>
-    <td style="text-align:right;">{% if nexturl %}Next: <a href="{{site.baseurl}}{{nexturl}}" class="next">{{nexttitle}}</a>{% endif %}</td>
+    <td style="text-align:left;">{% if prevurl %}<a href="{{site.baseurl}}{{prevurl}}" class="prev">{{prevtitle}}</a>{% endif %}</td>
+    <td style="text-align:right;">{% if nexturl %}<a href="{{site.baseurl}}{{nexturl}}" class="next">{{nexttitle}}</a>{% endif %}</td>
   </tr>
 </table>
 
@@ -49,13 +49,17 @@ layout: page
     </p>
   </div>
   <div class="description">
-    <b hidden>caption:</b> {{ page.caption }}<br>
-    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in viverra orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce tempor sem eu libero venenatis molestie. Curabitur vitae purus porttitor justo aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in viverra orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce tempor sem eu libero venenatis molestie. Curabitur vitae purus porttitor justo aliquet. 
-    </p>
-    
+    <div class="French">
+      <b hidden>caption:</b> {{ page.caption }}<br>
+     <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in viverra orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce tempor sem eu libero venenatis molestie. Curabitur vitae purus porttitor justo aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in viverra orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce tempor sem eu libero venenatis molestie. Curabitur vitae purus porttitor justo aliquet. 
+      </p>
+      </div>
+    <div class="English">
     <b hidden>translation:</b> {{ page.translation }}<br>
     <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in viverra orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce tempor sem eu libero venenatis molestie. Curabitur vitae purus porttitor justo aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in viverra orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce tempor sem eu libero venenatis molestie. Curabitur vitae purus porttitor justo aliquet. 
     </p>
+    </div>
+    <div class="clear"></div>
   </div>
 
 
