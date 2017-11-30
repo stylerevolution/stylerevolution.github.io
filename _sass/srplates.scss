@@ -68,47 +68,11 @@ p.about {
     margin: 0;
 }
 
-.nav2 {
-    font-family: 'Forum', 'Cinzel', serif;
-    font-size: 22px;
-    text-align: center;
-    margin: auto; 
-    list-style-type: none;
-    overflow: hidden;
-    background-color: #717273;
-    margin: 0;
-}
-
-.nav2 {
-    font-family: 'Forum', 'Cinzel', serif;
-    font-size: 22px;
-    text-align: center;
-    margin: auto; 
-    list-style-type: none;
-    overflow: hidden;
-    background-color: #717273;
-    margin: 0;
-}
-
 .navlist {
     float: left;
 }
 
-.navlist2 {
-    float: left;
-}
-
 .navlink {
-    display: inline-block;
-    color: white;
-    text-align: center;
-    padding: 14px 45px;
-    border: none;
-    margin: none;
-    text-decoration: none;
-}
-
-.navlink2 {
     display: inline-block;
     color: white;
     text-align: center;
@@ -161,6 +125,8 @@ li a:hover {
     overflow: hidden;
     background-color: #717273;
     margin: 0;
+    bottom: 0;
+    width: 100%;
 }
 
 .navlisttwo {
@@ -186,8 +152,10 @@ li a:hover {
     margin: auto; 
     list-style-type: none;
     overflow: hidden;
-    background-color: #717273;
+    background-color: blue;
     margin: 0;
+    bottom: 0;
+    width: 100%;
 }
 
 .footlist {
