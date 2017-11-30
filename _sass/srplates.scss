@@ -119,7 +119,6 @@ p.about {
 .navtwo {
     font-family: 'Forum', 'Cinzel', serif;
     font-size: 22px;
-    text-align: center;
     margin: auto; 
     list-style-type: none;
     overflow: hidden;
@@ -127,22 +126,22 @@ p.about {
     margin: 0;
     bottom: 0;
     width: 100%;
+    text-align: justify;
 }
 
 .navlisttwo {
+    text-align: center;
     float: left;
-    padding-left: 100px;
-    padding-right: 100px;
+    text-align: justify;
 }
 
 .navlinktwo {
     display: inline-block;
     color: white;
-    text-align: center;
-    padding: 14px 45px;
-    border: none;
-    margin: none;
+    padding-top:14px; 
+    padding-bottom:14px;
     text-decoration: none;
+    text-align: justify;
 }
 
 .foot {
@@ -215,32 +214,31 @@ div.cont-section p {
 
 /*Glossary Home Page*/
 .glossary {
-    width: 630px; 
+    width: 810px; 
     align-items: center;
     justify-content: center;
     margin: 0;
-    padding-left: 50px;
     display: inline-block;
 }
 
 .textilegloss {
-    width: 310px;
-    height: 310px;
+    width: 400px;
+    height: 450px;
     float: left;
     margin-left: auto;
 }
 
 .colorgloss {
-    width: 310px;
-    height: 310px;
-    margin-left: 320px;
+    width: 400px;
+    height: 450px;
+    margin-left: 410px;
     margin-right: auto;
 }
 
 .textilegloss, .colorgloss {
     background-color: white;
     text-align: center;
-    padding-top: 5px;
+    padding-top: 0px;
 }
 
 /* Glossaries*/
@@ -275,8 +273,6 @@ table {
 }
 
 /*Plate Gallery (with search?)*/
-
-
 
 .gallery-block {
     text-align: center;
@@ -348,6 +344,10 @@ table {
     display: block;
     margin: auto;
     vertical-align: middle;
+}
+
+#map {
+    width: $spacing-unit 0;
 }
 
 .map {
