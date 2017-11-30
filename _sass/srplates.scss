@@ -245,7 +245,7 @@ div.cont-section p {
 
 .letter {
     text-align: center;
-    font-size: 30px;
+    font-size: 50px;
     font-weight: bold;
 
 }
@@ -269,8 +269,11 @@ div.cont-section p {
 }
 
 table {
-    border-spacing: 5px;
+    table-layout: fixed;
+
 }
+
+
 
 /*Plate Gallery (with search?)*/
 
