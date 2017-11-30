@@ -115,6 +115,34 @@ li a:hover {
 }
 
 /*footer*/
+
+.navtwo {
+    font-family: 'Forum', 'Cinzel', serif;
+    font-size: 22px;
+    text-align: center;
+    margin: auto; 
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #717273;
+    margin: 0;
+}
+
+.navlisttwo {
+    float: left;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.navlinktwo {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 45px;
+    border: none;
+    margin: none;
+    text-decoration: none;
+}
+
 .foot {
     font-family: 'Forum', 'Cinzel', serif;
     font-size: 22px;
@@ -257,6 +285,7 @@ table {
     height: 100px;
     margin: auto;
     float: none;
+    list-style-type: none;
 }
 
 /*Individual Plate Pages*/
