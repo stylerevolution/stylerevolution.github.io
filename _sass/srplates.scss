@@ -360,7 +360,7 @@ table {
     padding-right: 25%;
 }
 
-.fashionspots {
+.fashionspots, .jdmspots {
     position: left;
     margin: auto;
     width: 100%;
@@ -368,30 +368,31 @@ table {
     padding: 2%;
     background-color: white;
     display: inline-block;
-    text-align: left;
-    margin-bottom: 5%;
+    float: center;
+    margin-bottom: 2%;
 }
 
-.jdmspots {
-    position: left;
-    margin: auto;
-    width: 100%;
-    height: 50%px;
-    padding: 2%;
-    background-color: white;
-    display: inline-block;
-    text-align: right;
-    margin-bottom: 5%;
+.jdmspots img {
+    float: right;
+    margin: 15px;
 }
+
+.fashionspots img {
+    float: left;
+    margin: 15px;
+}
+
+
 
 .map-link {
-    background-color: darkgrey;
+    background-color: #717273;
     color: white;
-    padding: 14px 25px;
+    padding: 14px 50px;
     display: inline-block;
     text-align: center;
+    font-size: 22pt;
     vertical-align: center;
     text-decoration: none;
     display: inline-block;
-
+    font-family: 'Forum', 'Cinzel', serif;
 }
