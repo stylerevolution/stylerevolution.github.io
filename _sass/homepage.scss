@@ -1,0 +1,316 @@
+@charset "utf-8";
+
+// Make all changes not included in the minima.scss file here
+
+div {
+    padding: 0;
+}
+
+body {
+    background-color: #f1f1f1;
+    margin: 0;
+
+}
+
+h1 {font-family: 'Playfair Display', serif;
+    font-size: 46px;
+    color: #d61e40;
+    font-style: normal;
+    font-variant: normal;
+    text-align: center;
+    margin: 0px 0px 25px 0px;
+}
+h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 26px;
+    color: #d61e40;
+    font-style: normal;
+    font-variant: normal;
+    text-align: center;
+    padding-top: 25px;
+}
+
+h3 {
+    font-family: 'Forum', 'Cinzel', serif;
+    font-weight: bold;
+    font-size: 22px;
+    font-variant: normal;
+    margin: 1px 1px 1px 1px;
+
+}
+
+p {
+    font-family: 'Forum', 'Cinzel', serif;
+    font-size: 20px;
+    font-style: normal;
+    font-variant: normal;
+    padding: 5px;
+}
+
+p.about {
+    text-align: center;
+}
+
+/* Nav Bar*/
+.site-header {
+    width: 100%;
+    border-top: 0px;
+}
+
+.nav {
+    font-family: 'Forum', 'Cinzel', serif;
+    font-size: 22px;
+    text-align: center;
+    margin: auto; 
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #717273;
+    margin: 0;
+}
+
+.navlist {
+    float: left;
+}
+
+.navlink {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 45px;
+    border: none;
+    margin: none;
+    text-decoration: none;
+}
+
+.main-content {
+    background-color: #ffffff;
+    padding: 0 10% 0 10%;
+}
+
+.home_logo {
+    padding: 10px 45px;
+    width:78px;
+}
+.logo {
+    padding: 0px 
+}
+
+img { 
+    display: inline-block; 
+}
+
+.tile {
+    display: inline-block;
+    float: left;
+    }
+
+.tilesize { 
+    padding: 3px 3px 3px 3px;
+    width:350px;height:350px;
+}
+
+li a:hover {
+    background-color: #606162;
+    color: white;
+    text-decoration: none;
+}
+
+/*footer*/
+.foot {
+    font-family: 'Forum', 'Cinzel', serif;
+    font-size: 22px;
+    text-align: center;
+    margin: auto; 
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #717273;
+    margin: 0;
+}
+
+.footlist {
+    float: left;
+}
+
+.footlink {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 45px;
+    border: none;
+    margin: none;
+    text-decoration: none;
+}
+
+.banner {
+    width: 100%;
+}
+
+div.cont-section {
+    background-color: #fefefe;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: auto;
+    width: 100%;
+    vertical-align: middle;
+}
+
+div.cont-section img {
+    height: 100px; 
+    width: 100px;
+    margin: 4px 15px 10px 0px; 
+    border: 1px solid #000000;
+    float: left;
+} 
+
+div.cont-section p {
+    font-family: 'Forum', 'Cinzel', 'Constantia', serif;
+    font-size: 18px;
+    font-variant: normal;
+    margin: 1px 0 0 0;
+}
+
+.contributor {
+    padding: 20px;
+    overflow: hidden;
+}
+
+.contributor img {
+    width: 100px;
+    margin-right: 15px;
+    float: left;
+}
+
+/*Glossary Home Page*/
+.glossary {
+    width: 630px; 
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding-left: 50px;
+    display: inline-block;
+}
+
+.textilegloss {
+    width: 310px;
+    height: 310px;
+    float: left;
+    margin-left: auto;
+}
+
+.colorgloss {
+    width: 310px;
+    height: 310px;
+    margin-left: 320px;
+    margin-right: auto;
+}
+
+.textilegloss, .colorgloss {
+    background-color: white;
+    text-align: center;
+    padding-top: 5px;
+}
+
+/* Glossaries*/
+
+.letter {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.color-dic{
+    float: left;
+    font-family: 'Forum', 'Cinzel', serif;
+    font-size: 18px;
+    width: 100%;
+}
+
+#colorimage {
+      height: 50px;
+      width: 50px;
+      border-style: none;
+      padding-left: 20px;
+}
+
+#color {
+    font-weight: bold;
+}
+
+table {
+    border-spacing: 5px;
+}
+
+/*Plate Gallery (with search?)*/
+
+#gallerypage {
+    padding: 0;
+    margin: 0;
+}
+
+.gallery-block {
+    text-align: center
+}
+
+.gallery {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    float: none;
+}
+
+/*Individual Plate Pages*/
+.post-content {
+    text-align: center;
+}
+
+.description {
+    width: 810px; 
+    margin: 0;
+    padding: 0;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.French {
+    width: 400px;
+    float: left;
+}
+
+.English {
+    width: 400px;
+    margin-left: 410px;
+}
+
+.French, .English {
+    background-color: white;
+    text-align: left;
+    padding-top: 5px;
+}
+
+/*Individual Projects*/
+
+.london {
+    display: block;
+    margin: auto;
+    vertical-align: middle;
+}
+
+.map {
+    vertical-align: middle;
+    margin: auto;
+    padding-left: 35%;
+    padding-right: 25%;
+}
+
+.map-link {
+    background-color: #E62E50;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    vertical-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+}
