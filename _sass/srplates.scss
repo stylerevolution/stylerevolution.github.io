@@ -4,6 +4,7 @@
 
 div {
     padding: 0;
+    margin: 0;
 }
 
 body {
@@ -279,8 +280,15 @@ table {
 
 .gallery-block {
     text-align: center;
-    padding: 0;
     width: 100%;
+    background-color: #fefefe;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 4%
+}
+
+.gallery-section {
+    margin-left: 0;
 }
 
 .gallery {
