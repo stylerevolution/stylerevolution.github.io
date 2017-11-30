@@ -3,19 +3,19 @@ layout: default
 title: Plates
 author: Everyone
 ---
-<body id=gallerypage>
-<h1>Plates</h1>
 
+<h1>Plates</h1>
 
 <div class="gallery-block">
 <ul>
 
 {% for item in site.plates %}
 
-	<li class="gallery"><a href="{{site.baseurl}}{{item.url}}"><img src="{{site.baseurl}}/assets/thumbnails/{{item.plate}}.jpg" width="50%"></a></li>
+	<li class="gallery"><a href="{{site.baseurl}}{{item.url}}"><img class="galleryimage" src="{{site.baseurl}}/assets/thumbnails/{{item.plate}}.jpg"></a></li>
 
 
 {% endfor %}
 
 </ul>
 </div>
+

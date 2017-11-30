@@ -276,22 +276,24 @@ table {
 
 /*Plate Gallery (with search?)*/
 
-#gallerypage {
-    padding: 0;
-    margin: 0;
-}
+
 
 .gallery-block {
-    text-align: center
+    text-align: center;
+    padding: 0;
+    width: 100%;
 }
 
 .gallery {
     display: inline-block;
-    width: 100px;
-    height: 100px;
-    margin: auto;
     float: none;
     list-style-type: none;
+}
+
+.galleryimage {
+    display: inline-block;
+    width:110px;height:150px;
+    padding: 10px 0px 10px 10px;
 }
 
 .main-content {
