@@ -39,6 +39,12 @@ h3 {
 
 }
 
+li a:hover {
+    color: black;
+    color: white;
+    text-decoration: none;
+}
+
 p {
     font-family: 'Forum', 'Cinzel', serif;
     font-size: 20px;
@@ -82,11 +88,6 @@ p.about {
     text-decoration: none;
 }
 
-.main-content {
-    background-color: #ffffff;
-    padding: 0 10% 0 10%;
-}
-
 .home_logo {
     padding: 10px 45px;
     width:78px;
@@ -95,23 +96,22 @@ p.about {
     padding: 0px 
 }
 
-img { 
-    display: inline-block; 
+/*landing page*/
+
+.main-content {
+    background-color: #ffffff;
+    padding-left: 22%;
 }
+
 .tile {
     display: inline-block;
     float: left;
-    }
+}
 
 .tilesize { 
     padding: 3px 3px 3px 3px;
     width:350px;height:350px;
-}
-
-li a:hover {
-    background-color: #606162;
-    color: white;
-    text-decoration: none;
+    display: inline-block; 
 }
 
 /*footer*/
@@ -156,6 +156,8 @@ li a:hover {
     margin: 0;
     bottom: 0;
     width: 100%;
+    padding-bottom: 0;
+    border-bottom: 0;
 }
 
 .footlist {
@@ -291,6 +293,23 @@ table {
     float: none;
     list-style-type: none;
 }
+
+.main-content {
+    background-color: #ffffff;
+    padding-left: 22%;
+}
+
+.tile {
+    display: inline-block;
+    float: left;
+}
+
+.tilesize { 
+    padding: 3px 3px 3px 3px;
+    width:350px;height:350px;
+    display: inline-block; 
+}
+
 
 /*Individual Plate Pages*/
 .post-content {
