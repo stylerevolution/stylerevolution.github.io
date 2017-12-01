@@ -120,7 +120,7 @@ p.about {
 
 .navtwo {
     font-family: 'Forum', 'Cinzel', serif;
-    font-size: 22px;
+    font-size: 16px;
     margin: auto; 
     list-style-type: none;
     overflow: hidden;
@@ -142,8 +142,8 @@ p.about {
 .navlinktwo {
     display: inline-block;
     color: white;
-    padding-top:14px; 
-    padding-bottom:14px;
+    padding-top: 10px; 
+    padding-bottom:10px;
     padding-left: 40%;
     padding-right: 40%;
     text-decoration: none;
@@ -152,9 +152,6 @@ p.about {
 
 .foot {
     font-family: 'Forum', 'Cinzel', serif;
-    font-size: 22px;
-    text-align: center;
-    margin: auto; 
     list-style-type: none;
     overflow: hidden;
     background-color: #C4D8E2;
@@ -163,6 +160,7 @@ p.about {
     width: 100%;
     padding-bottom: 0;
     border-bottom: 0;
+    display: inline-block;
 
 }
 
@@ -174,11 +172,16 @@ p.about {
 .footlink {
     display: inline-block;
     color: white;
-    text-align: center;
     padding: 14px 45px;
     border: none;
     margin: none;
     text-decoration: none;
+}
+
+.copyright {
+    font-size: 10px;
+    color: black;
+    vertical-align: middle;
 }
 
 .banner {
@@ -218,6 +221,7 @@ div.cont-section p {
     margin-right: 15px;
     float: left;
 }
+
 
 /*Glossary Home Page*/
 .glossary {
