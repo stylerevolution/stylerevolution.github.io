@@ -262,6 +262,7 @@ div.cont-section p {
     font-family: 'Forum', 'Cinzel', serif;
     font-size: 18px;
     width: 100%;
+    table-layout: fixed;
 }
 
 #colorimage {
@@ -275,9 +276,15 @@ div.cont-section p {
     font-weight: bold;
 }
 
-table {
-    table-layout: fixed;
+.row-1 {
+    width: 15%;
+}
+.row-2 {
+    width: 25%;
+}
 
+.row-3 {
+    width: 60%;
 }
 
 
