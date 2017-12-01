@@ -127,13 +127,15 @@ p.about {
     margin: 0;
     bottom: 0;
     width: 100%;
-    text-align: justify;
+    display: flex;
+    justify-content: space-between;
 }
 
 .navlisttwo {
     text-align: center;
     float: left;
     text-align: justify;
+    width: 30%;
 }
 
 .navlinktwo {
@@ -141,6 +143,8 @@ p.about {
     color: white;
     padding-top:14px; 
     padding-bottom:14px;
+    padding-left: 40%;
+    padding-right: 40%;
     text-decoration: none;
     text-align: justify;
 }
@@ -152,16 +156,18 @@ p.about {
     margin: auto; 
     list-style-type: none;
     overflow: hidden;
-    background-color: blue;
+    background-color: #C4D8E2;
     margin: 0;
     bottom: 0;
     width: 100%;
     padding-bottom: 0;
     border-bottom: 0;
+
 }
 
 .footlist {
     float: left;
+    margin-left: 25%;
 }
 
 .footlink {
@@ -395,16 +401,15 @@ table {
 }
 
 
-
 .map-link {
     background-color: #717273;
     color: white;
     padding: 14px 50px;
     display: inline-block;
+    margin: auto;
     text-align: center;
     font-size: 22pt;
-    vertical-align: center;
     text-decoration: none;
-    display: inline-block;
+    left: 50%;
     font-family: 'Forum', 'Cinzel', serif;
 }
