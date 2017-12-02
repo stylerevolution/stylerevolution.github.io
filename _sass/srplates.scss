@@ -471,7 +471,8 @@ div.cont-section p {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     background-color: white;
     transition: 0.3s;
-    margin: 3px;
+    bottom-margin: 3px;
+    vertical-margin
     display: inline-block;
     height: 350px;
     padding: 1% 5px 10px 5px;
@@ -543,7 +544,7 @@ div.cont-section p {
 
 .timeline-event-icon { 
   background-color: black;
-  outline: 10px solid #d61e40;
+  outline: 5px solid #d61e40;
   display: block;
   margin: 0.5em 0.5em 0.5em -0.5em;
   position: absolute;
@@ -554,8 +555,8 @@ div.cont-section p {
 }
 
 .timeline-event-thumbnail {
-  color: #d61e40;
-  font-size: 0.75em;
+  color: white;
+  font-size: 0.95em;
   
   background-color: black;
   display: inline-block;
