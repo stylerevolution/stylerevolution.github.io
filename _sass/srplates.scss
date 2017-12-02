@@ -478,6 +478,11 @@ div.cont-section p {
     height: 350px;
     padding: 1% 5px 10px 5px;
     text-align: center;
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    max-width: 100%;
+    height: auto;
 }
 
 .cardtwo {
@@ -495,6 +500,42 @@ div.cont-section p {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
+.hvrbox-layer_bottom {
+    display: block;
+}
+.hvrbox-layer_top {
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    padding: 15px;
+    -moz-transition: all 0.4s ease-in-out 0s;
+    -webkit-transition: all 0.4s ease-in-out 0s;
+    -ms-transition: all 0.4s ease-in-out 0s;
+    transition: all 0.4s ease-in-out 0s;
+}
+.hvrbox:hover .hvrbox-layer_top,
+.hvrbox.active .hvrbox-layer_top {
+    opacity: 1;
+}
+.hvrbox-text {
+    text-align: center;
+    font-size: 18px;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -moz-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
 
 .timeline {
   margin: 4em auto;
