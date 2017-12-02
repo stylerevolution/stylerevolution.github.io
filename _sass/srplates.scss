@@ -458,10 +458,39 @@ div.cont-section p {
     padding: 2px 16px;
 }
 
+/* Media Queries */
+
+@mixin mq-xs {
+  @media (min-width: 320px) {
+    @content;
+  }
+}
+
+@mixin mq-sm {
+  @media (min-width: 480px) {
+    @content;
+  }
+}
+
+@mixin mq-md {
+  @media (min-width: 720px) {
+    @content;
+  }
+}
+
+@mixin mq-lg {
+  @media (min-width: 1000px) {
+    @content;
+  }
+}
+
+$background: #f7f7f7;
 $box-shadow: 0px 1px 22px 4px rgba(0, 0, 0, 0.07);
 $border: 1px solid rgba(191, 191, 191, 0.4);
 $items: 5;
 $rows: ceil($items/2);
+
+/* Card sizing */
 
 $card-height: 400px;
 $card-width: 450px;
@@ -470,11 +499,48 @@ $number-size: 35px;
 $stagger: 180px;
 $outer-margin: 90px;
 $marker-size: 9px;
+
+/* Colors */
+
+$steps: #46b8e9;
+$colors: #46b8e9,
+#3ee9d1,
+#ce43eb,
+#4d92eb;
+$timeline: #bdbdbd;
+
+/* Calculations */
+
 $container-height: $rows * ($card-height + $outer-margin) + $stagger;
 $container-width: $card-width*2 + $outer-margin*3;
 $head-height: $number-size + 50;
 $body-height: $card-height - $head-height;
 $marker-dist: $card-width + $outer-margin/2 - $marker-size/2;
+
+/* Placeholders */
+
+@include mq-lg {
+  %arrow {
+    position: absolute;
+    content: "";
+    width: 0;
+    height: 0;
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+  }
+  %marker {
+    position: absolute;
+    content: "";
+    width: $marker-size;
+    height: $marker-size;
+    background-color: $timeline;
+    border-radius: $marker-size;
+    box-shadow: 0px 0px 2px 8px $background;
+  }
+}
+
+
+/* Some Cool Stuff */
 
 $counter: $items - $rows + 2;
 @for $i from 1 through $rows {
@@ -483,8 +549,16 @@ $counter: $items - $rows + 2;
   $counter: $counter + 1;
 }
 
+/* Border Box */
+
 * {
   box-sizing: border-box;
+}
+
+/* Fonts */
+
+body {
+  font-family: Roboto;
 }
 
 #timeline {
@@ -561,13 +635,13 @@ $counter: $items - $rows + 2;
       }
       &:nth-child(even) {
         margin-left: $outer-margin/2;
-        .head::after {
+        .timeline-head::after {
           @extend %arrow;
           border-right-width: 15px;
           border-right-style: solid;
           right: 100%;
         }
-        .head::before {
+        .timeline-head::before {
           @extend %marker;
           right: $marker-dist - 1;
         }
@@ -576,7 +650,6 @@ $counter: $items - $rows + 2;
         margin-top: $stagger;
       }
     }
-
     .timeline-head {
       position: relative;
       display: flex;
