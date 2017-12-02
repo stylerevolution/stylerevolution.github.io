@@ -81,6 +81,7 @@ ul {
     width: 100%;
     display: flex;
     justify-content: space-between;
+    position: fixed;
 }
 
 .navlist {
@@ -95,6 +96,10 @@ ul {
     border: none;
     margin: none;
     text-decoration: none;
+}
+
+#navlanding {
+    position: static;
 }
 
 .home_logo {
