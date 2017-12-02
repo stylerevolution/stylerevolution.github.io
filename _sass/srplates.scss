@@ -448,10 +448,17 @@ div.cont-section p {
 
 /*Timeline*/
 
-.card-block {
-    margin-bottom: 2%;
+.timeline-cont-section{
+    background-color: #fefefe;
+    padding: 2%;
     margin: auto;
+    position: left;
+    width: 100%;
+    height: 50%;
+    display: inline-block;
     float: center;
+    margin-bottom: 2%;
+    vertical-align: middle;
 }
 
 .card {
