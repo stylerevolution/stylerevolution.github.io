@@ -149,7 +149,6 @@ ul {
 
 .navlisttwo {
     text-align: center;
-    float: left;
     text-align: justify;
     width: 33%;
 }
@@ -194,9 +193,9 @@ ul {
 }
 
 .copyright {
-    font-size: 10px;
-    color: black;
-    vertical-align: middle;
+    font-size: 18px;
+    color: #717273;
+    text-align: left;
 }
 
 .banner {
@@ -228,6 +227,7 @@ div.cont-section p {
 
 .contributor {
     padding: 20px;
+    overflow: hidden;
 }
 
 .contributor img {
@@ -465,7 +465,7 @@ div.cont-section p {
     display: inline-block;
     float: center;
     margin-bottom: 5%;
-    text-color: black;
+    z-index: 1;
 }
 
 .timeline-cont-section{
@@ -493,8 +493,7 @@ div.cont-section p {
     position: relative;
     overflow: hidden;
     max-width: 100%;
-    float: center;
-    position: absolute;
+    z-index: 1;
 }
 
 .cardtwo {
@@ -516,8 +515,6 @@ div.cont-section p {
     display: inline-block;
     height: 350px;
     width: 230px;
-    float: center;
-    position: absolute;
 
 }
 .hvrbox-layer_top {
@@ -532,8 +529,6 @@ div.cont-section p {
     background: rgba(0, 0, 0, 0.6);
     color: #fff;
     padding: 15px;
-    float: center;
-    position: absolute;
     -moz-transition: all 0.4s ease-in-out 0s;
     -webkit-transition: all 0.4s ease-in-out 0s;
     -ms-transition: all 0.4s ease-in-out 0s;
@@ -554,7 +549,6 @@ div.cont-section p {
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    float: center;
 }
 
 .timeline {
