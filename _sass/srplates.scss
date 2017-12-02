@@ -507,7 +507,8 @@ div.cont-section p {
     display: inline-block;
     overflow: hidden;
     max-width: 100%;
-    height: auto;
+    height: 350px;
+
 }
 .hvrbox img {
     max-width: 100%;
@@ -537,12 +538,12 @@ div.cont-section p {
     opacity: 1;
 }
 .hvrbox .hvrbox-text {
-    text-align: center;
-    font-size: 18px;
+    text-align: left;
+    font-size: 14px;
     display: inline-block;
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 10%;
+    left: 10%;
     -moz-transform: translate(-50%, -50%);
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
