@@ -479,10 +479,8 @@ div.cont-section p {
     padding: 1% 5px 10px 5px;
     text-align: center;
     position: relative;
-    display: inline-block;
     overflow: hidden;
     max-width: 100%;
-    height: auto;
 }
 
 .cardtwo {
@@ -501,7 +499,7 @@ div.cont-section p {
 }
 
 .hvrbox-layer_bottom {
-    display: block;
+    display: inline-block;
 }
 .hvrbox-layer_top {
     opacity: 0;
@@ -525,12 +523,12 @@ div.cont-section p {
     opacity: 1;
 }
 .hvrbox-text {
-    text-align: center;
-    font-size: 18px;
+    text-align: left;
+    font-size: 16px;
     display: inline-block;
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 40%;
+    left: 40%;
     -moz-transform: translate(-50%, -50%);
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
