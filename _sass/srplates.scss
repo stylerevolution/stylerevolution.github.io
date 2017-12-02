@@ -474,7 +474,6 @@ div.cont-section p {
     background-color: white;
     transition: 0.3s;
     margin: 1px;
-    margin-left: 1px;
     display: inline-block;
     height: 350px;
     width: 230px;
@@ -483,7 +482,7 @@ div.cont-section p {
     position: relative;
     overflow: hidden;
     max-width: 100%;
-    float: left;
+    float: center;
 }
 
 .cardtwo {
@@ -505,8 +504,7 @@ div.cont-section p {
     display: inline-block;
     height: 350px;
     width: 230px;
-    float: left;
-    margin-left: 1px;
+    float: center;
 
 }
 .hvrbox-layer_top {
@@ -521,8 +519,7 @@ div.cont-section p {
     background: rgba(0, 0, 0, 0.6);
     color: #fff;
     padding: 15px;
-    float: left;
-     margin-left: 1px;
+    float: center;
     -moz-transition: all 0.4s ease-in-out 0s;
     -webkit-transition: all 0.4s ease-in-out 0s;
     -ms-transition: all 0.4s ease-in-out 0s;
@@ -543,17 +540,7 @@ div.cont-section p {
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    float: left;
-}
-
-#middle-card{
-    margin-left: 1px;
-    float: left;
-}
-
-#right-card{
-    margin-left:238px;
-    float: left;
+    float: center;
 }
 
 .timeline {
