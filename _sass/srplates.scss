@@ -479,10 +479,8 @@ div.cont-section p {
     padding: 1% 5px 10px 5px;
     text-align: center;
     position: relative;
-    display: inline-block;
     overflow: hidden;
     max-width: 100%;
-    height: auto;
 }
 
 .cardtwo {
@@ -501,7 +499,7 @@ div.cont-section p {
 }
 
 .hvrbox-layer_bottom {
-    display: block;
+    display: inline-block;
 }
 .hvrbox-layer_top {
     opacity: 0;
@@ -525,7 +523,7 @@ div.cont-section p {
     opacity: 1;
 }
 .hvrbox-text {
-    text-align: center;
+    text-align: left;
     font-size: 18px;
     display: inline-block;
     position: absolute;
