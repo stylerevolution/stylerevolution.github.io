@@ -476,26 +476,6 @@ $head-height: $number-size + 50;
 $body-height: $card-height - $head-height;
 $marker-dist: $card-width + $outer-margin/2 - $marker-size/2;
 
-@include mq-lg {
-  %arrow {
-    position: absolute;
-    content: "";
-    width: 0;
-    height: 0;
-    border-top: 15px solid transparent;
-    border-bottom: 15px solid transparent;
-  }
-  %marker {
-    position: absolute;
-    content: "";
-    width: $marker-size;
-    height: $marker-size;
-    background-color: $timeline;
-    border-radius: $marker-size;
-    box-shadow: 0px 0px 2px 8px $background;
-  }
-}
-
 $counter: $items - $rows + 2;
 @for $i from 1 through $rows {
   .timeline-card:nth-child(#{$i*2-1})   { order: $i }
