@@ -465,7 +465,6 @@ div.cont-section p {
     display: inline-block;
     float: center;
     margin-bottom: 5%;
-    z-index: 1;
 }
 
 .timeline-cont-section{
@@ -484,7 +483,7 @@ div.cont-section p {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     background-color: white;
     transition: 0.3s;
-    margin: 1px;
+    margin: auto;
     display: inline-block;
     height: 350px;
     width: 230px;
@@ -492,8 +491,14 @@ div.cont-section p {
     text-align: center;
     position: relative;
     overflow: hidden;
-    max-width: 100%;
+    max-width: 230px;
     z-index: 1;
+}
+
+div.hvrbox{
+    max-width: 245px;
+    display: inline-block;
+    float: left;
 }
 
 .cardtwo {
