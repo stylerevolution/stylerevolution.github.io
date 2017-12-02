@@ -149,7 +149,6 @@ ul {
 
 .navlisttwo {
     text-align: center;
-    float: left;
     text-align: justify;
     width: 33%;
 }
@@ -194,9 +193,9 @@ ul {
 }
 
 .copyright {
-    font-size: 10px;
-    color: black;
-    vertical-align: middle;
+    font-size: 18px;
+    color: #717273;
+    text-align: left;
 }
 
 .banner {
@@ -228,6 +227,7 @@ div.cont-section p {
 
 .contributor {
     padding: 20px;
+    overflow: hidden;
 }
 
 .contributor img {
