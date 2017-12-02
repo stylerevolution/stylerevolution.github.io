@@ -479,11 +479,24 @@ div.cont-section p {
     text-align: center;
 }
 
+.cardtwo {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background-color: white;
+    transition: 0.3s;
+    margin: 1px;
+    display: inline-block;
+    height: 350px;
+    padding: 1% 5px 10px 5px;
+    text-align: center;
+}
+
 .card:hover {
+    opacity: 0.2;
+    filter: alpha(opacity=20);
+}
+
+.cardtwo:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-    background: black;
-    opacity: 0.3;
-    filter: alpha(opacity=30);
 }
 
 .container {
