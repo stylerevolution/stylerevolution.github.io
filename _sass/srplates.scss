@@ -435,7 +435,9 @@ div.cont-section p {
 /*Timeline*/
 
 .card-block {
-    margin-bottom: 5px;
+    margin-bottom: 2%;
+    margin: auto;
+    float: center;
 }
 
 .card {
@@ -443,7 +445,6 @@ div.cont-section p {
     transition: 0.3s;
     margin: 1px;
     display: inline-block;
-    float: left;
     height: 350px;
     padding: 1% 5px 10px 5px;
     text-align: center;
@@ -456,6 +457,7 @@ div.cont-section p {
 .container {
     padding: 2px 16px;
 }
+
 /*Corsets*/
 
 .corsets{
