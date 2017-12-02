@@ -469,6 +469,7 @@ div.cont-section p {
 
 .card {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    color: white;
     transition: 0.3s;
     margin: 1px;
     display: inline-block;
@@ -483,7 +484,6 @@ div.cont-section p {
 
 .container {
     padding: 2px 16px;
-    background-color: white;
 }
 
 $color-1: black;
