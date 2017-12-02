@@ -78,7 +78,9 @@ ul {
     list-style-type: none;
     overflow: hidden;
     background-color: #717273;
-    margin: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
 }
 
 .navlist {
