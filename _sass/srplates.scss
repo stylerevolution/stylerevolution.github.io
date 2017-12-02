@@ -381,9 +381,6 @@ div.cont-section p {
     vertical-align: middle;
 }
 
-#map {
-    width: $spacing-unit 0;
-}
 
 .map {
     vertical-align: middle;
@@ -420,9 +417,10 @@ div.cont-section p {
 
 
 .map-link {
+    width: 100%;
     background-color: #717273;
     color: white;
-    padding: 14px 50px;
+    padding: 14px 5px;
     display: inline-block;
     margin: auto;
     text-align: center;
@@ -495,7 +493,7 @@ div.cont-section p {
     filter: alpha(opacity=20);
 }
 
-. card:hover .hvrbox-text:hover {
+.card:hover .hvrbox-text:hover {
     text-align: center;
     font-size: 18px;
     display: inline-block;
