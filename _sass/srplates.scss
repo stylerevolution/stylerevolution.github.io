@@ -505,6 +505,15 @@ div.cont-section p {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
+.hvrbx{
+    box-sizing: border-box;
+    position: relative;
+    display: inline-block;
+    max-width: 230px;
+    float: left;
+    z-index: 1;
+}
+
 .hvrbox-layer_bottom {
     display: inline-block;
     height: 350px;
