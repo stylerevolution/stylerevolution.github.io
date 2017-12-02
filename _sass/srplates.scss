@@ -483,6 +483,7 @@ div.cont-section p {
     overflow: hidden;
     max-width: 100%;
     float: center;
+    position: absolute;
 }
 
 .cardtwo {
@@ -505,6 +506,7 @@ div.cont-section p {
     height: 350px;
     width: 230px;
     float: center;
+    position: absolute;
 
 }
 .hvrbox-layer_top {
@@ -520,6 +522,7 @@ div.cont-section p {
     color: #fff;
     padding: 15px;
     float: center;
+    position: absolute;
     -moz-transition: all 0.4s ease-in-out 0s;
     -webkit-transition: all 0.4s ease-in-out 0s;
     -ms-transition: all 0.4s ease-in-out 0s;
