@@ -495,6 +495,19 @@ div.cont-section p {
     filter: alpha(opacity=20);
 }
 
+.hvrbox .hvrbox-text {
+    text-align: center;
+    font-size: 18px;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -moz-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
 .cardtwo:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
