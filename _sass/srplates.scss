@@ -470,6 +470,10 @@ $container-width: $card-width*2 + $outer-margin*3;
 $head-height: $number-size + 50;
 $body-height: $card-height - $head-height;
 $marker-dist: $card-width + $outer-margin/2 - $marker-size/2;
+$box-shadow: 0px 1px 22px 4px rgba(0, 0, 0, 0.07);
+$border: 1px solid rgba(191, 191, 191, 0.4);
+$items: 5;
+$rows: ceil($items/2);
 
 @include mq-lg {
   %arrow {
@@ -591,7 +595,7 @@ $counter: $items - $rows + 2;
         margin-top: $stagger;
       }
     }
-    
+
     .timeline-head {
       position: relative;
       display: flex;
