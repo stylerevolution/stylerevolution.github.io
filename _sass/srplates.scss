@@ -437,7 +437,6 @@ div.cont-section p {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
     margin: auto;
-    display: table-cell;
     padding: 1% 5px 10px 5px;
     text-align: center;
 }
@@ -450,9 +449,4 @@ div.cont-section p {
 /* Add some padding inside the card container */
 .container {
     padding: 2px 16px;
-}
-
-.card-container {
-    display: table;
-    width: 100%
 }
