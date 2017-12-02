@@ -492,7 +492,7 @@ div.cont-section p {
   max-width: 46em;
   
   &:before {
-    background-color: black;
+    background-color: #717273;
     content: '';
     margin-left: -1px;
     position: absolute;
@@ -543,7 +543,7 @@ div.cont-section p {
 }
 
 .timeline-event-icon { 
-  background-color: black;
+  background-color: #717273;
   outline: 10px solid #d61e40;
   display: block;
   margin: 0.5em 0.5em 0.5em -0.5em;
@@ -558,7 +558,7 @@ div.cont-section p {
   color: white;
   font-size: 0.95em;
   
-  background-color: black;
+  background-color: #717273;
   display: inline-block;
   margin-bottom: 1.2em;
   padding: 0.25em 1em 0.2em 1em;
