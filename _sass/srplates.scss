@@ -478,6 +478,11 @@ div.cont-section p {
     height: 350px;
     padding: 1% 5px 10px 5px;
     text-align: center;
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    max-width: 100%;
+    height: auto;
 }
 
 .cardtwo {
@@ -495,24 +500,10 @@ div.cont-section p {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
-.hvrbox,
-.hvrbox * {
-    box-sizing: border-box;
-}
-.hvrbox {
-    position: relative;
-    display: inline-block;
-    overflow: hidden;
-    max-width: 100%;
-    height: auto;
-}
-.hvrbox img {
-    max-width: 100%;
-}
-.hvrbox .hvrbox-layer_bottom {
+.hvrbox-layer_bottom {
     display: block;
 }
-.hvrbox .hvrbox-layer_top {
+.hvrbox-layer_top {
     opacity: 0;
     position: absolute;
     top: 0;
@@ -533,7 +524,7 @@ div.cont-section p {
 .hvrbox.active .hvrbox-layer_top {
     opacity: 1;
 }
-.hvrbox .hvrbox-text {
+.hvrbox-text {
     text-align: center;
     font-size: 18px;
     display: inline-block;
@@ -544,17 +535,6 @@ div.cont-section p {
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-}
-.hvrbox .hvrbox-text_mobile {
-    font-size: 15px;
-    border-top: 1px solid rgb(179, 179, 179); /* for old browsers */
-    border-top: 1px solid rgba(179, 179, 179, 0.7);
-    margin-top: 5px;
-    padding-top: 2px;
-    display: none;
-}
-.hvrbox.active .hvrbox-text_mobile {
-    display: block;
 }
 
 .timeline {
