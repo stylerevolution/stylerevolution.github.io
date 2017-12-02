@@ -485,10 +485,6 @@ body {
   letter-spacing: 0.05em;
 }
 
-* {
-  @include box-sizing(border-box);
-}
-
 .timeline {
   margin: 4em auto;
   position: relative;
