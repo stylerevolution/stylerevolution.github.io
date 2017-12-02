@@ -471,7 +471,7 @@ div.cont-section p {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     background-color: white;
     transition: 0.3s;
-    margin: 1px;
+    margin: 3px;
     display: inline-block;
     height: 350px;
     padding: 1% 5px 10px 5px;
@@ -486,26 +486,13 @@ div.cont-section p {
     padding: 2px 16px;
 }
 
-$color-1: black;
-$color-2: white;
-$color-3: rgb(168, 50, 121);
-
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,700);
-body {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 1em;
-  font-weight: 300;
-  line-height: 1.5;
-  letter-spacing: 0.05em;
-}
-
 .timeline {
   margin: 4em auto;
   position: relative;
   max-width: 46em;
   
   &:before {
-    background-color: $color-1;
+    background-color: black;
     content: '';
     margin-left: -1px;
     position: absolute;
@@ -522,7 +509,7 @@ body {
   &:hover {
   
     .timeline-event-icon {
-      background-color: $color-3;
+      background-color: #d61e40;
     }
     
     .timeline-event-thumbnail {}
@@ -555,8 +542,8 @@ body {
 }
 
 .timeline-event-icon { 
-  background-color: $color-1;
-  outline: 10px solid $color-2;
+  background-color: black;
+  outline: 10px solid #d61e40;
   display: block;
   margin: 0.5em 0.5em 0.5em -0.5em;
   position: absolute;
@@ -567,10 +554,10 @@ body {
 }
 
 .timeline-event-thumbnail {
-  color: $color-2;
+  color: #d61e40;
   font-size: 0.75em;
   
-  background-color: $color-1;
+  background-color: black;
   display: inline-block;
   margin-bottom: 1.2em;
   padding: 0.25em 1em 0.2em 1em;
