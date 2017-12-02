@@ -448,6 +448,13 @@ div.cont-section p {
 
 /*Timeline*/
 
+.card-block{
+    margin: auto;
+    display: inline-block;
+    float: center;
+    margin-bottom: 2%;
+}
+
 .timeline-cont-section{
     background-color: #fefefe;
     margin: auto;
@@ -476,6 +483,7 @@ div.cont-section p {
 
 .container {
     padding: 2px 16px;
+    background-color: white;
 }
 
 $color-1: black;
