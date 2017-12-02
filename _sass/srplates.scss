@@ -507,6 +507,8 @@ div.cont-section p {
 
 .hvrbox-layer_bottom {
     display: inline-block;
+    height: 350px;
+    width: 230px;
 }
 .hvrbox-layer_top {
     opacity: 0;
@@ -515,7 +517,7 @@ div.cont-section p {
     left: 0;
     right: 0;
     bottom: 0;
-    width: 250px;
+    width: 230px;
     height: 350px;
     background: rgba(0, 0, 0, 0.6);
     color: #fff;
@@ -534,7 +536,7 @@ div.cont-section p {
     font-size: 16px;
     display: inline-block;
     position: absolute;
-    top: 60%;
+    top: 25%;
     left: 40%;
     -moz-transform: translate(-50%, -50%);
     -webkit-transform: translate(-50%, -50%);
