@@ -495,7 +495,7 @@ div.cont-section p {
     filter: alpha(opacity=20);
 }
 
-.hvrbox .hvrbox-text {
+.hvrbox-text:hover {
     text-align: center;
     font-size: 18px;
     display: inline-block;
