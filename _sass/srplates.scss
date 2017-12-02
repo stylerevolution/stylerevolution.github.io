@@ -81,6 +81,7 @@ ul {
     width: 100%;
     display: flex;
     justify-content: space-between;
+    position: fixed;
 }
 
 .navlist {
@@ -95,6 +96,10 @@ ul {
     border: none;
     margin: none;
     text-decoration: none;
+}
+
+#navlanding {
+    position: static;
 }
 
 .home_logo {
@@ -482,7 +487,8 @@ div.cont-section p {
     position: relative;
     overflow: hidden;
     max-width: 100%;
-    float: left;
+    float: center;
+    position: absolute;
 }
 
 .cardtwo {
@@ -504,7 +510,9 @@ div.cont-section p {
     display: inline-block;
     height: 350px;
     width: 230px;
-    float: left;
+    float: center;
+    position: absolute;
+
 }
 .hvrbox-layer_top {
     opacity: 0;
@@ -518,7 +526,8 @@ div.cont-section p {
     background: rgba(0, 0, 0, 0.6);
     color: #fff;
     padding: 15px;
-    float: left;
+    float: center;
+    position: absolute;
     -moz-transition: all 0.4s ease-in-out 0s;
     -webkit-transition: all 0.4s ease-in-out 0s;
     -ms-transition: all 0.4s ease-in-out 0s;
@@ -539,7 +548,7 @@ div.cont-section p {
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    float: left;
+    float: center;
 }
 
 .timeline {
