@@ -540,10 +540,7 @@ body {
   }
 }
 
-.timeline-event-icon {
-  @include transition(transform 0.2s ease-in);
-  @include rotate (45deg);
-  
+.timeline-event-icon { 
   background-color: $color-1;
   outline: 10px solid $color-2;
   display: block;
@@ -556,12 +553,10 @@ body {
 }
 
 .timeline-event-thumbnail {
-  @include transition(box-shadow 0.5s ease-in 0.1s);
   color: $color-2;
   font-size: 0.75em;
   
   background-color: $color-1;
-  @include box-shadow(inset 0 0 0 0em #ef795a);
   display: inline-block;
   margin-bottom: 1.2em;
   padding: 0.25em 1em 0.2em 1em;
