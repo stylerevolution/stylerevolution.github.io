@@ -226,6 +226,8 @@ div.cont-section p {
     width: 100px;
     margin-right: 15px;
     float: left;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
 }
 
 
@@ -452,7 +454,7 @@ div.cont-section p {
 }
 /*Corsets*/
 
-.corsets {
+.corsets{
     position: left;
     margin: auto;
     width: 100%;
