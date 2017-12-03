@@ -199,6 +199,26 @@ ul {
     text-align: left;
 }
 
+.columbia-info {
+    color: #717273;
+    font-size: 10px;
+    text-align: left;
+    display: inline-block;
+}
+
+.morgan-info {
+    color: #717273;
+    font-size: 10px;
+    text-align: left;
+    display: inline-block;
+}
+
+.columbia-logo {
+    height: auto;
+    width: 2px;
+    float: left;
+}
+
 .banner {
     width: 100%;
 }
@@ -461,6 +481,11 @@ div.cont-section p {
 
 /*Timeline*/
 
+div.timeline-page{
+    position: relative;
+    z-index: 0;
+}
+
 .card-block{
     margin: auto;
     display: inline-block;
@@ -487,7 +512,7 @@ div.cont-section p {
     margin: auto;
     display: inline-block;
     height: 350px;
-    width: 230px;
+    width: 231px;
     padding: 1% 5px 10px 5px;
     text-align: center;
     position: relative;
@@ -497,7 +522,8 @@ div.cont-section p {
 }
 
 div.hvrbox{
-    max-width: 245px;
+    width: 92%;
+    max-width: 246px;
     display: inline-block;
     float: left;
 }
@@ -520,7 +546,7 @@ div.hvrbox{
 .hvrbox-layer_bottom {
     display: inline-block;
     height: 350px;
-    width: 230px;
+    width: 231px;
 
 }
 .hvrbox-layer_top {
@@ -530,7 +556,7 @@ div.hvrbox{
     left: 0;
     right: 0;
     bottom: 0;
-    width: 230px;
+    width: 231px;
     height: 350px;
     background: rgba(0, 0, 0, 0.6);
     color: #fff;
