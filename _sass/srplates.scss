@@ -124,12 +124,29 @@ ul {
 .tile {
     display: inline-block;
     float: left;
+    text-align: center;
+    position: relative;
+    font-family: 'Forum', 'Cinzel', serif;
+    font-size: 18px;
+    color: #717273;
 }
 
 .tilesize { 
     padding: 3px 3px 3px 3px;
     width:250px;height:250px;
     display: inline-block; 
+}
+
+.tiletext-br {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+
+.tiletext-tl {
+    position:absolute;
+    top: 8px;
+    left: 16px;
 }
 
 /*footer*/
@@ -575,6 +592,7 @@ div.hvrbox{
     -ms-transform: translateY(100%);
     transform: translateY(100%);
 }
+
 .hvrbox:hover .hvrbox-layer_slideup,
 .hvrbox.active .hvrbox-layer_slideup {
     -moz-transform: translateY(0);
@@ -587,6 +605,7 @@ div.hvrbox{
 .hvrbox.active .hvrbox-layer_top {
     opacity: 1;
 }
+
 .hvrbox-text {
     text-align: left;
     font-size: 14px;
@@ -668,7 +687,6 @@ div.hvrbox{
 .timeline-event-thumbnail {
   color: white;
   font-size: 0.95em;
-  
   background-color: #717273;
   display: inline-block;
   margin-bottom: 1.2em;
