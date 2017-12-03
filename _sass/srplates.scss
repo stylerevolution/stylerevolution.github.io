@@ -65,7 +65,7 @@ ul {
 }
 
 /* Nav Bar*/
-.site-header {
+..site-header {
     width: 100%;
     border-top: 0px;
 }
@@ -76,7 +76,6 @@ ul {
     text-align: center;
     margin: auto; 
     list-style-type: none;
-    overflow: hidden;
     background-color: #717273;
     width: 100%;
     display: flex;
@@ -87,6 +86,40 @@ ul {
 
 .navlist {
     float: left;
+    position: relative;
+}
+
+.navlist ul {
+    display: none;
+    position: absolute;
+    background-color: #717273;
+    border: none;
+    padding-left: -40px;
+    -moz-padding-start: 0;
+    -webkit-padding-start: 0;
+    -khtml-padding-start: 0;
+    -o-padding-start: 0;
+    padding-start: 0;
+    padding: 0;
+}
+
+li.navlist:hover ul{
+    display: block;
+}
+
+.navlist ul li {
+    width: 280px;
+}
+
+.navlist ul li a {
+    padding: 8px 14px;
+    display: block;
+    color: white;
+    text-decoration: none;
+}
+
+.navlist ul li a:hover {
+    color: #d61e40;
 }
 
 .navlink {
