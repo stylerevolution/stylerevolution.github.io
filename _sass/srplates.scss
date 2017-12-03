@@ -262,24 +262,25 @@ div.cont-section p {
 
 /*Glossary Home Page*/
 .glossary {
-    width: 810px; 
+    width: 100%; 
     align-items: center;
     justify-content: center;
-    margin: 0;
+    margin: auto;
     display: inline-block;
+    float: left;
 }
 
 .textilegloss {
-    width: 400px;
+    width: 48%;
     height: 450px;
     float: left;
     margin-left: auto;
 }
 
 .colorgloss {
-    width: 400px;
+    width: 48%;
     height: 450px;
-    margin-left: 410px;
+    margin-left: 54%;
     margin-right: auto;
 }
 
