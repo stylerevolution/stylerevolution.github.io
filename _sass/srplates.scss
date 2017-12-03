@@ -316,6 +316,12 @@ div.cont-section p {
     font-weight: bold;
 }
 
+#textile {
+    font-weight: bold;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
 .row-1 {
     width: 15%;
 }
@@ -479,7 +485,6 @@ div.cont-section p {
     display: inline-block;
     float: center;
     margin-bottom: 5%;
-    text-color: black;
 }
 
 .timeline-cont-section{
@@ -498,16 +503,23 @@ div.cont-section p {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     background-color: white;
     transition: 0.3s;
-    margin: 1px;
+    margin: auto;
     display: inline-block;
     height: 350px;
-    width: 230px;
+    width: 231px;
     padding: 1% 5px 10px 5px;
     text-align: center;
     position: relative;
     overflow: hidden;
-    max-width: 100%;
+    max-width: 230px;
     z-index: 1;
+}
+
+div.hvrbox{
+    width: 92%;
+    max-width: 247px;
+    display: inline-block;
+    float: left;
 }
 
 .cardtwo {
@@ -528,7 +540,7 @@ div.cont-section p {
 .hvrbox-layer_bottom {
     display: inline-block;
     height: 350px;
-    width: 230px;
+    width: 231px;
 
 }
 .hvrbox-layer_top {
@@ -538,7 +550,7 @@ div.cont-section p {
     left: 0;
     right: 0;
     bottom: 0;
-    width: 230px;
+    width: 231px;
     height: 350px;
     background: rgba(0, 0, 0, 0.6);
     color: #fff;
