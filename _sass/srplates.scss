@@ -480,6 +480,11 @@ div.cont-section p {
 
 /*Timeline*/
 
+div.timeline-page{
+    position: relative;
+    z-index: 1;
+}
+
 .card-block{
     margin: auto;
     display: inline-block;
