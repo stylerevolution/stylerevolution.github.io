@@ -120,16 +120,16 @@ ul {
     padding-left: 5%;
     padding-right: 5%;
     display: inline-block;
-    float: left;
+    text-align: center;
 }
 
 .tile {
     display: inline-block;
-    float: left;
     text-align: left;
     position: relative;
     font-family: 'Forum', 'Cinzel', serif;
     font-size: 20px;
+    font-weight: bold;
     max-width: 250px;
     margin: 3px;
 
