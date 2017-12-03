@@ -129,13 +129,13 @@ ul {
     text-align: left;
     position: relative;
     font-family: 'Forum', 'Cinzel', serif;
-    font-size: 28px;
+    font-size: 20px;
     max-width: 250px;
     margin: 3px;
 
     &:hover {
         .tiletext-br {
-            background: rgba(113, 114, 115, 0.8);
+            background: rgba(238, 34, 72, 0.8);
         }
     }
 }
@@ -151,9 +151,9 @@ ul {
     position: absolute;
     bottom: 8px;
     left: 8px;
-    background: rgba(113, 114, 115, 0.5);
+    background: rgba(113, 114, 115, 0.4);
     color: white;
-    width: 87%;
+    width: 220px;
     padding: 10px;
 }
 
