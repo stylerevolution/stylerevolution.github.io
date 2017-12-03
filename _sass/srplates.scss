@@ -389,21 +389,21 @@ div.cont-section p {
 }
 
 .description {
-    width: 810px; 
-    margin: 0;
-    padding: 0;
-    vertical-align: middle;
+    width: 100%; 
     display: inline-block;
+    margin: auto;
+    padding: 0;
+    
 }
 
 .French {
-    width: 400px;
+    width: 49%;
     float: left;
 }
 
 .English {
-    width: 400px;
-    margin-left: 410px;
+    width: 49%;
+    margin-left: 52%;
 }
 
 .French, .English {
