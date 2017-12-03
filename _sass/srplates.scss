@@ -135,7 +135,7 @@ ul {
 
     &:hover {
         .tiletext-br {
-            background: rgba(238, 34, 72, 0.8);
+            background: rgba(113, 114, 115, 0.8);
         }
     }
 }
@@ -149,17 +149,12 @@ ul {
 
 .tiletext-br {
     position: absolute;
-    bottom: 0;
-    background: rgba(238, 34, 72, 0.3);
-    color: black;
-    width: 94.2%;
+    bottom: 8px;
+    left: 8px;
+    background: rgba(113, 114, 115, 0.5);
+    color: white;
+    width: 87%;
     padding: 10px;
-}
-
-.tiletext-tl {
-    position:absolute;
-    top: 8px;
-    left: 16px;
 }
 
 /*footer*/
