@@ -549,8 +549,8 @@ div.hvrbox{
     display: inline-block;
     height: 350px;
     width: 231px;
-
 }
+
 .hvrbox-layer_top {
     opacity: 0;
     position: absolute;
@@ -592,12 +592,9 @@ div.hvrbox{
     font-size: 14px;
     display: inline-block;
     position: absolute;
-    top: 41%;
-    left: 40%;
-    -moz-transform: translate(-50%, -50%);
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
+    top: 14px;
+    left: 22px;
+    padding-right: 40px;
 }
 
 .timeline {
