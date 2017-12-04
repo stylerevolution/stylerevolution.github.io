@@ -376,6 +376,12 @@ div.cont-section p {
 
 /* Glossaries*/
 
+div.glossarypage {
+    display: inline-block;
+    text-align: center;
+    width: 740px;
+}
+
 .letter {
     text-align: center;
     font-size: 50px;
@@ -572,10 +578,11 @@ div.timeline-page{
     z-index: 0;
 }
 
-.card-block{
+div.card-block{
     margin: auto;
+    width: 740px;
     display: inline-block;
-    float: center;
+    text-align: center;
     margin-bottom: 5%;
 }
 
@@ -627,6 +634,22 @@ div.hvrbox{
 
 .cardtwo:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.cardthree {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background-color: white;
+    transition: 0.3s;
+    margin: 1px;
+    display: inline-block;
+    height: 470px;
+    padding: 1% 5px 10px 5px;
+    text-align: center;
+}
+
+.cardthree:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    text-decoration: underline;
 }
 
 .hvrbox-layer_bottom {
