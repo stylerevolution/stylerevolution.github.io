@@ -70,6 +70,16 @@ ul {
     border-top: 0px;
 }
 
+div.index-nav-position {
+    z-index: 2;
+}
+
+div.nav-position {
+    position: fixed;
+    top: 0;
+    z-index: 2;
+}
+
 .nav {
     font-family: 'Forum', 'Cinzel', serif;
     font-size: 22px;
@@ -81,7 +91,7 @@ ul {
     display: flex;
     justify-content: space-between;
     position: fixed;
-    z-index: 2
+    z-index: 2;
 }
 
 .navlist {
@@ -130,6 +140,10 @@ li.navlist:hover ul{
     border: none;
     margin: none;
     text-decoration: none;
+}
+
+.navlink:hover {
+    background: rgba(238, 34, 72, 0.8);
 }
 
 #navlanding {
