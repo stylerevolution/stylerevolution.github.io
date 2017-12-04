@@ -206,7 +206,27 @@ ul {
 
 .footlist {
     float: left;
-    margin-left: 25%;
+    padding: 15px;
+}
+
+.footlist.institution {
+    margin-left: 18%;
+    justify-content: space-between;
+}
+
+.footlist.institution.morgan {
+    margin-left: 13%;
+}
+
+.footlist.contact-info {
+    color: #717273;
+    font-size: 10px;
+    text-align: left;
+    display: inline-block;
+}
+
+.footlist.contact-info.morgan-info {
+    padding-top: 24px;
 }
 
 .footlink {
@@ -219,29 +239,11 @@ ul {
 }
 
 .copyright {
-    font-size: 18px;
+    font-size: 14px;
     color: #717273;
-    text-align: left;
-}
-
-.columbia-info {
-    color: #717273;
-    font-size: 10px;
-    text-align: left;
-    display: inline-block;
-}
-
-.morgan-info {
-    color: #717273;
-    font-size: 10px;
-    text-align: left;
-    display: inline-block;
-}
-
-.columbia-logo {
-    height: auto;
-    width: 2px;
-    float: left;
+    position: fixed;
+    bottom: 0;
+    margin-left: 2px;
 }
 
 .banner {
