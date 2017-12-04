@@ -71,6 +71,9 @@ ul {
 }
 
 div.index-nav-position {
+    position: -webkit-sticky;  // required for Safari
+    position: sticky;
+    top: 0;
     z-index: 2;
 }
 
