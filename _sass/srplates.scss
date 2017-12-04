@@ -75,6 +75,7 @@ div.index-nav-position {
 }
 
 div.nav-position {
+    width: 100%;
     position: fixed;
     top: 0;
     z-index: 2;
@@ -115,6 +116,7 @@ div.nav-position {
 
 li.navlist:hover ul{
     display: block;
+    opacity: 0.8;
 }
 
 .navlist ul li {
@@ -124,12 +126,15 @@ li.navlist:hover ul{
 .navlist ul li a {
     padding: 8px 14px;
     display: block;
+    text-align: left;
+    font-size: 20px;
     color: white;
     text-decoration: none;
+    opacity: 1;
 }
 
 .navlist ul li a:hover {
-    color: #d61e40;
+    background: #d61e40;
 }
 
 .navlink {
