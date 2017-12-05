@@ -58,6 +58,14 @@ p.about {
     text-align: center;
 }
 
+ul.about {
+    font-family: 'Forum', 'Cinzel', serif;
+    font-size: 20px;
+    font-style: normal;
+    font-variant: normal;
+    padding: 5px;
+}
+
 ul {
     list-style-type: none;
     font-family: 'Forum', 'Cinzel', serif;
@@ -258,10 +266,6 @@ li.navlist:hover ul{
     padding-bottom: 10px;
 }
 
-.instagram {
-
-}
-
 .foot {
     font-family: 'Forum', 'Cinzel', serif;
     list-style-type: none;
@@ -358,8 +362,27 @@ div.cont-section p {
     transition: 0.3s;
 }
 
+/*404*/
+
+.column404 {
+    float: left;
+    width: 45%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.logo404 {
+    padding: 0px;
+    max-width: 100%;
+}
+
 
 /*Glossary Home Page*/
+
 .glossary {
     width: 100%; 
     align-items: center;
