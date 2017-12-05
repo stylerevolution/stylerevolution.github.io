@@ -3,6 +3,7 @@ layout: default
 title: Gallery
 ---
 
+<body class="plates-button">
 <ul class="gallery">
 
 {% for item in site.plates %}
@@ -13,3 +14,4 @@ title: Gallery
 {% endfor %}
 
 </ul>
+</body>

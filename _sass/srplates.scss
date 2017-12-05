@@ -191,6 +191,31 @@ li.navlist:hover ul{
     padding-bottom: 10px;
 }
 
+body.about-button li.about-button {
+    background-color: rgba(238, 34, 72, 0.8);
+}
+
+body.plates-button li.plates-button {
+    background-color: rgba(238, 34, 72, 0.8);
+}
+
+body.timeline-button li.timeline-button {
+    background-color: rgba(238, 34, 72, 0.8);
+}
+
+body.map-button li.map-button {
+    background-color: rgba(238, 34, 72, 0.8);
+}
+
+body.glossary-button li.glossary-button {
+    background-color: rgba(238, 34, 72, 0.8);
+}
+
+body.exhibits-button li.exhibits-button {
+    background-color: rgba(238, 34, 72, 0.8);
+}
+
+
 /*landing page*/
 
 .tile-main-content {
@@ -253,7 +278,13 @@ li.navlist:hover ul{
 .navlisttwo {
     text-align: center;
     text-align: justify;
-    width: 33%;
+    width: 30%;
+}
+
+.navlisttwo-logo {
+    text-align: center;
+    text-align: justify;
+    width: 10%;
 }
 
 .navlinktwo {
