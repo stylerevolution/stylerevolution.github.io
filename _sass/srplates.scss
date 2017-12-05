@@ -65,6 +65,11 @@ ul.about {
     font-variant: normal;
     padding: 5px;
     list-style-image: url('https://raw.githubusercontent.com/stylerevolution/stylerevolution.github.io/dev/_images/404-UL.png');
+    list-style-position: outside;
+}
+
+li.about {
+    margin-bottom: 30px;
 }
 
 ul {
