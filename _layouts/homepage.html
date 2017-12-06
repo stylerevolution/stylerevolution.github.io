@@ -3,24 +3,13 @@
 
   {% include head.html %}
 
-  <body class="index-button">
+<body class="index-button">
     <!-- replace with SVG -->
-     <div>
-    <img src="https://www.dropbox.com/s/4adumca1zzp5p32/SR_Title.jpg?raw=1" class="banner"/>
-    </div>
+    
+  {{ content }}
 
-    <!-- end replace -->
+  {% include footer.html %}
 
-    {% include header.html %}
-
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-
-    {% include footer.html %}
-
-  </body>
+</body>
 
 </html>
