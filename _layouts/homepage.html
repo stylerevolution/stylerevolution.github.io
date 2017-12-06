@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+    <!-- replace with SVG -->
+     <div>
+    <img src="https://www.dropbox.com/s/4adumca1zzp5p32/SR_Title.jpg?raw=1" class="banner"/>
+    </div>
+
+    <!-- end replace -->
+
+    {% include header.html %}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
