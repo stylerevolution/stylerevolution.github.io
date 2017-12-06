@@ -8,10 +8,12 @@ markdown: kramdown
 theme: minima
 permalink: pretty
 
-exclude: [Gemfile*, node_modules, vendor]
+exclude: [Gemfile*, node_modules, vendor, Rakefile]
 
 collections:
   iiif:
+    output: true
+  pages:
     output: true
   plates:
     output: true
@@ -19,13 +21,6 @@ collections:
     key: plate
     directory: plates
     layout: plate-page
-
-defaults:
-  - scope:
-      path: ""
-      type: iiif_collection
-    values:
-      layout: iiif_image
 
 webrick:
   headers:
