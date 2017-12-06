@@ -1,0 +1,189 @@
+- file: Alzan_pic.jpg
+  name: "Alzan(e)"
+  description: "a sorrel or chestnut brown color"
+- file: Amaranth_pic.jpg
+  name: "Amaranthe"
+  description: "deep bluish-red, a shade of red named after the amaranth plant"
+- file: Argent_pic.jpg
+  name: "Argent"
+  description: "silver or of silver color"
+- file: Aurore_pic.jpg
+  name: "Aurore"
+  description: "yellow color with light red tones"
+- file: Aureus_pic.jpg
+  name: "Aureus"
+  description: "term used to describe gold color"
+- file: Azure_pic.jpg
+  name: "Azuré"
+  description: "a blue mineral; a blue color, commonly called (pendant le XVIII siecle) bleu céleste"
+- file: blanc.jpg
+  name: "Blanc"
+  description: "white"
+- file: bleu.jpg
+  name: "Bleu"
+  description: "blue; sky color"
+- file: bleu%20celeste.jpg
+  name: "Bleu Céleste"
+  description: "a saturated bright blue"
+- file: bleu%20clair.jpg
+  name: "Bleu Clair"
+  description: "light blue"
+- file: bleu%20turquin.jpg
+  name: "Bleu Turquin"
+  description: "turquoise blue"
+- file: bleu%20violet.jpg
+  name: "Bleu Violet"
+  description: "a violet which has strong blue undertones"
+- file: blond.jpg
+  name: "Blond(e)"
+  description: "fair or light honey color"
+- file: blond%20dore.jpg
+  name: "Blond Doré"
+  description: "flaxen, light yellowish color"
+- file: bronzer.jpg
+  name: "Bronzer"
+  description: "the color of cast copper or brass, sometime dark brown"
+- file: brun.jpg
+  name: "Brun/brunette"
+  description: "of a brown color"
+- file: cerulean.jpg
+  name: "Caerulus"
+  description: "cerulean blue, deep/sky/azure blue, green-ish blue"
+- file: carmine.jpg
+  name: "Carmin(e)"
+  description: "a red color"
+- file: carnation.jpg
+  name: "Carnation"
+  description: "flesh color"
+- file: chamois.jpg
+  name: "Chamois"
+  description: "yellow"
+- file: chatain%20.jpg
+  name: "Châtain"
+  description: "of a chestnut color"
+- file: citrin.jpg
+  name: "Citrin(e)"
+  description: "of a lemon color, or pale yellow"
+- file: coquelicot.jpg
+  name: "Coquelicot"
+  description: "bright red, with an orange tint"
+- file: cramoisy.jpg
+  name: "Cromoisy/Cramoisy"
+  description: "Crimson or grain color"
+- file: cumatilis.jpg
+  name: "Cumatilis"
+  description: "water-colored blue"
+- file: cyaneus.jpg
+  name: "Cyaneus"
+  description: "cyan blue, a green-ish blue color"
+- file: gros%20bleu.png
+  name: "Gros Bleu"
+  description: "deep, navy blue"
+- file: gris.jpg
+  name: "Gris"
+  description: "the color which is more or less mixed with white and black"
+- file: gris%20dauphin.jpg
+  name: "Gris Dauphin"
+  description: "light lilac grey"
+- file: gris%20de%20lin.jpg
+  name: "Gris de Lin"
+  description: "a color that looks like flaxseed, linen gray is a soft hue"
+- file: incarnadin.jpg
+  name: "Incarnadin"
+  description: "bright carnation yellow color"
+- file: jay%20blanc.jpg
+  name: "Jay/Jais blanc"
+  description: "jet white"
+- file: jaune%20dore.jpg
+  name: "Jaûne-Doré"
+  description: "the color of an orange (the fruit)"
+- file: incarnadin.jpg
+  name: "Jonquille"
+  description: "daffodil yellow"
+- file: light%20lilac.jpg
+  name: "Lilas Clair"
+  description: "light pastel purple"
+- file: lilac%20fonce.jpg
+  name: "Lilas Foncé"
+  description: "dark pastel purple"
+- file: lilas.jpg
+  name: "Lilas"
+  description: "pastel purple, like a lilac flower"
+- file: marmote.jpg
+  name: "Marmote"
+  description: "a grape-colored purple; the color of marmote grapes"
+- file: mordore.jpg
+  name: "Mordoré"
+  description: "orangey bronze"
+- file: murinus.jpg
+  name: "Murinus"
+  description: "an orange color/ but might be reddish"
+- file: nacarat.jpg
+  name: "Nacarat"
+  description: "light red, between cherry and rose"
+- file: noir.jpg
+  name: "Noir"
+  description: "of the color black"
+- file: or.jpg
+  name: "Or"
+  description: "metallurgic gold (Au); the color gold"
+- file: ponceau.jpg
+  name: "Ponceau"
+  description: "bright strong red or poppy red"
+- file: porcelain.jpg
+  name: "Porcelaine"
+  description: "porcelain white, grey"
+- file: pourpre.jpg
+  name: "Pourpre"
+  description: "purple with crimson undertones (more red than modern “purple”; see violet); made from cochineal"
+- file: pourpre%20clair.jpg
+  name: "Pourpre Clair"
+  description: "light purple with crimson undertones"
+- file: rose.jpg
+  name: "Rose/Rosé"
+  description: "color of roses, pink, color of dry roses; a color which is red and vermilion"
+- file: rouge.jpg
+  name: "Rouge"
+  description: "a color similar to blood or fire, saturated and brilliant hue"
+- file: ruby%20clair.jpg
+  name: "Ruby Clair"
+  description: "light ruby red"
+- file: ruby%20fonce.jpg
+  name: "Ruby Foncé"
+  description: "dark ruby red"
+- file: souci.jpg
+  name: "Souci"
+  description: "yellow-orange"
+- file: tricolor.jpg
+  name: "Tricolor"
+  description: "an ensemble of colors, typically yellow, green and red"
+- file: vert.jpg
+  name: "Verd/vert"
+  description: "green or green color"
+- file: vermeille.png
+  name: "Vermeille"
+  description: "a brilliant red or scarlet pigment; made from the powdered mineral, cinnabar"
+- file: vert%20pistache.jpg
+  name: "Vert Pistache"
+  description: "pistachio green"
+- file: vert%20brun.jpg
+  name: "Vert Brun"
+  description: "brownish green, murky in hue"
+- file: vert%20de%20mer.jpg
+  name: "Vert de Mer"
+  description: "sea green"
+- file: vert%20gai.jpg
+  name: "Vert Gai"
+  description: "cheerful green (similar to Kelly green), bright in hue"
+- file: vert%20celadon.jpg
+  name: "Vert Celadon"
+  description: "celadon green"
+- file: vert%20d'emeraude.jpg
+  name: "Vert d’Èmeraude"
+  description: "emerald green"
+- file: vert%20pomme.jpg
+  name: "Vert Pomme"
+  description: "apple green"
+- file: violet.jpg
+  name: "Violet"
+  description: "purple, of purple color (more blue,than pourpre)"
