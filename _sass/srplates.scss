@@ -109,7 +109,7 @@ div.nav-position {
     font-family: 'Forum', 'Cinzel', serif;
     font-size: 22px;
     text-align: center;
-    margin: auto; 
+    margin: auto;
     list-style-type: none;
     background-color: #717273;
     width: 100%;
@@ -187,7 +187,7 @@ li.navlist:hover ul{
 }
 
 .logo {
-    padding-right: 40px; 
+    padding-right: 40px;
     padding-bottom: 10px;
 }
 
@@ -242,7 +242,7 @@ body.exhibits-button li.exhibits-button {
     }
 }
 
-.tilesize { 
+.tilesize {
     padding: 3px 3px 3px 3px;
     width:250px;height:250px;
     display: inline-block;
@@ -264,7 +264,7 @@ body.exhibits-button li.exhibits-button {
 .navtwo {
     font-family: 'Forum', 'Cinzel', serif;
     font-size: 16px;
-    margin: auto; 
+    margin: auto;
     list-style-type: none;
     overflow: hidden;
     background-color: #717273;
@@ -290,7 +290,7 @@ body.exhibits-button li.exhibits-button {
 .navlinktwo {
     display: inline-block;
     color: white;
-    padding-top: 10px; 
+    padding-top: 10px;
     padding-bottom:10px;
     padding-left: 40%;
     padding-right: 40%;
@@ -299,7 +299,7 @@ body.exhibits-button li.exhibits-button {
 }
 
 .navlinktwo-logo {
-    padding-right: 10px; 
+    padding-right: 10px;
     padding-bottom: 10px;
 }
 
@@ -372,12 +372,12 @@ div.cont-section {
 }
 
 div.cont-section img {
-    height: 100px; 
+    height: 100px;
     width: 100px;
-    margin: 4px 15px 10px 0px; 
+    margin: 4px 15px 10px 0px;
     border: 1px solid #000000;
     float: left;
-} 
+}
 
 div.cont-section p {
     font-family: 'Forum', 'Cinzel', 'Constantia', serif;
@@ -421,7 +421,7 @@ div.cont-section p {
 /*Glossary Home Page*/
 
 .glossary {
-    width: 100%; 
+    width: 100%;
     align-items: center;
     justify-content: center;
     margin: auto;
@@ -472,14 +472,14 @@ div.glossarypage {
     table-layout: fixed;
 }
 
-#colorimage {
+.colorimage {
       height: 50px;
       width: 50px;
       border-style: none;
       padding-left: 20px;
 }
 
-#color {
+.color {
     font-weight: bold;
 }
 
@@ -541,10 +541,10 @@ div.glossarypage {
     float: none;
 }
 
-.tilesize { 
+.tilesize {
     padding: 3px 3px 3px 3px;
     width:250px;height:250px;
-    display: inline-block; 
+    display: inline-block;
 }
 
 
@@ -554,11 +554,11 @@ div.glossarypage {
 }
 
 .description {
-    width: 100%; 
+    width: 100%;
     display: inline-block;
     margin: auto;
     padding: 0;
-    
+
 }
 
 .French {
@@ -639,7 +639,7 @@ div.interactivemap {
     z-index: 0;
     position: absolute;
 }
-    
+
 
 /*Corsets*/
 
@@ -794,7 +794,7 @@ div.hvrbox{
   margin: 4em auto;
   position: relative;
   max-width: 46em;
-  
+
   &:before {
     background-color: #717273;
     content: '';
@@ -809,13 +809,13 @@ div.hvrbox{
 
 .timeline-event {
   position: relative;
-  
+
   &:hover {
-  
+
     .timeline-event-icon {
       background-color: #d61e40;
     }
-    
+
     .timeline-event-thumbnail {}
   }
 }
@@ -826,27 +826,27 @@ div.hvrbox{
   top: -1.875em;
   left: 4em;
   width: 80%;
-  
+
   h3 {
     font-size: 1.75em;
     color: #d61e40;
   }
-  
+
   h4 {
     font-size: 1.2em;
     margin-bottom: 1.2em;
   }
-  
+
   strong {
     font-weight: 700;
   }
-  
+
   p:not(.timeline-event-thumbnail) {
     padding-bottom: 1.2em;
   }
 }
 
-.timeline-event-icon { 
+.timeline-event-icon {
   background-color: #717273;
   outline: 10px solid #d61e40;
   display: block;
