@@ -15,7 +15,7 @@ collections:
     output: true
   pages:
     output: true
-  plates:
+  plate:
     output: true
     source: plates.csv
     key: plate
