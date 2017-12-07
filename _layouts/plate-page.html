@@ -10,12 +10,12 @@ layout: default
   {% if link.title == page.title %}
     {% unless forloop.first %}
       {% assign prevurl = prev.url %}
-      {% assign prevtitle = prev.title %}
+      {% assign prevtitle = prev.name | prepend: "Plate " %}
     {% endunless %}
     {% unless forloop.last %}
       {% assign next = documents[forloop.index] %}
       {% assign nexturl = next.url %}
-      {% assign nexttitle = next.title %}
+      {% assign nexttitle = next.name | prepend: "Plate " %}
     {% endunless %}
   {% endif %}
   {% assign prev = link %}
@@ -38,7 +38,7 @@ layout: default
       <b>Plate Name:</b> {{ page.name }}<br>
       <b>Date:</b> {{ page._date }}<br></p>
       <p hidden>
-      <b>plate:</b> {{ page.plate }}<br>
+      <b>plate:</b> {{ page.id }}<br>
       <b>an:</b> {{ page.an }}<br>
       <b>name:</b> {{ page.name }}<br>
       <b>year:</b> {{ page.year }}<br>
@@ -49,23 +49,21 @@ layout: default
       <b>keywords:</b> {{ page.keywords }}<br>
       <b>column:</b> {{ page.column }}<br>
       <b>flag translation:</b> {{ page.flag_translation }}
-      </p>
+    </p>
   </div>
   <div class="description">
     <div class="French">
       <b hidden>caption:</b> {{ page.caption }}<br>
-     <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in viverra orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce tempor sem eu libero venenatis molestie. Curabitur vitae purus porttitor justo aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in viverra orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce tempor sem eu libero venenatis molestie. Curabitur vitae purus porttitor justo aliquet. 
+     <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in viverra orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce tempor sem eu libero venenatis molestie. Curabitur vitae purus porttitor justo aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in viverra orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce tempor sem eu libero venenatis molestie. Curabitur vitae purus porttitor justo aliquet.
       </p>
       </div>
     <div class="English">
     <b hidden>translation:</b> {{ page.translation }}<br>
-    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in viverra orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce tempor sem eu libero venenatis molestie. Curabitur vitae purus porttitor justo aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in viverra orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce tempor sem eu libero venenatis molestie. Curabitur vitae purus porttitor justo aliquet. 
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in viverra orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce tempor sem eu libero venenatis molestie. Curabitur vitae purus porttitor justo aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in viverra orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce tempor sem eu libero venenatis molestie. Curabitur vitae purus porttitor justo aliquet.
     </p>
     </div>
     <div class="clear"></div>
   </div>
 
-
 </article>
 </div>
-

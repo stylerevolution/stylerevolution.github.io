@@ -5,664 +5,669 @@
   "label": "top",
   "manifests": [
     {
-      "@id": "/tiles/cp1/manifest.json",
+      "@id": "/tiles/1/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp1"
+      "label": "style revolution plates - plates - 1"
     },
     {
-      "@id": "/tiles/cp10/manifest.json",
+      "@id": "/tiles/10/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp10"
+      "label": "style revolution plates - plates - 10"
     },
     {
-      "@id": "/tiles/cp100/manifest.json",
+      "@id": "/tiles/100/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp100"
+      "label": "style revolution plates - plates - 100"
     },
     {
-      "@id": "/tiles/cp108/manifest.json",
+      "@id": "/tiles/108/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp108"
+      "label": "style revolution plates - plates - 108"
     },
     {
-      "@id": "/tiles/cp109/manifest.json",
+      "@id": "/tiles/109/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp109"
+      "label": "style revolution plates - plates - 109"
     },
     {
-      "@id": "/tiles/cp11/manifest.json",
+      "@id": "/tiles/11/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp11"
+      "label": "style revolution plates - plates - 11"
     },
     {
-      "@id": "/tiles/cp116/manifest.json",
+      "@id": "/tiles/116/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp116"
+      "label": "style revolution plates - plates - 116"
     },
     {
-      "@id": "/tiles/cp12/manifest.json",
+      "@id": "/tiles/12/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp12"
+      "label": "style revolution plates - plates - 12"
     },
     {
-      "@id": "/tiles/cp13/manifest.json",
+      "@id": "/tiles/13/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp13"
+      "label": "style revolution plates - plates - 13"
     },
     {
-      "@id": "/tiles/cp14/manifest.json",
+      "@id": "/tiles/14/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp14"
+      "label": "style revolution plates - plates - 14"
     },
     {
-      "@id": "/tiles/cp141/manifest.json",
+      "@id": "/tiles/141/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp141"
+      "label": "style revolution plates - plates - 141"
     },
     {
-      "@id": "/tiles/cp142/manifest.json",
+      "@id": "/tiles/142/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp142"
+      "label": "style revolution plates - plates - 142"
     },
     {
-      "@id": "/tiles/cp144/manifest.json",
+      "@id": "/tiles/144/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp144"
+      "label": "style revolution plates - plates - 144"
     },
     {
-      "@id": "/tiles/cp15/manifest.json",
+      "@id": "/tiles/15/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp15"
+      "label": "style revolution plates - plates - 15"
     },
     {
-      "@id": "/tiles/cp154/manifest.json",
+      "@id": "/tiles/154/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp154"
+      "label": "style revolution plates - plates - 154"
     },
     {
-      "@id": "/tiles/cp155/manifest.json",
+      "@id": "/tiles/155/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp155"
+      "label": "style revolution plates - plates - 155"
     },
     {
-      "@id": "/tiles/cp16/manifest.json",
+      "@id": "/tiles/16/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp16"
+      "label": "style revolution plates - plates - 16"
     },
     {
-      "@id": "/tiles/cp163/manifest.json",
+      "@id": "/tiles/163/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp163"
+      "label": "style revolution plates - plates - 163"
     },
     {
-      "@id": "/tiles/cp166/manifest.json",
+      "@id": "/tiles/166/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp166"
+      "label": "style revolution plates - plates - 166"
     },
     {
-      "@id": "/tiles/cp17/manifest.json",
+      "@id": "/tiles/17/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp17"
+      "label": "style revolution plates - plates - 17"
     },
     {
-      "@id": "/tiles/cp18/manifest.json",
+      "@id": "/tiles/18/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp18"
+      "label": "style revolution plates - plates - 18"
     },
     {
-      "@id": "/tiles/cp183/manifest.json",
+      "@id": "/tiles/183/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp183"
+      "label": "style revolution plates - plates - 183"
     },
     {
-      "@id": "/tiles/cp189/manifest.json",
+      "@id": "/tiles/189/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp189"
+      "label": "style revolution plates - plates - 189"
     },
     {
-      "@id": "/tiles/cp19/manifest.json",
+      "@id": "/tiles/19/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp19"
+      "label": "style revolution plates - plates - 19"
     },
     {
-      "@id": "/tiles/cp194/manifest.json",
+      "@id": "/tiles/194/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp194"
+      "label": "style revolution plates - plates - 194"
     },
     {
-      "@id": "/tiles/cp198/manifest.json",
+      "@id": "/tiles/198/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp198"
+      "label": "style revolution plates - plates - 198"
     },
     {
-      "@id": "/tiles/cp2/manifest.json",
+      "@id": "/tiles/2/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp2"
+      "label": "style revolution plates - plates - 2"
     },
     {
-      "@id": "/tiles/cp20/manifest.json",
+      "@id": "/tiles/20/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp20"
+      "label": "style revolution plates - plates - 20"
     },
     {
-      "@id": "/tiles/cp206/manifest.json",
+      "@id": "/tiles/206/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp206"
+      "label": "style revolution plates - plates - 206"
     },
     {
-      "@id": "/tiles/cp208/manifest.json",
+      "@id": "/tiles/208/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp208"
+      "label": "style revolution plates - plates - 208"
     },
     {
-      "@id": "/tiles/cp21/manifest.json",
+      "@id": "/tiles/21/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp21"
+      "label": "style revolution plates - plates - 21"
     },
     {
-      "@id": "/tiles/cp22/manifest.json",
+      "@id": "/tiles/22/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp22"
+      "label": "style revolution plates - plates - 22"
     },
     {
-      "@id": "/tiles/cp225/manifest.json",
+      "@id": "/tiles/225/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp225"
+      "label": "style revolution plates - plates - 225"
     },
     {
-      "@id": "/tiles/cp228/manifest.json",
+      "@id": "/tiles/228/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp228"
+      "label": "style revolution plates - plates - 228"
     },
     {
-      "@id": "/tiles/cp23/manifest.json",
+      "@id": "/tiles/23/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp23"
+      "label": "style revolution plates - plates - 23"
     },
     {
-      "@id": "/tiles/cp237/manifest.json",
+      "@id": "/tiles/237/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp237"
+      "label": "style revolution plates - plates - 237"
     },
     {
-      "@id": "/tiles/cp24/manifest.json",
+      "@id": "/tiles/24/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp24"
+      "label": "style revolution plates - plates - 24"
     },
     {
-      "@id": "/tiles/cp248/manifest.json",
+      "@id": "/tiles/248/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp248"
+      "label": "style revolution plates - plates - 248"
     },
     {
-      "@id": "/tiles/cp25/manifest.json",
+      "@id": "/tiles/25/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp25"
+      "label": "style revolution plates - plates - 25"
     },
     {
-      "@id": "/tiles/cp277/manifest.json",
+      "@id": "/tiles/277/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp277"
+      "label": "style revolution plates - plates - 277"
     },
     {
-      "@id": "/tiles/cp287/manifest.json",
+      "@id": "/tiles/287/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp287"
+      "label": "style revolution plates - plates - 287"
     },
     {
-      "@id": "/tiles/cp294/manifest.json",
+      "@id": "/tiles/294/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp294"
+      "label": "style revolution plates - plates - 294"
     },
     {
-      "@id": "/tiles/cp297/manifest.json",
+      "@id": "/tiles/297/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp297"
+      "label": "style revolution plates - plates - 297"
     },
     {
-      "@id": "/tiles/cp298/manifest.json",
+      "@id": "/tiles/298/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp298"
+      "label": "style revolution plates - plates - 298"
     },
     {
-      "@id": "/tiles/cp299/manifest.json",
+      "@id": "/tiles/299/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp299"
+      "label": "style revolution plates - plates - 299"
     },
     {
-      "@id": "/tiles/cp3/manifest.json",
+      "@id": "/tiles/3/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp3"
+      "label": "style revolution plates - plates - 3"
     },
     {
-      "@id": "/tiles/cp301/manifest.json",
+      "@id": "/tiles/301/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp301"
+      "label": "style revolution plates - plates - 301"
     },
     {
-      "@id": "/tiles/cp316/manifest.json",
+      "@id": "/tiles/316/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp316"
+      "label": "style revolution plates - plates - 316"
     },
     {
-      "@id": "/tiles/cp321/manifest.json",
+      "@id": "/tiles/321/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp321"
+      "label": "style revolution plates - plates - 321"
     },
     {
-      "@id": "/tiles/cp322/manifest.json",
+      "@id": "/tiles/322/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp322"
+      "label": "style revolution plates - plates - 322"
     },
     {
-      "@id": "/tiles/cp329/manifest.json",
+      "@id": "/tiles/329/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp329"
+      "label": "style revolution plates - plates - 329"
     },
     {
-      "@id": "/tiles/cp332/manifest.json",
+      "@id": "/tiles/332/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp332"
+      "label": "style revolution plates - plates - 332"
     },
     {
-      "@id": "/tiles/cp333/manifest.json",
+      "@id": "/tiles/333/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp333"
+      "label": "style revolution plates - plates - 333"
     },
     {
-      "@id": "/tiles/cp334/manifest.json",
+      "@id": "/tiles/334/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp334"
+      "label": "style revolution plates - plates - 334"
     },
     {
-      "@id": "/tiles/cp346/manifest.json",
+      "@id": "/tiles/346/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp346"
+      "label": "style revolution plates - plates - 346"
     },
     {
-      "@id": "/tiles/cp349/manifest.json",
+      "@id": "/tiles/349/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp349"
+      "label": "style revolution plates - plates - 349"
     },
     {
-      "@id": "/tiles/cp352/manifest.json",
+      "@id": "/tiles/352/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp352"
+      "label": "style revolution plates - plates - 352"
     },
     {
-      "@id": "/tiles/cp353/manifest.json",
+      "@id": "/tiles/353/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp353"
+      "label": "style revolution plates - plates - 353"
     },
     {
-      "@id": "/tiles/cp359/manifest.json",
+      "@id": "/tiles/359/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp359"
+      "label": "style revolution plates - plates - 359"
     },
     {
-      "@id": "/tiles/cp363/manifest.json",
+      "@id": "/tiles/363/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp363"
+      "label": "style revolution plates - plates - 363"
     },
     {
-      "@id": "/tiles/cp368/manifest.json",
+      "@id": "/tiles/368/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp368"
+      "label": "style revolution plates - plates - 368"
     },
     {
-      "@id": "/tiles/cp378/manifest.json",
+      "@id": "/tiles/378/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp378"
+      "label": "style revolution plates - plates - 378"
     },
     {
-      "@id": "/tiles/cp38/manifest.json",
+      "@id": "/tiles/38/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp38"
+      "label": "style revolution plates - plates - 38"
     },
     {
-      "@id": "/tiles/cp39/manifest.json",
+      "@id": "/tiles/39/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp39"
+      "label": "style revolution plates - plates - 39"
     },
     {
-      "@id": "/tiles/cp390/manifest.json",
+      "@id": "/tiles/390/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp390"
+      "label": "style revolution plates - plates - 390"
     },
     {
-      "@id": "/tiles/cp4/manifest.json",
+      "@id": "/tiles/4/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp4"
+      "label": "style revolution plates - plates - 4"
     },
     {
-      "@id": "/tiles/cp40/manifest.json",
+      "@id": "/tiles/40/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp40"
+      "label": "style revolution plates - plates - 40"
     },
     {
-      "@id": "/tiles/cp41/manifest.json",
+      "@id": "/tiles/41/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp41"
+      "label": "style revolution plates - plates - 41"
     },
     {
-      "@id": "/tiles/cp416/manifest.json",
+      "@id": "/tiles/416/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp416"
+      "label": "style revolution plates - plates - 416"
     },
     {
-      "@id": "/tiles/cp42/manifest.json",
+      "@id": "/tiles/42/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp42"
+      "label": "style revolution plates - plates - 42"
     },
     {
-      "@id": "/tiles/cp422/manifest.json",
+      "@id": "/tiles/422/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp422"
+      "label": "style revolution plates - plates - 422"
     },
     {
-      "@id": "/tiles/cp424/manifest.json",
+      "@id": "/tiles/424/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp424"
+      "label": "style revolution plates - plates - 424"
     },
     {
-      "@id": "/tiles/cp425/manifest.json",
+      "@id": "/tiles/425/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp425"
+      "label": "style revolution plates - plates - 425"
     },
     {
-      "@id": "/tiles/cp43/manifest.json",
+      "@id": "/tiles/43/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp43"
+      "label": "style revolution plates - plates - 43"
     },
     {
-      "@id": "/tiles/cp432/manifest.json",
+      "@id": "/tiles/432/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp432"
+      "label": "style revolution plates - plates - 432"
     },
     {
-      "@id": "/tiles/cp44/manifest.json",
+      "@id": "/tiles/44/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp44"
+      "label": "style revolution plates - plates - 44"
     },
     {
-      "@id": "/tiles/cp445/manifest.json",
+      "@id": "/tiles/445/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp445"
+      "label": "style revolution plates - plates - 445"
     },
     {
-      "@id": "/tiles/cp45/manifest.json",
+      "@id": "/tiles/45/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp45"
+      "label": "style revolution plates - plates - 45"
     },
     {
-      "@id": "/tiles/cp450/manifest.json",
+      "@id": "/tiles/450/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp450"
+      "label": "style revolution plates - plates - 450"
     },
     {
-      "@id": "/tiles/cp456/manifest.json",
+      "@id": "/tiles/456/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp456"
+      "label": "style revolution plates - plates - 456"
     },
     {
-      "@id": "/tiles/cp46/manifest.json",
+      "@id": "/tiles/46/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp46"
+      "label": "style revolution plates - plates - 46"
     },
     {
-      "@id": "/tiles/cp467/manifest.json",
+      "@id": "/tiles/467/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp467"
+      "label": "style revolution plates - plates - 467"
     },
     {
-      "@id": "/tiles/cp47/manifest.json",
+      "@id": "/tiles/47/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp47"
+      "label": "style revolution plates - plates - 47"
     },
     {
-      "@id": "/tiles/cp48/manifest.json",
+      "@id": "/tiles/48/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp48"
+      "label": "style revolution plates - plates - 48"
     },
     {
-      "@id": "/tiles/cp481/manifest.json",
+      "@id": "/tiles/481/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp481"
+      "label": "style revolution plates - plates - 481"
     },
     {
-      "@id": "/tiles/cp483/manifest.json",
+      "@id": "/tiles/483/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp483"
+      "label": "style revolution plates - plates - 483"
     },
     {
-      "@id": "/tiles/cp49/manifest.json",
+      "@id": "/tiles/49/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp49"
+      "label": "style revolution plates - plates - 49"
     },
     {
-      "@id": "/tiles/cp5/manifest.json",
+      "@id": "/tiles/5/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp5"
+      "label": "style revolution plates - plates - 5"
     },
     {
-      "@id": "/tiles/cp50/manifest.json",
+      "@id": "/tiles/50/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp50"
+      "label": "style revolution plates - plates - 50"
     },
     {
-      "@id": "/tiles/cp51/manifest.json",
+      "@id": "/tiles/51/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp51"
+      "label": "style revolution plates - plates - 51"
     },
     {
-      "@id": "/tiles/cp52/manifest.json",
+      "@id": "/tiles/52/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp52"
+      "label": "style revolution plates - plates - 52"
     },
     {
-      "@id": "/tiles/cp53/manifest.json",
+      "@id": "/tiles/53/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp53"
+      "label": "style revolution plates - plates - 53"
     },
     {
-      "@id": "/tiles/cp54/manifest.json",
+      "@id": "/tiles/54/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp54"
+      "label": "style revolution plates - plates - 54"
     },
     {
-      "@id": "/tiles/cp55/manifest.json",
+      "@id": "/tiles/55/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp55"
+      "label": "style revolution plates - plates - 55"
     },
     {
-      "@id": "/tiles/cp56/manifest.json",
+      "@id": "/tiles/56/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp56"
+      "label": "style revolution plates - plates - 56"
     },
     {
-      "@id": "/tiles/cp57/manifest.json",
+      "@id": "/tiles/57/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp57"
+      "label": "style revolution plates - plates - 57"
     },
     {
-      "@id": "/tiles/cp58/manifest.json",
+      "@id": "/tiles/58/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp58"
+      "label": "style revolution plates - plates - 58"
     },
     {
-      "@id": "/tiles/cp59/manifest.json",
+      "@id": "/tiles/59/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp59"
+      "label": "style revolution plates - plates - 59"
     },
     {
-      "@id": "/tiles/cp6/manifest.json",
+      "@id": "/tiles/6/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp6"
+      "label": "style revolution plates - plates - 6"
     },
     {
-      "@id": "/tiles/cp60/manifest.json",
+      "@id": "/tiles/60/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp60"
+      "label": "style revolution plates - plates - 60"
     },
     {
-      "@id": "/tiles/cp61/manifest.json",
+      "@id": "/tiles/61/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp61"
+      "label": "style revolution plates - plates - 61"
     },
     {
-      "@id": "/tiles/cp62/manifest.json",
+      "@id": "/tiles/62/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp62"
+      "label": "style revolution plates - plates - 62"
     },
     {
-      "@id": "/tiles/cp63/manifest.json",
+      "@id": "/tiles/63/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp63"
+      "label": "style revolution plates - plates - 63"
     },
     {
-      "@id": "/tiles/cp64/manifest.json",
+      "@id": "/tiles/64/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp64"
+      "label": "style revolution plates - plates - 64"
     },
     {
-      "@id": "/tiles/cp65/manifest.json",
+      "@id": "/tiles/65/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp65"
+      "label": "style revolution plates - plates - 65"
     },
     {
-      "@id": "/tiles/cp66/manifest.json",
+      "@id": "/tiles/66/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp66"
+      "label": "style revolution plates - plates - 66"
     },
     {
-      "@id": "/tiles/cp67/manifest.json",
+      "@id": "/tiles/67/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp67"
+      "label": "style revolution plates - plates - 67"
     },
     {
-      "@id": "/tiles/cp68/manifest.json",
+      "@id": "/tiles/68/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp68"
+      "label": "style revolution plates - plates - 68"
     },
     {
-      "@id": "/tiles/cp69/manifest.json",
+      "@id": "/tiles/69/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp69"
+      "label": "style revolution plates - plates - 69"
     },
     {
-      "@id": "/tiles/cp7/manifest.json",
+      "@id": "/tiles/7/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp7"
+      "label": "style revolution plates - plates - 7"
     },
     {
-      "@id": "/tiles/cp70/manifest.json",
+      "@id": "/tiles/70/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp70"
+      "label": "style revolution plates - plates - 70"
     },
     {
-      "@id": "/tiles/cp71/manifest.json",
+      "@id": "/tiles/71/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp71"
+      "label": "style revolution plates - plates - 71"
     },
     {
-      "@id": "/tiles/cp72/manifest.json",
+      "@id": "/tiles/72/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp72"
+      "label": "style revolution plates - plates - 72"
     },
     {
-      "@id": "/tiles/cp73/manifest.json",
+      "@id": "/tiles/73/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp73"
+      "label": "style revolution plates - plates - 73"
     },
     {
-      "@id": "/tiles/cp74/manifest.json",
+      "@id": "/tiles/74/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp74"
+      "label": "style revolution plates - plates - 74"
     },
     {
-      "@id": "/tiles/cp75/manifest.json",
+      "@id": "/tiles/75/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp75"
+      "label": "style revolution plates - plates - 75"
     },
     {
-      "@id": "/tiles/cp76/manifest.json",
+      "@id": "/tiles/76/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp76"
+      "label": "style revolution plates - plates - 76"
     },
     {
-      "@id": "/tiles/cp78/manifest.json",
+      "@id": "/tiles/78/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp78"
+      "label": "style revolution plates - plates - 78"
     },
     {
-      "@id": "/tiles/cp8/manifest.json",
+      "@id": "/tiles/79/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp8"
+      "label": "style revolution plates - plates - 79"
     },
     {
-      "@id": "/tiles/cp80/manifest.json",
+      "@id": "/tiles/8/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp80"
+      "label": "style revolution plates - plates - 8"
     },
     {
-      "@id": "/tiles/cp81/manifest.json",
+      "@id": "/tiles/80/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp81"
+      "label": "style revolution plates - plates - 80"
     },
     {
-      "@id": "/tiles/cp82/manifest.json",
+      "@id": "/tiles/81/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp82"
+      "label": "style revolution plates - plates - 81"
     },
     {
-      "@id": "/tiles/cp83/manifest.json",
+      "@id": "/tiles/82/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp83"
+      "label": "style revolution plates - plates - 82"
     },
     {
-      "@id": "/tiles/cp84/manifest.json",
+      "@id": "/tiles/83/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp84"
+      "label": "style revolution plates - plates - 83"
     },
     {
-      "@id": "/tiles/cp85/manifest.json",
+      "@id": "/tiles/84/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp85"
+      "label": "style revolution plates - plates - 84"
     },
     {
-      "@id": "/tiles/cp86/manifest.json",
+      "@id": "/tiles/85/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp86"
+      "label": "style revolution plates - plates - 85"
     },
     {
-      "@id": "/tiles/cp88/manifest.json",
+      "@id": "/tiles/86/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp88"
+      "label": "style revolution plates - plates - 86"
     },
     {
-      "@id": "/tiles/cp9/manifest.json",
+      "@id": "/tiles/88/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp9"
+      "label": "style revolution plates - plates - 88"
     },
     {
-      "@id": "/tiles/cp93/manifest.json",
+      "@id": "/tiles/9/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp93"
+      "label": "style revolution plates - plates - 9"
     },
     {
-      "@id": "/tiles/cp94/manifest.json",
+      "@id": "/tiles/93/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp94"
+      "label": "style revolution plates - plates - 93"
     },
     {
-      "@id": "/tiles/cp98/manifest.json",
+      "@id": "/tiles/94/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cp98"
+      "label": "style revolution plates - plates - 94"
     },
     {
-      "@id": "/tiles/cpan11/manifest.json",
+      "@id": "/tiles/98/manifest.json",
       "@type": "sc:Manifest",
-      "label": "style revolution plates - plates - cpan11"
+      "label": "style revolution plates - plates - 98"
+    },
+    {
+      "@id": "/tiles/an11/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "style revolution plates - plates - an11"
     }
   ]
 }

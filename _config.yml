@@ -11,14 +11,12 @@ permalink: pretty
 exclude: [Gemfile*, node_modules, vendor, Rakefile]
 
 collections:
-  iiif:
-    output: true
   pages:
     output: true
-  plates:
+  plate:
     output: true
     source: plates.csv
-    key: plate
+    key: id
     directory: plate
     layout: plate-page
 
@@ -37,6 +35,6 @@ lunr:
         - caption
         - translation
     - dir: "_pages"
-      permalink: "/pages"
+      permalink: ""
       fields:
         - title

@@ -1,0 +1,19 @@
+{
+  "@type": "oa:Annotation",
+  "@id": "/tiles/15/annotation/front.json",
+  "motivation": "sc:painting",
+  "resource": {
+    "@id": "/tiles/images/15-1/full/full/0/default.jpg",
+    "@type": "dcterms:Image",
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "/tiles/images/15-1",
+      "profile": "http://iiif.io/api/image/2/level0.json"
+    },
+    "width": 1495,
+    "height": 2000
+  },
+  "on": "/tiles/15/canvas/front.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

@@ -21,7 +21,7 @@ iiif_viewerfuncs.push(
       id: "openseadragon{{ page.instancecounter }}",
       minZoomImageRatio: 1,
       prefixUrl: "{{ site.baseurl }}/iiif_viewer/openseadragon/images/",
-      tileSources: "{{ site.baseurl }}/tiles/images/{{ page.iiif_image }}-1/info.json",
+      tileSources: "{{ site.baseurl }}/tiles/images/{{ page.slug }}-1/info.json",
       crossOriginPolicy: false
     });
   }

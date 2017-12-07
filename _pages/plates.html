@@ -2,7 +2,7 @@
 layout: default
 title: Plates
 author: Everyone
-permalink: /plates.html
+permalink: /plates
 ---
 
 <div class="plates-button">
@@ -12,10 +12,7 @@ permalink: /plates.html
 <ul class="gallery-section">
 
 {% for item in site.data.plates %}
-
-	<li class="gallery"><a href="{{site.baseurl}}/plate/{{item.plate}}"><img class="galleryimage" src="{{site.baseurl}}/assets/thumbnails/{{item.plate}}.jpg"></a></li>
-
-
+	<li class="gallery"><a href="{{site.baseurl}}/plate/{{item.id}}"><img class="galleryimage" src="{{site.baseurl}}/images/thumbnails/{{item.id}}-sm.jpg"></a></li>
 {% endfor %}
 
 </ul>
