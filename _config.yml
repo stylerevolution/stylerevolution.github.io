@@ -19,9 +19,24 @@ collections:
     output: true
     source: plates.csv
     key: plate
-    directory: plates
+    directory: plate
     layout: plate-page
 
 webrick:
   headers:
     "Access-Control-Allow-Origin": "*"
+
+lunr:
+  content: true
+  meta:
+    - dir: "_plate"
+      permalink: "/plate"
+      fields:
+        - name
+        - date
+        - caption
+        - translation
+    - dir: "_pages"
+      permalink: "/pages"
+      fields:
+        - title
