@@ -420,68 +420,71 @@ div.cont-section p {
 
 /*Glossary Home Page*/
 
-.glossary {
-    width: 100%;
-    align-items: center;
-    justify-content: center;
-    margin: auto;
-    display: inline-block;
-    float: left;
-}
+// .glossary {
+//     width: 100%;
+//     align-items: center;
+//     justify-content: center;
+//     margin: auto;
+//     display: inline-block;
+//     float: left;
+// }
 
-.textilegloss {
-    width: 48%;
-    height: 450px;
-    float: left;
-    margin-left: auto;
-}
+// .textilegloss {
+//     width: 48%;
+//     height: 450px;
+//     float: left;
+//     margin-left: auto;
+// }
 
-.colorgloss {
-    width: 48%;
-    height: 450px;
-    margin-left: 54%;
-    margin-right: auto;
-}
+// .colorgloss {
+//     width: 48%;
+//     height: 450px;
+//     margin-left: 54%;
+//     margin-right: auto;
+// }
 
-.textilegloss, .colorgloss {
-    background-color: white;
-    text-align: center;
-    padding-top: 0px;
-}
+// .textilegloss, .colorgloss {
+//     background-color: white;
+//     text-align: center;
+//     padding-top: 0px;
+// }
 
 /* Glossaries*/
 
-div.glossarypage {
-    display: inline-block;
-    text-align: center;
-    width: 740px;
-}
+// div.glossarypage {
+//     display: inline-block;
+//     text-align: center;
+//     width: 740px;
+// }
 
 .letter {
     text-align: center;
     font-size: 50px;
     font-weight: bold;
-
 }
 
-.color-dic{
+.colordesc{
     float: left;
+    padding: 20px;
     font-family: 'Forum', 'Cinzel', serif;
     font-size: 18px;
-    width: 100%;
     table-layout: fixed;
+    vertical-align: middle;
 }
 
 .colorimage {
-      height: 50px;
-      width: 50px;
-      border-style: none;
-      padding-left: 20px;
+      padding: 20px;
+      img{
+        border: 1px solid grey !important;
+        width: 50px !important;
+        height: 50px !important;
+      }
 }
 
-.color {
-    font-weight: bold;
-}
+// .color {
+//     font-weight: bold;
+//     text-align: center;
+// }
 
 #textile {
     font-weight: bold;
@@ -490,14 +493,10 @@ div.glossarypage {
 }
 
 .row-1 {
-    width: 15%;
+    width: 30%;
 }
 .row-2 {
-    width: 25%;
-}
-
-.row-3 {
-    width: 60%;
+    width: 70%;
 }
 
 
