@@ -1,11 +1,9 @@
-GIT
-  remote: https://github.com/mnyrop/wax_tasks.git
-  revision: 1c6c8d60abb02ebe2753ddd07fdb93dc5b466ea4
+PATH
+  remote: wax_tasks
   specs:
-    wax_tasks (0.0.1)
-      bundler (~> 1)
+    wax_tasks (1.0.0.pre)
       iiif_s3 (~> 0.1)
-      rake
+      rake (~> 12)
 
 GEM
   remote: https://rubygems.org/

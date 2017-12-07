@@ -10,12 +10,12 @@ layout: default
   {% if link.title == page.title %}
     {% unless forloop.first %}
       {% assign prevurl = prev.url %}
-      {% assign prevtitle = prev.name | prepend: "Plate " %}
+      {% assign prevtitle = prev.name %}
     {% endunless %}
     {% unless forloop.last %}
       {% assign next = documents[forloop.index] %}
       {% assign nexturl = next.url %}
-      {% assign nexttitle = next.name | prepend: "Plate " %}
+      {% assign nexttitle = next.name %}
     {% endunless %}
   {% endif %}
   {% assign prev = link %}

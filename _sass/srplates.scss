@@ -12,7 +12,9 @@ body {
     margin: 0;
 
 }
-
+.page-content{
+  min-height: 800px;
+}
 h1 {font-family: 'Playfair Display', serif;
     font-size: 46px;
     color: #d61e40;
@@ -87,7 +89,7 @@ ul {
 .site-footer-map{
     width: 100%;
     position: fixed;
-    bottom: 0;
+    bottom: 050;
     z-index: 2;
 }
 
@@ -309,7 +311,7 @@ body.exhibits-button li.exhibits-button {
     overflow: hidden;
     background-color: #C4D8E2;
     margin: 0;
-    bottom: 0;
+    bottom: -5;
     width: 100%;
     padding-bottom: 0;
     border-bottom: 0;
