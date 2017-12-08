@@ -6,5 +6,5 @@ group :development, :test do
   gem 'rake'
   gem 'iiif_s3'
   gem 'html-proofer'
-  gem 'wax_tasks', :path => 'wax_tasks'
+  gem 'wax_tasks', :git => 'https://github.com/mnyrop/wax_tasks'
 end
