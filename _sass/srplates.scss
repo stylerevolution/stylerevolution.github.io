@@ -10,6 +10,7 @@ div {
 body {
     background-color: #f1f1f1;
     margin: 0;
+    font-family: 'Forum', 'Cinzel', serif;
 
 }
 .page-content{
@@ -66,7 +67,7 @@ ul.about {
     font-style: normal;
     font-variant: normal;
     padding: 5px;
-    list-style-image: url('https://raw.githubusercontent.com/stylerevolution/stylerevolution.github.io/dev/_images/404-UL.png');
+    list-style-image: url('/images/404-UL.png');
     list-style-position: outside;
 }
 
