@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/mnyrop/wax_tasks
-  revision: 1d5f91e56e9a7b6984f4389e983759f04e1d8c4a
+  revision: 6d78e1b2ab3d4dc1ce7d108e8ca204ff03b64940
   specs:
     wax_tasks (1.0.1.pre)
       iiif_s3 (~> 0.1)

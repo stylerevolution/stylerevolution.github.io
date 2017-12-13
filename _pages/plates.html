@@ -10,11 +10,9 @@ permalink: /plates/
 
 <div class="gallery-block">
 <ul class="gallery-section">
-
 {% for item in site.data.plates %}
-	<li class="gallery"><a href="{{site.baseurl}}/plates/{{item.item_id}}"><img class="galleryimage" src="{{site.baseurl}}/images/thumbnails/{{item.item_id}}-sm.jpg" alt="plate {{ item.item_id}}"></a></li>
+	<li class="gallery"><a href="{{site.baseurl}}/plates/{{item.pid}}"><img class="galleryimage" src="{{site.baseurl}}/images/thumbnails/{{item.pid}}-sm.jpg" alt="plate {{ item.pid}}"></a></li>
 {% endfor %}
-
 </ul>
 </div>
 </div>

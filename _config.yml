@@ -16,7 +16,6 @@ collections:
   plates:
     output: true
     source: plates.csv
-    key: id
     directory: plates
     layout: plate-page
 
@@ -27,10 +26,10 @@ webrick:
 lunr:
   content: true
   meta:
-    - dir: "_plate"
+    - dir: "_plates"
       permalink: "/plates"
       fields:
-        - name
+        - title
         - date
         - caption
         - translation

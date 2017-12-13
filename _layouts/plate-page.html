@@ -3,13 +3,13 @@ layout: default
 ---
 {% assign plates = site.data.plates %}
 {% for plate in plates  %}
-  {% if plate.item_id == page.item_id %}
+  {% if plate.pid == page.pid %}
     {% unless forloop.first %}
-      {% assign prev_str = prev.item_id %}
+      {% assign prev_str = prev.pid %}
     {% endunless %}
     {% unless forloop.last %}
       {% assign next = plates[forloop.index] %}
-      {% assign next_str = next.item_id %}
+      {% assign next_str = next.pid %}
     {% endunless %}
   {% endif %}
   {% assign prev = plate %}
@@ -26,7 +26,7 @@ layout: default
   <div class="post-content">
     {% include iiif_image.html %}
     <br><br>
-    <h2>{{ page.name }}</h2>
+    <h2>{{ page.title }}</h2>
     {% if page._date %}<h3>c. {{ page._date }}</h3>{% endif %}
   </div>
   <center>
