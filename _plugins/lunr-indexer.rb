@@ -31,7 +31,7 @@ module Jekyll
         front_matter = "---\nlayout: null\n---\n"
         index_string = "\nvar index = elasticlunr(function () {\nthis.setRef('lunr_id');\n"
         store_string = "\nvar store = [\n"
-        ui_string = "\n$(document).ready(function() {\n$('input#search').on('keyup', function () {\nvar resultdiv = $('#results');\nvar query = $(this).val().normalize('NFD').replace(/[\u0300-\u036f]/g, "");\nvar result = index.search(query, {expand: true});\nresultdiv.empty();\nfor (var item in result) {\nvar ref = result[item].ref;\nvar searchitem = '<div class=\"result\"><b><a href=\"' + store[ref].link + '\" class=\"result-title\">' + store[ref].title + '</a></b><br><p class=\"result-meta\">'\n"
+        ui_string = "\n$(document).ready(function() {\n$('input#search').on('keyup', function () {\nvar resultdiv = $('#results');\nvar query = $(this).val();\nvar result = index.search(query, {expand: true});\nresultdiv.empty();\nfor (var item in result) {\nvar ref = result[item].ref;\nvar searchitem = '<div class=\"result\"><b><a href=\"' + store[ref].link + '\" class=\"result-title\">' + store[ref].title + '</a></b><br><p class=\"result-meta\">'\n"
 
         total_fields = []
         count = 0

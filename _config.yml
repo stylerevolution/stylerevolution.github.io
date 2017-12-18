@@ -8,7 +8,7 @@ markdown: kramdown
 theme: minima
 permalink: pretty
 
-exclude: [Gemfile*, node_modules, vendor, Rakefile, README*]
+exclude: [Gemfile*, node_modules, vendor, Rakefile, README*, spec]
 
 collections:
   pages:
@@ -30,3 +30,13 @@ lunr:
   - collection: pages
     content: true
     fields: [ title, student ]
+
+
+# search tests
+quoll:
+  full:
+    page: search
+    terms:
+      - "napoleon"
+      - "rose"
+      - "crêpe"
