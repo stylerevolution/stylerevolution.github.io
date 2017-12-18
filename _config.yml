@@ -24,16 +24,9 @@ webrick:
     "Access-Control-Allow-Origin": "*"
 
 lunr:
-  content: true
-  meta:
-    - dir: "_plates"
-      permalink: "/plates"
-      fields:
-        - title
-        - date
-        - caption
-        - translation
-    - dir: "_pages"
-      permalink: ""
-      fields:
-        - title
+  - collection: plates
+    content: false
+    fields: [ title, _date, caption, translation, student ]
+  - collection: pages
+    content: true
+    fields: [ title, student ]
