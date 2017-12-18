@@ -2,10 +2,10 @@
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "/tiles/424/manifest.json",
   "@type": "sc:Manifest",
-  "label": "style revolution plates - plates - 424",
+  "label": "style revolution plates - plate - 424",
   "thumbnail": "/tiles/images/424-1/full/182,/0/default.jpg",
   "viewingDirection": "left-to-right",
-  "viewingHint": "paged",
+  "viewingHint": "individuals",
   "sequences": [
     {
       "@id": "/tiles/424/sequence/default.json",

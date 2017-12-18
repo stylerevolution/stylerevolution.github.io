@@ -2,7 +2,7 @@
 layout: default
 title: The Persistence of Color
 author: Avery Schroeder
-permalink: /persistencecolor
+permalink: /persistencecolor/
 ---
 {% assign colors = site.data.colors | sort: 'name'  %}
 {% assign letters = 'a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z' | split: ',' %}
@@ -33,7 +33,7 @@ permalink: /persistencecolor
         {% assign color_letter = color.name | slice: 0 | downcase %}
         {% if color_letter == letter %}
       		<tr>
-      			<td class="colorimage"><img src="{{ site.baseurl }}/colorswatches/{{ color.file }}"></td>
+      			<td class="colorimage"><img src="{{ site.baseurl }}/colorswatches/{{ color.file }}" alt="{{ color.name }}"></td>
       			<td class="colordesc"><b>{{ color.name }}</b><br>{{ color.description }}</td>
       		</tr>
         {% endif %}

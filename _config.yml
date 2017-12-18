@@ -1,5 +1,5 @@
-title: style revolution plates
-description: >- #
+title: Style Revolution
+description: "Journal des Dames et des Modes"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -8,16 +8,15 @@ markdown: kramdown
 theme: minima
 permalink: pretty
 
-exclude: [Gemfile*, node_modules, vendor, Rakefile]
+exclude: [Gemfile*, node_modules, vendor, Rakefile, README*]
 
 collections:
   pages:
     output: true
-  plate:
+  plates:
     output: true
     source: plates.csv
-    key: id
-    directory: plate
+    directory: plates
     layout: plate-page
 
 webrick:
@@ -27,10 +26,10 @@ webrick:
 lunr:
   content: true
   meta:
-    - dir: "_plate"
-      permalink: "/plate"
+    - dir: "_plates"
+      permalink: "/plates"
       fields:
-        - name
+        - title
         - date
         - caption
         - translation
