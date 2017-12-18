@@ -1,4 +1,4 @@
-pid,an,name,rev_year,_date,caption,translation,student,keywords
+pid,an,title,rev_year,_date,caption,translation,student,keywords
 1,6,Plate 1,,1797,Perruque grecque. Collier montant ganses sur le corsage petit fichu. Robe froussée jusu'au mollet.,Greek wig. Necklace on collar braided into straps on the bodice a small kercheif. Frilly dress up to the calf.,Meghan Collins,[ Froussée ]
 2,6,Plate 2,,1797,Toquet en gaxe Bouillonnée. Spencer par dessus la robe. Schall long.,Toquet (Peasant style bonnet) in gauze Bouillonneée (?). Spencer (fitted cardigan or jacket that hits either waist or bust level) over the dress. Long shawl.,Meghan Collins,[ toquet ]
 3,6,Plate 3,,1797,"Chapeau-Spencer, Robe de Linon, Schall Long, Rubans croisés, en forme de Cothurne","Spencer hat, Linen dress, long shawl, Cothurne (type of boot worn by actors in Greek tragedies) tied with crossing ribbons",Avery Schroeder,"[ Chapeau-Spencer, Schall, Cothurne ]"
@@ -88,7 +88,7 @@ pid,an,name,rev_year,_date,caption,translation,student,keywords
 144,7,Plate 144,,1799,Ample redingote. Large pantalon.,Large redingote. Large pants.,Barthélemy Glama,"[ Redingote, Masculin ]"
 154,7,Plate 154,,,"Chapeau-Capote, orné de Fleurs et d'Epis.","Capote hat, ornamented with pine needles and cones. (?)",Jodi Mikesell,[ Capote ]
 155,7,Plate 155,,1799,Bokay.,Bokay.,Barthélemy Glama,"[ Bokay, Masculin ]"
-163,8,Plate163,,,Intérieur d'Appartement.,Apartment Interior.,Jodi Mikesell,
+163,8,Plate 163,,,Intérieur d'Appartement.,Apartment Interior.,Jodi Mikesell,
 166,8,Plate 166,,,Vue de Frascati.,View of Frascati.,Anne Higonnet,[ Frascati ]
 183,8,Plate 183,,1799,Mise d'un jeune homme,Appearance of a young man,Brontë Hebdon,
 188,8,Plate 188,,January 1800,Mise d'une Elégante,Outfit of a fashionable woman.,Zoë Dostal,"[ Elegant, turban ]"
