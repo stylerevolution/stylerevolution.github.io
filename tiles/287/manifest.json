@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "/tiles/287/manifest.json",
   "@type": "sc:Manifest",
-  "label": "style revolution plates - plate - 287",
+  "label": "Style Revolution - plates - 287",
   "thumbnail": "/tiles/images/287-1/full/195,/0/default.jpg",
   "viewingDirection": "left-to-right",
   "viewingHint": "individuals",
