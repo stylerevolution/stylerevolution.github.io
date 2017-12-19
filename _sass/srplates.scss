@@ -673,14 +673,16 @@ div.interactivemap {
 }
 .corsets img {
     float: right;
-    margin: 0, 15px, 0, 15px;
+    margin: 15px;
+    margin-top: 0px;
     width: 300px;
     height: auto;
 }
 
 .corsetsl img {
     float: left;
-  margin: 0, 15px, 0, 15px;
+    margin: 15px;
+    margin-top: 0px;
     height: 400px;
     width: auto;
 }
