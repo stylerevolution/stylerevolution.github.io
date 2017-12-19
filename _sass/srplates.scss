@@ -660,6 +660,30 @@ div.interactivemap {
     float: center;
     margin-bottom: 2%;
 }
+.corsetsl{
+    position: left;
+    margin: auto;
+    width: 100%;
+    height: 50%;
+    padding: 2%;
+    background-color: white;
+    display: inline-block;
+    float: center;
+    margin-bottom: 2%;
+}
+.corsets img {
+    float: right;
+    margin: 15px;
+    width: 300px;
+    height: auto;
+}
+
+.corsetsl img {
+    float: left;
+    margin: 15px;
+    height: 400px;
+    width: auto;
+}
 
 /*Timeline*/
 
