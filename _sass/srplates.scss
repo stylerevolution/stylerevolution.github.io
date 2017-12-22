@@ -257,7 +257,7 @@ div.button li.button {
     bottom: 0;
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .navlisttwo {
@@ -625,6 +625,7 @@ div.cont-section p {
 .map-link:hover {
     background-color: #fefefe;
     color: red;
+    text-decoration: none;
 }
 
 
