@@ -117,7 +117,7 @@ div.nav-position {
     background-color: #717273;
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     position: fixed;
     z-index: 2;
 }
@@ -162,9 +162,10 @@ li.navlist:hover ul{
     opacity: 1;
 }
 
-.navlist ul li a:hover {
+.navlist ul li a:hover, .selected {
     background: #d61e40;
 }
+
 
 .navlink {
     display: inline-block;
@@ -194,29 +195,10 @@ li.navlist:hover ul{
     padding-bottom: 10px;
 }
 
-div.about-button li.about-button {
+div.button li.button {
     background-color: rgba(238, 34, 72, 0.8);
 }
 
-div.plates-button li.plates-button {
-    background-color: rgba(238, 34, 72, 0.8);
-}
-
-div.timeline-button li.timeline-button {
-    background-color: rgba(238, 34, 72, 0.8);
-}
-
-div.map-button li.map-button {
-    background-color: rgba(238, 34, 72, 0.8);
-}
-
-div.glossary-button li.glossary-button {
-    background-color: rgba(238, 34, 72, 0.8);
-}
-
-div.exhibits-button li.exhibits-button {
-    background-color: rgba(238, 34, 72, 0.8);
-}
 
 
 /*landing page*/
