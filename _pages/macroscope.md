@@ -91,8 +91,4 @@ The result of the visualizations of the average intensity of the plates per year
 
 ## Bibliography
 
-Manovich, Lev. [Guide to visualizing video and image sequences](https://docs.google.com/document/d/1PqSZmKwQwSIFrbmVievbStTbt7PrtsxNgC3W1oY5C4/edit?pli=1). Version 3/30/2012 
-
-— [ImagePlot User Guide](https://docs.google.com/document/d/1zkeik0v2LJmi1TOK4OxT7dVKJO7oCmx\_fNP8SYdTG-U/edit?hl=en\_US&pli=1). 
-
-— [Style Space: How to compare image sets and follow their evolution.](http://lab.softwarestudies.com/2011/08/style-space-how-to-compare-image-sets.html) Software Studies 2011.
+Manovich, Lev. [Style Space: How to compare image sets and follow their evolution.](http://lab.softwarestudies.com/2011/08/style-space-how-to-compare-image-sets.html) Software Studies 2011.
