@@ -115,6 +115,11 @@
       "label": "Style Revolution - plates - 183"
     },
     {
+      "@id": "/tiles/188/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Style Revolution - plates - 188"
+    },
+    {
       "@id": "/tiles/189/manifest.json",
       "@type": "sc:Manifest",
       "label": "Style Revolution - plates - 189"
