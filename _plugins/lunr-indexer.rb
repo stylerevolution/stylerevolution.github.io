@@ -74,7 +74,7 @@ module Jekyll
         store_string = store_string.chomp(", ") + "];"
         ui_string = ui_string.chomp(" / '") + "</p></div>';\nresultdiv.append(searchitem);}\n});\n});"
 
-        puts "writing lunr index to " + @idx_path
+        # puts "writing lunr index to " + @idx_path
         FileUtils.mkdir_p @dir
         File.open(@idx_path, 'w') { |file| file.write( front_matter + index_string + store_string ) }
         unless File.exists?(@ui_path)
