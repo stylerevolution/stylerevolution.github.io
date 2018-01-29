@@ -1,10 +1,10 @@
 language: ruby
 rvm:
   - 2.4
+addons:
+  chrome: stable
+before_install:
+  - google-chrome-stable --headless --disable-gpu --remote-debugging-port=9222 http://localhost &
 script:
   - bundle exec jekyll build
   - bundle exec rake wax:test
-addons:
-  apt:
-    packages:
-      - google-chrome-stable
