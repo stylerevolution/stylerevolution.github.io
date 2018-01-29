@@ -1,10 +1,16 @@
 language: ruby
+sudo: required
+dist: trusty
 rvm:
   - 2.4
+
 addons:
   chrome: stable
 before_install:
+  - gem update --system
+  - gem install bundler
   - google-chrome-stable --headless --disable-gpu --remote-debugging-port=9222 http://localhost &
+
 script:
   - bundle exec jekyll build
   - bundle exec rake wax:test

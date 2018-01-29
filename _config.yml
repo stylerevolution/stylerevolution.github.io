@@ -22,20 +22,22 @@ collections:
     output: true
     iiif: true
     source: plates.csv
-    directory: plates
+    directory: _plates
     layout: plate-page
     lunr_index:
       content: false
       fields: [title, _date, caption, translation, student]
 
+lunr_language: true
 # search tests
 quoll:
   full:
     page: search
     terms:
-      - napoleon
-      - rose
+      - turban
+      - cheveux
       - crêpe
+      - rose
 
 webrick:
   headers:
