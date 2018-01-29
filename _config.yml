@@ -13,30 +13,30 @@ exclude: [Gemfile*, node_modules, vendor, Rakefile, README*, spec]
 collections:
   pages:
     output: true
+  exhibits:
+    output: true
+    lunr_index:
+      content: true
+      fields: [title, student]
   plates:
     output: true
+    iiif: true
     source: plates.csv
     directory: plates
     layout: plate-page
-
-webrick:
-  headers:
-    "Access-Control-Allow-Origin": "*"
-
-lunr:
-  - collection: plates
-    content: false
-    fields: [ title, _date, caption, translation, student ]
-  - collection: pages
-    content: true
-    fields: [ title, student ]
-
+    lunr_index:
+      content: false
+      fields: [title, _date, caption, translation, student]
 
 # search tests
 quoll:
   full:
     page: search
     terms:
-      - "napoleon"
-      - "rose"
-      - "crêpe"
+      - napoleon
+      - rose
+      - crêpe
+
+webrick:
+  headers:
+    "Access-Control-Allow-Origin": "*"

@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
-gem 'jekyll', '~> 3.6.2'
-gem 'minima', '~> 2.0'
+gem 'jekyll', '~> 3.7.2'
+gem 'minima', '~> 2.2.1'
 
 
 group :development, :test do
@@ -10,5 +10,5 @@ group :development, :test do
   gem 'selenium-webdriver'
   gem 'chromedriver-helper'
   gem 'rack-jekyll'
-  gem 'wax_tasks', :git => 'https://github.com/mnyrop/wax_tasks'
+  gem 'wax_tasks'
 end

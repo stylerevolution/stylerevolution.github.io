@@ -33,7 +33,7 @@ permalink: /persistencecolor/
         {% assign color_letter = color.name | slice: 0 | downcase %}
         {% if color_letter == letter %}
       		<tr>
-      			<td class="colorimage"><img src="{{ site.baseurl }}/colorswatches/{{ color.file }}" alt="{{ color.name }}"></td>
+      			<td class="colorimage"><img src="{{ site.baseurl }}/images/colorswatches/{{ color.file }}" alt="{{ color.name }}"></td>
       			<td class="colordesc"><b>{{ color.name }}</b><br>{{ color.description }}</td>
       		</tr>
         {% endif %}

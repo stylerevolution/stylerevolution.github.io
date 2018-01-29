@@ -4,17 +4,17 @@ $search_tests.each do |search|
 
   describe search_page, :type => :feature, :js => true do
     before(:all) do
-      visit($baseurl + "/" + search_page)
-      @search_bar = find(:css, "#search")
+      visit($baseurl + '/' + search_page)
+      @search_bar = find(:css, '#search')
     end
     it "has a search bar." do
       expect(@search_bar)
     end
     terms.each do |term|
-      context "when searching the term \"" + term + "\"" do
+      context "when searching the term '#{term}'" do
         before(:all) do
           @search_bar.set term
-          @result_link = first(".result").first("a")['href']
+          @result_link = first('.result').first('a')['href']
         end
         after(:all) do
           visit($baseurl + "/" + search_page)
@@ -22,7 +22,7 @@ $search_tests.each do |search|
         it "yields at least 1 result" do
           expect(@result_link)
         end
-        it "which links to a page including " + term + "\"" do
+        it "which links to a page including '#{term}'" do
           visit(@result_link)
           expect(have_text(term))
         end
