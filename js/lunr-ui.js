@@ -5,7 +5,7 @@ layout: null
 $(document).ready(function() {
   $('input#search').on('keyup', function() {
     var resultdiv = $('#results');
-    var query = $(this).val().normalize('NFD').replace(/[\u0300-\u036f]/g, "");
+    var query = $(this).val();
     var result = index.search(query, { expand: true });
     resultdiv.empty();
     for (var item in result) {

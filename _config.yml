@@ -3,13 +3,13 @@ description: "Journal des Dames et des Modes"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Build settings
+# build settings
 markdown: kramdown
-theme: minima
 permalink: pretty
-
 exclude: [Gemfile*, node_modules, vendor, Rakefile, README*, spec]
+lunr_language: true
 
+# collection settings
 collections:
   pages:
     output: true
@@ -28,16 +28,11 @@ collections:
       content: false
       fields: [title, _date, caption, translation, student]
 
-lunr_language: true
 # search tests
 quoll:
   full:
     page: search
-    terms:
-      - turban
-      - cheveux
-      - crêpe
-      - rose
+    terms: [turban, cheveux, crêpe, rose]
 
 webrick:
   headers:

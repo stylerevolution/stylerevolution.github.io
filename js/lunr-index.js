@@ -1,15 +1,15 @@
 ---
 layout: null
 ---
-  var index = new elasticlunr.Index;
+var index = new elasticlunr.Index;
 index.setRef('lunr_id');
-index.saveDocument(false);
-index.pipeline.remove(elasticlunr.trimmer);
+index.saveDocument(true);
 index.addField('title');
 index.addField('student');
 index.addField('_date');
 index.addField('caption');
 index.addField('translation');
+index.addField('content');
 index.addDoc({
   "lunr_id": 0,
   "link": "{{ site.baseurl }}/anticomania/",
