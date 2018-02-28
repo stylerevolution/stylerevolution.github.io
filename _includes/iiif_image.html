@@ -1,5 +1,5 @@
 
-<script defer="true" src="{{ site.baseurl }}/iiif_viewer/openseadragon/openseadragon.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.3.1/openseadragon.min.js"></script>
 <script>
 //<![CDATA[
 var iiif_viewerfuncs = [];
@@ -20,8 +20,8 @@ iiif_viewerfuncs.push(
     OpenSeadragon({
       id: "openseadragon{{ page.instancecounter }}",
       minZoomImageRatio: 1,
-      prefixUrl: "{{ site.baseurl }}/iiif_viewer/openseadragon/images/",
-      tileSources: "{{ site.baseurl }}/tiles/images/{{ page.pid }}-1/info.json",
+      prefixUrl: "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.3.1/images/",
+      tileSources: "{{ include.iiif_uri }}",
       crossOriginPolicy: false
     });
   }

@@ -85,13 +85,14 @@ ul {
 .site-header {
     width: 100%;
     border-top: 0px;
+    z-index: 10000;
 }
 
 .site-footer-map{
     width: 100%;
     position: fixed;
     bottom: 050;
-    z-index: 2;
+    z-index: 10000;
 }
 
 div.index-nav-position {
@@ -105,7 +106,7 @@ div.nav-position {
     width: 100%;
     position: fixed;
     top: 0;
-    z-index: 2;
+    z-index: 10000;
 }
 
 .nav {
@@ -119,7 +120,7 @@ div.nav-position {
     display: flex;
     justify-content: center;
     position: fixed;
-    z-index: 2;
+    z-index: 10000;
 }
 
 .navlist {
@@ -183,6 +184,7 @@ li.navlist:hover ul{
 
 #navlanding {
     position: static;
+    z-index: 100000;
 }
 
 .home_logo {
