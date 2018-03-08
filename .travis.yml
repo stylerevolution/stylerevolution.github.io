@@ -1,5 +1,7 @@
 sudo: required
 language: ruby
+addons:
+  chrome: stable
 rvm:
   - 2.4
 script:
