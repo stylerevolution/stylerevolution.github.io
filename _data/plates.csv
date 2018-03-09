@@ -1,4 +1,4 @@
-flag,plate,an,name,rev_year,_date,caption,translation,student,keywords,column,flag_translation
+flag,pid,an,name,rev_year,_date,caption,translation,student,keywords,column,flag_translation
 ,1,6,Plate 1,,1797,Perruque grecque. Collier montant ganses sur le corsage petit fichu. Robe froussée jusu'au mollet.,"Greek wig. High necklace, corded bodice, small kerchief. Dress raised up to the calf.",Meghan Collins,"perruque, grecque, corsage, robe",,x
 ,2,6,Plate 2,,1797,Toquet en gaze Bouillonnée. Spencer par dessus la robe. Schall long.,Cap with gathered gauze. Spencer over the dress. Long shawl.,Meghan Collins,"toquet, spencer, gaze",,x
 ,3,6,Plate 3,,1797,"Chapeau-Spencer. Robe de Linon. Schall Long, Rubans croisés, en forme de Cothurne",Spencer-hat. Lawn dress. Long shawl. Laced shoe-,Avery Schroeder,"chapeau-spencer, schall, cothurne",,
@@ -34,7 +34,8 @@ flag,plate,an,name,rev_year,_date,caption,translation,student,keywords,column,fl
 ,31,6,Plate 31,,1798,"Chapeau blanc à la Lisbeth sur un Toquet Cerise, bordé en Crêpe noir. Croix à la Jeannette. (Dess. à Longchamp)","White Lisbeth-style hat on a cherry-red cap, edged in black crepe. Jeannette-style cross. (Drawn at Longchamp)",Emily Berger,"lisbeth, toquet, cerise",,
 ,32,6,Plate 32,,1798,Elégante en Costume de Bal les Cheveux relevés à la Grecque; à l'instant du repos après le Tournoiement d'une Valse.,,Jewel Britton,"bal, grecque",,needs translation
 ,33,6,Plate 33,,1798,"Grisette en négligé du Matin, faisant sa provision au Marché des quinze-vingts. (Dess. d’ap. nat. le 28. Germinal)","Shop-girl in casual morning gown, getting supplies at the Marché des quinze-vingts (Drawn after nature, on the 28th of Germinal)",Emily Berger,"négligé, matin",,
-,34,6,Plate 34,,1798,"Chapeau à la Primerose. Manches lassées. Tablier Sans Poches, de Taffetas Quadrillé.","Primrose hat. Laced sleeves. Apron without pockets, in tiled sarcenet.",Emily Berger,"manches, tablier",,
+,34,6,Plate 34,,1798,"Chapeau à la Primerose. Manches lassées. Tablier Sans Poches, de Taffetas Quadrillé.
+","Primrose hat. Laced sleeves. Apron without pockets, in tiled sarcenet.",Emily Berger,"manches, tablier",,
 ,35,6,Plate 35,,1798,St. Aubin dans Primerose. Costume d’une Villageoise Provençale.,S. Aubin in the role of Primerose. Provincial village costume.,Emily Berger,"villageoise, provençale",,
 ,36,6,Plate 36,,1798,"Turban en Spirale, garni de perles de Jais, fichu de Gaze, Brodé en Velours et en Paillettes.","Spiral turban, decorated with jet beads, gauze handkerchief, trimmed with velvet and spangles.",Emily Berger,"ruban, spirale, perles, fais, fichu, gaze, gauze, paillettes",,
 ,37,6,Plate 37,,1798,"Coiffure négligée en fichu. Robe échancrée sur le dos, Croisures à la Victime.","Casual hairstyle in a handkerchief. Dress open-pointed in the back, victim-style crossed ribbons.",Emily Berger,"coiffure, fichu, robe",,
@@ -87,7 +88,8 @@ flag,plate,an,name,rev_year,_date,caption,translation,student,keywords,column,fl
 ,84,7,Plate 84,,,"Chapeau de Velours Souci, orné de gances d’argent. Schall Ponceau à Bordures Noires. Magasin de Modes.","Yellow-Orange Velvet Hat, trimmed with silver cord. Bright Red Shawl with Black Edges. Magasin de Modes.",Anne Higonnet,"chapeau, schall, magasin",,
 ,85,7,Plate 85,,,Chapeau de Velours à fond plissé. Fichu – Schall à Bordure Effilée. Magasin de Modes.,Velvet Hat with pleated crown. Kerchief – Shawl with Fringed Border. Magasin de Modes.,Anne Higonnet,"chapeau, fichu, schall, magasin",,
 ,86,7,Plate 86,,,"Toque de Velours, Bordée d’une Dentelle d’or, demi corset De Velours Ponceau. Opéra, 27 Nivose.","Soft Velvet Hat, Edged with gold Lace, half corset In Bright Red Velvet. Opera, 27 Nivose.",Anne Higonnet,"toque, corset, opera",,
-,87,7,Plate 87,,,"Capote de Satin Rose, Bordée en Tul. Douillette Garnie de sa Fourrure.","Pink satin bonnet, bound with net. Loose-cut coat decorated with its fur.",Emily Berger,"bonnet, satin, tul, douillette, fourrure",,
+,87,7,Plate 87,,,"Capote de Satin Rose, Bordée en Tul. Douillette Garnie de sa Fourrure.","Pink satin bonnet, bound with net. Loose-cut coat decorated with its fur.
+",Emily Berger,"bonnet, satin, tul, douillette, fourrure",,
 ,88,7,Plate 88,,15 January 1798,Tournure d'un jeune homme.,Young man's outfit,Brontë Hebdon,"jeune homme, masculin",,
 ,89,7,Plate 89,,,"Turban en Ruche, fichu Suisse vu par derrière.","Ruched turban, Swiss handkerchief seen from behind.",Emily Berger,"turban, rûche, suisse, fichu",,
 ,90,7,Plate 90,,,"Chapeau à la Minerve, garnie de Gances entrelacées. Douillette bordée en Velours.","Minerva-style hat, decorated with interlaced cord. Loose-fitted coat edged with velvet.",Emily Berger,"minerve, gances, douillette",,
@@ -95,7 +97,8 @@ flag,plate,an,name,rev_year,_date,caption,translation,student,keywords,column,fl
 ,92,7,Plate 92,,,Casque à la Minerve. Fichu – Chemise.,Minerva-style helmet. Handkerchief – Chemise-dress.,Emily Berger,"casque, fichu, chemise",,
 ,93,7,Plate 93,,15 February 1798,"Cheveux courts, gilets bordés, pantalon et Bottines.","Short hair, bordered vest, pants and boots",Brontë Hebdon,"gilets, bottines",,
 ,94,7,Plate 94,,20 February 1798,"Chapeau de paille blanche, ample voile. spencer de drap. ","Straw Hat, large veil, draped spencer",Brontë Hebdon,"paille, voile, spencer",,
-,95,7,Plate 95,,,"Chapeau à fond plissé, orné d’une demi-Guirlande. Spencer Bordé en Velours.","Hat with pleated crown, ornamented with a half-garland. Spencer bound with velvet.",Emily Berger,"fond, plissé, guirlande, spencer",,
+,95,7,Plate 95,,,"Chapeau à fond plissé, orné d’une demi-Guirlande. Spencer Bordé en Velours.","Hat with pleated crown, ornamented with a half-garland. Spencer bound with velvet.
+",Emily Berger,"fond, plissé, guirlande, spencer",,
 ,96,7,Plate 96,,,Bonnet au Repentir. Robe à Manches courtes.,Repentance-style bonnet. Short-sleeved dress.,Emily Berger,"repentir, manches",,
 ,97,7,Plate 97,,,"Cornette en Crêpè, Ornée d’une pointe de fichu.","Crape cornett, ornamented with a handkerchief corner.",Emily Berger,"cornette, fichu",,
 ,98,7,Plate 98,,,Bonnet - Turban en Crêpe. fichu - Ceinture.,Turban bonnet made of crepe fabric. Scarf-belt.,Jodi Mikesell,"bonnet, turban, ceinture",,
@@ -346,7 +349,8 @@ flag,plate,an,name,rev_year,_date,caption,translation,student,keywords,column,fl
 ,340,10,Plate 340,,,Turban de fantaisie. Robe Croisée en fichu.,Fancy turban. Dressed crossed like a handkerchief.,Emily Berger,"fantasie, turban, fichu",,
 ,341,10,Plate 341,,,1. Turban en pyramide. 2. Coeffures oblongues faites avec un voile. 3. Voile de mousseline sur un Béguin. 4. Coeffure de fantaisie.,1. Pyramid turban. 2. Oblong hairstyles made with a veil. 3. Muslin veil on a bonnet. 4. Fancy hairstyle.,Emily Berger,"turban, pyramide, voile",,
 ,342,10,Plate 342,,,Chapeau de Crêpe quadrillé. Schall de Cachemire.,Hat in squared crape. Cashmere shawl.,Emily Berger,"quadrillé, cachemire, schall",,
-,343,10,Plate 343,,,"Cornette unie, à pointes.","Solid cornett, with lappets.",Emily Berger,"cornette, pointes",,
+,343,10,Plate 343,,,"Cornette unie, à pointes.","Solid cornett, with lappets.
+",Emily Berger,"cornette, pointes",,
 ,344,10,Plate 344,,,Turban en Pyramide. Schall foulard.,Pyramid turban. Scarf shawl.,Emily Berger,"pyramide, turban, schall, foulard",,
 ,345,10,Plate 345,,,"Coeffure à Rézeau. Schall de Laine, Broché.","Hairstyle with a net. Shawl in wool, brocaded.",Emily Berger,"rézeau, schall, broché",,
 ,346,10,Plate 346,,11 décembre 1803,Turban posé sur un Bandeau.,Turban fit under a headwrap.,Emily Cormack,"turban, bandeau",,
@@ -410,7 +414,8 @@ flag,plate,an,name,rev_year,_date,caption,translation,student,keywords,column,fl
 ,404,10,Plate 404,,,Cornette à Mentonnière plisée. Fichu brodé en Or.,Cornett with pleated chinstrap. Handkerchief embroidered in gold.,Emily Berger,"cornette, mentonnière, lisé",,
 ,405,10,Plate 405,,,Chapeau de Paille à fond de Satin. Fichu-guimpe.,Straw hat with satin crown. Handkerchief-wimple.,Emily Berger,"paille, satin, fichu, guimpe",,
 ,406,10,Plate 406,,,Cannezou à Manches Larges. Fichu de Dentelle.,Short jacket with wide sleeves. Lace handkerchief.,Emily Berger,"cannezou, fichu, dentelle",,
-,407,10,Plate 407,,,Coeffure formée d’un fichu. Tunique à la Mameluck.,"Hairstyle made with a handkercheif. Mameluck-style tunic.",Emily Berger,"coeffure, fichu, mameluck, tunique",,
+,407,10,Plate 407,,,Coeffure formée d’un fichu. Tunique à la Mameluck.,"Hairstyle made with a handkercheif. Mameluck-style tunic.
+",Emily Berger,"coeffure, fichu, mameluck, tunique",,
 ,408,10,Plate 408,,,Chapeau de Paille garni en Tulle. Robe à l’Anglaise.,Straw hat decorated in tulle. English-style dress.,Emily Berger,"paille, anglaise",,
 ,409,10,Plate 409,,,Chapeau de Paille coupé sur le Cou. Collier à Camées.,Straw hat cut high on the neck. Necklace with cameos.,Emily Berger,"paille, chapeau, collier, camées",,
 ,410,10,Plate 410,,,Cornette garnie en Tulle. Gorgerette à l’Anglaise. Manches à moitié Bouffantes.,Cornett decorated in tulle. English-style thrat-piece. Half-puffed sleeves.,Emily Berger,"cornette, gorgerette, anglaise",,
@@ -431,7 +436,8 @@ flag,plate,an,name,rev_year,_date,caption,translation,student,keywords,column,fl
 ,425,11,Plate 425,,6 novembre 1802,Voile et Tunique à la Vestale.,Vestal-style veil and tunic.,Zoë Dostal,"récamier, vestale",,
 ,426,11,Plate 426,,,Turban de Batiste. Corsage et Manches Drapés.,Batiste turban. Draped bodice and sleeves.,Emily Berger,"turban, batiste, corsage, manches",,
 ,427,11,Plate 427,,,Chapeau-Turban. Croix entourée de Perles fines.,Hat-turban. Cross surrounded by fine pearls.,Emily Berger,"chapeau, turban, perles",,
-,428,11,Plate 428,,,"Chapeau de Castor. Amazone de casimir.",Beaver hat. Riding-dress in fine wool.,Emily Berger,"chapeau, castor, amazone, casimir",,
+,428,11,Plate 428,,,"Chapeau de Castor. Amazone de casimir.
+",Beaver hat. Riding-dress in fine wool.,Emily Berger,"chapeau, castor, amazone, casimir",,
 ,429,11,Plate 429,,,Chapeau à Bord retrousée. Schall Turc.,Hat with upturned brim. Turkish shawl.,Emily Berger,"chapeau, schall, turc, bord",,
 ,430,11,Plate 430,,,Capote Anglaise.,English hood.,Emily Berger,"anglaise, capote",,
 ,431,11,Plate 431,,,Fichu de Tulle Brodée. Manches à la Mameluck.,Handkerchief in embroidered tulle. Mameluck-style sleeves.,Emily Berger,"fichu, manches, mameluck",,
@@ -485,7 +491,8 @@ flag,plate,an,name,rev_year,_date,caption,translation,student,keywords,column,fl
 ,479,11,Plate 479,,,"Capote de petit Taffetas, Garnie en Chicorée.","Hood in petit-taffeta, decorated chickory-style.",Emily Berger,"capote, taffetas, chicoré",,
 ,480,11,Plate 480,,,Tunique Juive à Manches larges.,Calf-length tunic with wide sleeves.,Emily Berger,"tunique, juive, manches",,
 ,481,11,Plate 481,,4 juillet 1803,Cornette sous un Voile. Garnitures en Fraises.,Cornett under a veil. Decorations in circular ruffles.,Zoë Dostal,"femme artist, tabouret, egyptien, grecque, mirza, chimère, cygne",,
-,482,11,Plate 482,,,"1. Chapeau de Sparterie. 2. Capotes de Taffetas. 3. Capote d’Organdie. 4. Cornettes du Matin. 5. Bonnets de Dentelle. 6. Chapeau de Paille, garni en Fleurs. 7. Capote de Florence.","1. Plaited straw hat. 2. Taffeta hoods. 3. Organdy hood. 4. Morning cornets. 5. Lace bonnets. 6. Straw hat, decorated with flowers. 7. Hood from Florence.",Emily Berger,"chapeau, sparterie, capote, taffetas, organdie, cornette, matin, dentelle, organdie",,
+,482,11,Plate 482,,,"1. Chapeau de Sparterie. 2. Capotes de Taffetas. 3. Capote d’Organdie. 4. Cornettes du Matin. 5. Bonnets de Dentelle. 6. Chapeau de Paille, garni en Fleurs. 7. Capote de Florence.
+","1. Plaited straw hat. 2. Taffeta hoods. 3. Organdy hood. 4. Morning cornets. 5. Lace bonnets. 6. Straw hat, decorated with flowers. 7. Hood from Florence.",Emily Berger,"chapeau, sparterie, capote, taffetas, organdie, cornette, matin, dentelle, organdie",,
 ,483,11,Plate 483,,juillet 1803?,"Capote d’Organdie, piquée.",Hood in piqué organdy.,Anne Higonnet,"organdie, piquée",,
 ,484,11,Plate 484,,,"Capote d’Organdie, à Côtes.","Organdy hood, with ribs.",Emily Berger,"capote, organdie, côtes",,
 ,485,11,Plate 485,,,Tête à demi Tondue. Fichu à Bouts pendants.,Half-shaved head. Handkerchief with hanging ends.,Emily Berger,"tête tondue, fichu, bouts",,
