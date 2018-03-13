@@ -11,7 +11,7 @@ permalink: /plates/
 <div class="gallery-block">
 <ul class="gallery-section">
 {% for item in site.data.plates %}
-	<li class="gallery"><a href="{{ site.baseurl }}/plates/{{item.pid}}"><img class="galleryimage" src="{{ site.baseurl }}/iiif/images/plates-{{item.pid}}-1/full/full/0/default.jpg" alt="plate {{ item.pid}}"></a></li>
+	<li class="gallery"><a href="{{ site.baseurl }}/plates/{{item.pid}}"><img class="galleryimage" src="{{ site.baseurl }}/images/thumbnails/{{item.pid}}.jpg" alt="plate {{ item.pid}}"></a></li>
 {% endfor %}
 </ul>
 </div>
