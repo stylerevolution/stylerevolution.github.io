@@ -158,7 +158,7 @@ li.navlist:hover ul{
     display: block;
     text-align: left;
     font-size: 20px;
-    color: white;
+    color: #ffffff !important;
     text-decoration: none;
     opacity: 1;
 }
@@ -170,7 +170,7 @@ li.navlist:hover ul{
 
 .navlink {
     display: inline-block;
-    color: white;
+    color: #ffffff !important;
     text-align: center;
     padding: 14px 45px;
     border: none;
@@ -404,46 +404,6 @@ div.cont-section p {
     max-width: 100%;
 }
 
-
-/*Glossary Home Page*/
-
-// .glossary {
-//     width: 100%;
-//     align-items: center;
-//     justify-content: center;
-//     margin: auto;
-//     display: inline-block;
-//     float: left;
-// }
-
-// .textilegloss {
-//     width: 48%;
-//     height: 450px;
-//     float: left;
-//     margin-left: auto;
-// }
-
-// .colorgloss {
-//     width: 48%;
-//     height: 450px;
-//     margin-left: 54%;
-//     margin-right: auto;
-// }
-
-// .textilegloss, .colorgloss {
-//     background-color: white;
-//     text-align: center;
-//     padding-top: 0px;
-// }
-
-/* Glossaries*/
-
-// div.glossarypage {
-//     display: inline-block;
-//     text-align: center;
-//     width: 740px;
-// }
-
 .letter {
     text-align: center;
     font-size: 50px;
@@ -452,6 +412,17 @@ div.cont-section p {
 
 .color-dic {
     width: 100%;
+    border: 0 !important;
+    outline: 0 !important;
+    vertical-align: baseline;
+    background: transparent;
+    border-collapse:collapse;
+    th, tr, td{
+      border: 0 !important;
+      outline: 0 !important;
+      background: transparent !important;
+      border-collapse: collapse;
+    }
 }
 
 .colordesc {
@@ -461,21 +432,17 @@ div.cont-section p {
     font-size: 18px;
     table-layout: fixed;
     vertical-align: middle;
+    border: 0;
 }
 
 .colorimage {
-      padding: 20px;
-      img{
-        border: 1px solid grey !important;
-        width: 50px !important;
-        height: 50px !important;
-      }
+    padding: 20px;
+    img{
+      border: 1px solid grey !important;
+      width: 50px !important;
+      height: 50px !important;
+    }
 }
-
-// .color {
-//     font-weight: bold;
-//     text-align: center;
-// }
 
 .textile {
     font-weight: bold;
@@ -514,7 +481,7 @@ div.cont-section p {
 
 .galleryimage {
     display: inline-block;
-    width:110px;height:150px;
+    height:150px;
     padding: 1% 5px 10px 5px;
 }
 

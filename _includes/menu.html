@@ -1,20 +1,17 @@
-
-    <ul class="nav" id="navlanding">
-        <li class="navlist button">
-          <a class="navlink {% if page.url == '/' %}selected{% endif %}" href="/">EXHIBITS</a>
-           
-        </li>
-        <li class="navlist button">
-          <a class="navlink {% if page.url == '/plates/' %}selected{% endif %}" href="{{site.baseurl}}/plates">PLATES</a>
-        </li>
-        <li class="navlist button">
-          <a class="navlink {% if page.url == '/about/' %}selected{% endif %}" href="/about">ABOUT</a>
-        </li>
-        <li class="navlist button">
-          <a class="navlink {% if page.url == '/credits/' %}selected{% endif %}" href="/credits">CREDITS</a>
-        </li>
-        <li class="navlist">
-          <a class="navlink {% if page.url == '/search/' %}selected{% endif %}" href="/search"><img src="{{ site.baseurl }}/images/search.png" alt="search icon" width="25"/></a>
-        </li>
-    </ul>
-
+<ul class="nav" id="navlanding">
+  <li class="navlist button">
+    <a class="navlink {% if page.url == '/' %}selected{% endif %}" href="/">EXHIBITS</a>
+  </li>
+  <li class="navlist button">
+    <a class="navlink {% if page.url == '/plates/' %}selected{% endif %}" href="{{site.baseurl}}/plates">PLATES</a>
+  </li>
+  <li class="navlist button">
+    <a class="navlink {% if page.url == '/about/' %}selected{% endif %}" href="/about">ABOUT</a>
+  </li>
+  <li class="navlist button">
+    <a class="navlink {% if page.url == '/credits/' %}selected{% endif %}" href="/credits">CREDITS</a>
+  </li>
+  <li class="navlist">
+    <a class="navlink {% if page.url == '/search/' %}selected{% endif %}" href="/search"><img src="{{ site.baseurl }}/images/search.png" alt="search icon" width="25"/></a>
+  </li>
+</ul>
