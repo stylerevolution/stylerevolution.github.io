@@ -14,6 +14,7 @@
     {% else %}
       {% assign next_url = documents[forloop.index].url | relative_url %}
     {% endif %}
+    {% break %}
   {% endif %}
   {% assign prev = doc %}
 {% endfor %}
