@@ -1,14 +1,13 @@
 ---
 layout: default
 ---
-{% include pagination.html pid=page.pid %}
-
 <article class="post">
   <div class="post-content">
     {% assign uri = site.baseurl | append: "/iiif/images/plates-" | append: page.pid | append: "-1/info.json" %}
     {% include iiif_image.html iiif_uri=uri %}
-    <br><br>
-    <h2>{{ page.title }}</h2>
+    {% include pagination.html collection=page.collection pid=page.pid %}
+    
+    <h2>Plate {{ page.title }}</h2>
     {% if page._date %}<h3>c. {{ page._date }}</h3>{% endif %}
   </div>
   <center>
