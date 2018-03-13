@@ -6,7 +6,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # build settings
 markdown: kramdown
 permalink: pretty
-exclude: [Gemfile*, node_modules, vendor, Rakefile, README*, spec]
+exclude: [Gemfile*, node_modules, extra, vendor, Rakefile, README*, spec]
 lunr_language: true
 
 # collection settings
