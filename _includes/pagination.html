@@ -1,20 +1,31 @@
-{% assign plates = site.data.plates %}
-{% for plate in plates  %}
-  {% if plate.pid == include.pid %}
-    {% unless forloop.first %}
-      {% assign prev_str = prev.pid %}
-    {% endunless %}
-    {% unless forloop.last %}
-      {% assign next = plates[forloop.index] %}
-      {% assign next_str = next.pid %}
-    {% endunless %}
+{% assign documents = site[include.collection] | sort: 'order' %}
+{% assign first_url = documents.first.url | relative_url %}
+{% assign last_url = documents.last.url | relative_url %}
+
+{% for doc in documents %}
+  {% if doc.pid == include.pid %}
+    {% if forloop.first %}
+      {% assign prev_url = last_url | relative_url %}
+    {% else %}
+      {% assign prev_url = prev.url | relative_url %}
+    {% endif %}
+    {% if forloop.last %}
+      {% assign next_url = first_url | relative_url %}
+    {% else %}
+      {% assign next_url = documents[forloop.index].url | relative_url %}
+    {% endif %}
+    {% break %}
   {% endif %}
-  {% assign prev = plate %}
+  {% assign prev = doc %}
 {% endfor %}
 
-<table class="prevnext" width="100%" style="margin-bottom:30px;">
+<table class="prevnext" width="100%" style="margin-bottom:30px;border:0;">
   <tr>
-    <td style="text-align:left;">{% if prev_str %}<b>Previous: </b><a href="{{site.baseurl}}/plates/{{prev_str}}" class="prev">Plate {{prev_str}}</a>{% endif %}</td>
-    <td style="text-align:right;">{% if next_str %}<b>Next: </b><a href="{{site.baseurl}}/plates/{{next_str}}" class="next">Plate {{next_str}}</a>{% endif %}</td>
+    <td style="text-align:left;">
+      <a href="{{ prev_url }}" class="prev">Previous</a>
+    </td>
+    <td style="text-align:right;">
+      <a href="{{ next_url }}" class="next">Next</a>
+    </td>
   </tr>
 </table>
