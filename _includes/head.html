@@ -1,5 +1,3 @@
-<!--Changes to head.html won't appear to these pages: index.html; interactivemap.html; 404.html-->
-
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,20 +9,20 @@
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
-        <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Forum" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Forum" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet">
 
-    <!-- Open Graph metadata -->
-    <meta property="og:title" content="Style Revolution"/>
-    <meta property="og:description" content="Digital exhibits and collection of the Journal des Dames et des Modes (1797-1804)">
-    <meta property="fb:admins" content="elotroalex"/>
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://stylerevolution.github.io{{page.url}}"/>
-    <meta property="fb:app_id" content="837201816410405"/>
-    <meta property="og:image" content="https://stylerevolution.github.io/images/open-graph.png"/>
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="1200" />
+  <!-- Open Graph metadata -->
+  <meta property="og:title" content="Style Revolution"/>
+  <meta property="og:description" content="Digital exhibits and collection of the Journal des Dames et des Modes (1797-1804)">
+  <meta property="fb:admins" content="elotroalex"/>
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://stylerevolution.github.io{{page.url}}"/>
+  <meta property="fb:app_id" content="837201816410405"/>
+  <meta property="og:image" content="https://stylerevolution.github.io/images/open-graph.png"/>
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="1200" />
 
-    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <script src="{{ site.js.jquery.cdn }}"></script>
 </head>

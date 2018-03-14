@@ -38,3 +38,14 @@ quoll:
 webrick:
   headers:
     "Access-Control-Allow-Origin": "*"
+
+js:
+  jquery:
+    version: 3.2.1
+    cdn: https://code.jquery.com/jquery-3.2.1.min.js
+  elasticlunr:
+    version: 0.9.6
+    cdn: https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js
+  openseadragon:
+    version: 2.3.1
+    cdn: https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.3.1/openseadragon.min.js

@@ -1,0 +1,10 @@
+{
+    "name": "Style Revolution",
+    "version": "1.0.0",
+    "description": "Journal des Dames et des Modes",
+    "dependencies": {
+        "jquery": "^3.2.1",
+        "elasticlunr": "^0.9.6",
+        "openseadragon": "^2.3.1"
+    }
+}
