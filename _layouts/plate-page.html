@@ -6,15 +6,17 @@ layout: default
     {% assign uri = site.baseurl | append: "/iiif/images/plates-" | append: page.pid | append: "-1/info.json" %}
     {% include iiif_image.html iiif_uri=uri %}
     {% include pagination.html collection=page.collection pid=page.pid %}
-    
+
     <h2>Plate {{ page.title }}</h2>
     {% if page._date %}<h3>c. {{ page._date }}</h3>{% endif %}
   </div>
-  <center>
-    <h3>Caption (French)</h3>
-    <p>{{ page.caption }}</p>
-    <h3>Translation (English)</h3>
-    <p>{{ page.translation }}</p>
-  </center>
+  <table>
+    <th>Caption (French)</th>
+    <th>Translation (English)</th>
+    <tr>
+      <td>{{ page.caption }}</td>
+      <td>{{ page.translation }}</td>
+    </tr>
+  </table>
   <br><br>
 </article>
