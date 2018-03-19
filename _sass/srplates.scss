@@ -93,15 +93,15 @@ ul {
 }
 
 div.index-nav-position {
-    position: -webkit-sticky;  // required for Safari
-    position: sticky;
+    // position: -webkit-sticky;  // required for Safari
+    // position: sticky;
     top: 0;
     z-index: 2;
 }
 
 div.nav-position {
     width: 100%;
-    position: fixed;
+    // position: fixed;
     top: 0;
     z-index: 10000;
 }
@@ -115,7 +115,7 @@ div.nav-position {
     background-color: #717273;
     width: 100%;
     justify-content: center;
-    position: fixed;
+    // position: fixed;
     z-index: 10000;
     overflow: hidden;
     display: flex;
@@ -268,12 +268,14 @@ div.button li.button {
     flex: 1 100%;
     align-items: flex-start;
     .flex-item {
-      width: 300px;
+      width: 350px;
       font-size: 12px;
       margin: 20px;
       border: none !important;
       tbody, tr, td{border: none !important;}
+      td{width:50%;}
       a:hover{color:black;}
+      .logo{width:120px;}
     }
   }
 }
@@ -787,9 +789,14 @@ div.hvrbox{
 }
 #results{
   margin:20px auto;
-  text-align:center;
 }
 .result{
   margin: 10px;
   font-size: 20px;
+}
+
+.iiif_image{
+  height: 60vh;
+  width: 100%;
+  border:1px solid grey;
 }
