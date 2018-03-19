@@ -2,6 +2,10 @@
 
 // Make all changes not included in the minima.scss file here
 
+.body{
+  overflow: hidden;
+}
+
 div {
     padding: 0;
     margin: 0;
@@ -88,13 +92,6 @@ ul {
     z-index: 10000;
 }
 
-.site-footer-map{
-    width: 100%;
-    position: fixed;
-    bottom: 050;
-    z-index: 10000;
-}
-
 div.index-nav-position {
     position: -webkit-sticky;  // required for Safari
     position: sticky;
@@ -117,15 +114,18 @@ div.nav-position {
     list-style-type: none;
     background-color: #717273;
     width: 100%;
-    display: flex;
     justify-content: center;
     position: fixed;
     z-index: 10000;
+    overflow: hidden;
+    display: flex;
+    flex-flow: row wrap;
 }
 
 .navlist {
     float: left;
     position: relative;
+    flex: 1;
 }
 
 .navlist ul {
@@ -248,94 +248,35 @@ div.button li.button {
 
 /*footer*/
 
-.navtwo {
-    font-family: 'Forum', 'Cinzel', serif;
-    font-size: 16px;
-    margin: auto;
-    list-style-type: none;
-    overflow: hidden;
-    background-color: #717273;
-    margin: 0;
-    bottom: 0;
-    width: 100%;
+.site-footer {
+  font-family: 'Forum', 'Cinzel', serif;
+  background-color: #C4D8E2;
+  overflow: hidden;
+  margin: 0;
+  padding: 20px;
+  border-bottom: 0;
+  .flex-container {
+    list-style: none;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    flex-basis: auto;
     display: flex;
-    justify-content: center;
-}
-
-.navlisttwo {
-    text-align: center;
-    text-align: justify;
-    width: 30%;
-}
-
-.navlisttwo-logo {
-    text-align: center;
-    text-align: justify;
-    width: 10%;
-}
-
-.navlinktwo {
-    display: inline-block;
-    color: white;
-    padding-top: 10px;
-    padding-bottom:10px;
-    padding-left: 40%;
-    padding-right: 40%;
-    text-decoration: none;
-    text-align: justify;
-}
-
-.navlinktwo-logo {
-    padding-right: 10px;
-    padding-bottom: 10px;
-}
-
-.foot {
-    font-family: 'Forum', 'Cinzel', serif;
-    list-style-type: none;
-    overflow: hidden;
-    background-color: #C4D8E2;
-    margin: 0;
-    bottom: -5;
-    width: 100%;
-    padding-bottom: 0;
-    border-bottom: 0;
-    display: inline-block;
-
-}
-
-.footlist {
-    float: left;
-    padding: 15px;
-}
-
-.footlist.institution {
-    margin-left: 4%;
-    justify-content: space-between;
-}
-
-.footlist.institution.morgan {
-    margin-left: 13%;
-}
-
-.footlist.contact-info {
-    color: #717273;
-    font-size: 10px;
-    text-align: left;
-    display: inline-block;
-}
-
-.footlist.contact-info.morgan-info {
-    padding-top: 24px;
-}
-
-.footlink {
-    display: inline-block;
-    color: white;
-    padding: 14px 45px;
-    border: none;
-    margin: none;
-    text-decoration: none;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    flex: 1 100%;
+    align-items: flex-start;
+    .flex-item {
+      width: 300px;
+      font-size: 12px;
+      margin: 20px;
+      border: none !important;
+      tbody, tr, td{border: none !important;}
+      img{width: 100px;}
+      a:hover{color:black;}
+    }
+  }
 }
 
 .copyright {
