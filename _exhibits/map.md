@@ -5,7 +5,7 @@ author: AnaKaren Aguero, Sarah Bigler, Emily Cormack
 permalink: /map/
 ---
 
-<h1>Mapping the<br><i>Journal des dames et des modes</i></h1>
+# Mapping the <br> _Journal des dames et des modes_
 
 <div class="map"><a class="map-link" href="{{ site.baseurl }}/interactivemap/">Interactive Map of Paris</a></div><br>
 
@@ -20,5 +20,3 @@ permalink: /map/
        <img src="{{ site.baseurl }}/images/debucourt-painting.jpg" alt="debucourt painting" width="50%"/>
        <p>This map documents the fashion hotspots named in captions to <i>Journal des dames et des modes</i> plates. In the earliest and most radical years of the JDM, 1797-1798, these 38 plates cite 18 specific locations in Paris where the fashions illustrated were seen. Unlike any other fashion plates from the period, these depict women alone in urban streets and public spaces. The locations mentioned by the JDM are mainly theaters and parks—spaces of spectacle and display concentrated in the northwestern part of the city. While a few of these places survive, many have disappeared. The map allows us to see how close these places were to each other, and to the offices of the JDM, forming a network of fashionable sociability in revolutionary Paris.</p>
        </div>
-
-

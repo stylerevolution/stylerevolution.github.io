@@ -19,7 +19,7 @@ $.getJSON("{{ site.baseurl }}/js/lunr-index.json", function(index_json) {
     }
     $('input#search').on('keyup', function() {
         var results_div = $('#results');
-        var query = $(this).val().normalize('NFD').replace(/[\u0300-\u036f]/g, "");;
+        var query = $(this).val().normalize('NFD').replace(/[\u0300-\u036f]/g, "");
         var results = index.search(query, {
             boolean: 'AND',
             expand: true
@@ -33,12 +33,19 @@ $.getJSON("{{ site.baseurl }}/js/lunr-index.json", function(index_json) {
             var item = store[ref];
             var pid = item.pid;
             var title = item.title;
-            var student = item.student;
-            var content = item.content;
-            var _date = item._date;
-            var caption = item.caption;
-            var translation = item.translation;
-            var result = '<div class="result"><b><a href="' + item.link + '">' + title + '</a></b></p></div>';
+            var meta = '';
+            var type = '';
+            if (item.content){
+              meta += item.content.slice(0, 200) + '... <br>';
+              type = 'Exhibit: ';
+            }
+            if (item._date) {
+              meta +=item._date + ' / ';
+            }
+            if (item.caption) { meta += item.caption + ' / '; }
+            if (item.translation) { meta +=item.translation; }
+
+            var result = '<div class="result"><b><a href="' + item.link + '">' + type + title + '</a></b><br>' + meta + '</p></div>';
             results_div.append(result);
         }
     });
