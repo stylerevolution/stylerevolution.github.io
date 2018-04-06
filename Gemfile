@@ -7,6 +7,6 @@ group :development, :test do
   gem 'rspec'
   gem 'selenium-webdriver'
   gem 'chromedriver-helper'
-  gem 'capybara'
+  gem 'capybara', '~>2.18'
   gem 'rack-jekyll'
 end
