@@ -6,7 +6,7 @@ rvm:
   - 2.4
 before_install:
   - echo -e "machine github.com\n  login $ACCESS_TOKEN" >> ~/.netrc
-  - git lfs pull
+  - git lfs pull &> /dev/null
 before_script:
   - bundle exec rake wax:lunr
   - bundle exec jekyll build

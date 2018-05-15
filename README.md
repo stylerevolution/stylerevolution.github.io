@@ -1,6 +1,4 @@
-# Journal des dames et des modes
-### Style Revolution 1797 - 1804
-[![Build Status](https://travis-ci.org/stylerevolution/stylerevolution.github.io.svg?branch=master)](https://travis-ci.org/stylerevolution/stylerevolution.github.io) [![Dependency Status](https://gemnasium.com/badges/github.com/mnyrop/stylerevolution.github.io.svg)](https://gemnasium.com/github.com/mnyrop/stylerevolution.github.io)
+# Journal des Dames et des Modes [![Build Status](https://travis-ci.org/stylerevolution/stylerevolution.github.io.svg?branch=master)](https://travis-ci.org/stylerevolution/stylerevolution.github.io)
 
 <table style="width:100%;"><tr>
   <td><a href="https://stylerevolution.github.io"><img src="https://github.com/stylerevolution/stylerevolution.github.io/blob/master/images/projects/parislondonproject.jpg?raw=true" /></a></td>
