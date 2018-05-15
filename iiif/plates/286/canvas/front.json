@@ -1,0 +1,29 @@
+{
+  "@type": "sc:Canvas",
+  "@id": "/iiif/plates/286/canvas/front.json",
+  "label": "front",
+  "width": 1558,
+  "height": 2000,
+  "thumbnail": "/iiif/plates/images/286-1/full/250,/0/default.jpg",
+  "images": [
+    {
+      "@type": "oa:Annotation",
+      "@id": "/iiif/plates/286/annotation/front.json",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "/iiif/plates/images/286-1/full/full/0/default.jpg",
+        "@type": "dcterms:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "/iiif/plates/images/286-1",
+          "profile": "http://iiif.io/api/image/2/level0.json"
+        },
+        "width": 1558,
+        "height": 2000
+      },
+      "on": "/iiif/plates/286/canvas/front.json"
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

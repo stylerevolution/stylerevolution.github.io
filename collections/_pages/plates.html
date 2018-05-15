@@ -1,0 +1,18 @@
+---
+layout: default
+title: Plates
+author: Everyone
+permalink: /plates/
+---
+
+<div class="plates-button">
+	<h1>Plates</h1>
+
+	<div class="gallery-block">
+		<ul class="gallery-section">
+		{% for item in site.data.plates %}
+			<li class="gallery"><a href="{{ site.baseurl }}/plates/{{ item.pid }}"><img class="galleryimage" src="{{ site.baseurl }}/iiif/plates/images/{{ item.pid }}-1/full/250,/0/default.jpg" alt="plate {{ item.pid}}"></a></li>
+		{% endfor %}
+		</ul>
+	</div>
+</div>

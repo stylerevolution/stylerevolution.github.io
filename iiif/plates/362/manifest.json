@@ -1,0 +1,45 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "/iiif/plates/362/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "plates 362",
+  "thumbnail": "/iiif/plates/images/362-1/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "/iiif/plates/362/sequence/default.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "/iiif/plates/362/canvas/front.json",
+          "label": "front",
+          "width": 1468,
+          "height": 2000,
+          "thumbnail": "/iiif/plates/images/362-1/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "/iiif/plates/362/annotation/front.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "/iiif/plates/images/362-1/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "/iiif/plates/images/362-1",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 1468,
+                "height": 2000
+              },
+              "on": "/iiif/plates/362/canvas/front.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
