@@ -1,14 +1,13 @@
 title: Style Revolution
-description: "Journal des Dames et des Modes"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: Journal des Dames et des Modes
+baseurl: ''
+url: ''
 
 # build settings
 theme: minima
-markdown: kramdown
 permalink: pretty
-exclude: [Gemfile*, node_modules, vendor, Rakefile, README*, spec]
-lunr_language: true
+collections_dir: collections
+exclude: [Gemfile*, vendor, Rakefile, README*, spec]
 
 # collection settings
 collections:
@@ -18,16 +17,15 @@ collections:
     output: true
     lunr_index:
       content: true
-      fields: [title, student]
+      fields: [title, author]
   plates:
     output: true
-    iiif: true
     keep_order: true
     source: plates.csv
     layout: plate-page
     lunr_index:
       content: false
-      fields: [title, _date, caption, translation, student]
+      fields: [title, _date, caption, translation, keywords, pid]
 
 # search tests
 quoll:
@@ -35,10 +33,7 @@ quoll:
     page: search
     terms: [turban, cheveux, crêpe, rose]
 
-webrick:
-  headers:
-    "Access-Control-Allow-Origin": "*"
-
+# js dependencies
 js:
   jquery:
     version: 3.2.1
@@ -49,3 +44,7 @@ js:
   openseadragon:
     version: 2.3.1
     cdn: https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.3.1/openseadragon.min.js
+
+webrick:
+  headers:
+    "Access-Control-Allow-Origin": "*"

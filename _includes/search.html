@@ -1,8 +1,18 @@
-<script src="{{ site.js.elasticlunr.cdn }}"></script>
+<!-- <script src="{{ site.js.elasticlunr.cdn }}"></script>
 <script src="{{ site.baseurl }}/js/lunr-ui.js"></script>
 
 <div class="search" style="width:100%;margin-top:30px;">
   <span class="icon">&#x1F50D;</span>&nbsp;&nbsp;
   <input type="text" class="searchTerm" id="search" placeholder="Browse the collection...">
 </div>
-<div id="results"></div>
+<div id="results"></div> -->
+
+<script src="{{ site.js.elasticlunr.cdn }}"></script>
+<script src="{{ site.baseurl }}/js/lunr-ui.js"></script>
+
+<div class="search-block">
+  <div class="input-group">
+    <input type="text" class="form-control" id="search" name="x" placeholder="Search... ">
+  </div>
+  <div id="results"></div>
+</div>

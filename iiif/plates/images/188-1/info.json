@@ -1,0 +1,46 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "/iiif/plates/images/188-1",
+  "protocol": "http://iiif.io/api/image",
+  "width": 1481,
+  "height": 2000,
+  "sizes": [
+    {
+      "width": 1481,
+      "height": 2000
+    },
+    {
+      "width": 250,
+      "height": 338
+    },
+    {
+      "width": 600,
+      "height": 810
+    },
+    {
+      "width": 1140,
+      "height": 1540
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

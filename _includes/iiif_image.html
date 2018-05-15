@@ -1,3 +1,4 @@
+{% assign uri = site.baseurl | append: "/iiif/plates/images/" | append: page.pid | append: "-1/info.json" %}
 
 <script src="{{ site.js.openseadragon.cdn }}"></script>
 <script>
@@ -20,7 +21,7 @@ iiif_viewerfuncs.push(
       id: "openseadragon{{ page.instancecounter }}",
       minZoomImageRatio: 1,
       prefixUrl: "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.3.1/images/",
-      tileSources: "{{ include.iiif_uri }}",
+      tileSources: "{{ uri }}",
       crossOriginPolicy: false
     });
   }

@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'jekyll', '~> 3.7.3'
+gem 'jekyll', '~> 3.8.1'
 gem 'minima'
 
 group :development, :test do
@@ -9,5 +9,4 @@ group :development, :test do
   gem 'chromedriver-helper'
   gem 'capybara'
   gem 'rack-jekyll'
-  gem 'puma'
 end

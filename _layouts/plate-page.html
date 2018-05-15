@@ -3,8 +3,7 @@ layout: default
 ---
 <article class="post">
   <div class="post-content">
-    {% assign uri = site.baseurl | append: "/iiif/images/plates-" | append: page.pid | append: "-1/info.json" %}
-    {% include iiif_image.html iiif_uri=uri %}
+    {% include iiif_image.html %}
     {% include pagination.html collection=page.collection pid=page.pid %}
 
     <h2>Plate {{ page.title }}</h2>
