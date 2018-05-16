@@ -17,7 +17,7 @@ From [https://stylerevolution.github.io/about/](https://stylerevolution.github.i
 ## Specs
 - Site powered by [jekyll](https://rubygems.org/gems/jekyll) (ruby gem)
 - Plate pages from data by [wax_tasks](https://rubygems.org/gems/wax_tasks) (ruby gem)
-- IIIF via wax_tasks, [iiif_s3](https://rubygems.org/gems/iiif_s3) (ruby gem), and [openseadragon viewer](http://openseadragon.github.io/) (js)
+- IIIF via wax_tasks, [iiif_s3](https://rubygems.org/gems/iiif_s3) (ruby gem), and [leaflet-iiif]() (js)
 - Client-side dynamic search by wax_tasks and [elasticlunr]() (js)
 - CI testing with [travis](https://travis-ci.org/) (vms), and [rspec](https://rubygems.org/gems/rspec) + [capybara](https://rubygems.org/gems/capybara/) (ruby gems)
 - Hosted with github pages
