@@ -10,9 +10,9 @@ div {
 }
 
 body {
-  background-color: #f1f1f1;
+  background-color: $background-color;
   margin: 0;
-  font-family: 'Forum', 'Cinzel', serif;
+  font-family: $body-font;
 }
 
 .page-content {
@@ -20,9 +20,9 @@ body {
 }
 
 h1 {
-  font-family: 'Playfair Display', serif;
+  font-family: $headining-font;
   font-size: 46px;
-  color: #d61e40;
+  color: $pink-accent;
   font-style: normal;
   font-variant: normal;
   text-align: center;
@@ -30,9 +30,9 @@ h1 {
 }
 
 h2 {
-  font-family: 'Playfair Display', serif;
+  font-family: $headining-font;
   font-size: 26px;
-  color: #d61e40;
+  color: $pink-accent;
   font-style: normal;
   font-variant: normal;
   text-align: center;
@@ -40,7 +40,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Forum', 'Cinzel', serif;
+  font-family: $headining-font;
   font-weight: bold;
   font-size: 22px;
   font-variant: normal;
@@ -54,7 +54,7 @@ li a:hover {
 }
 
 p {
-  font-family: 'Forum', 'Cinzel', serif;
+  font-family: $body-font;
   font-size: 20px;
   font-style: normal;
   font-variant: normal;
@@ -66,12 +66,12 @@ p.about {
 }
 
 ul.about {
-  font-family: 'Forum', 'Cinzel', serif;
+  font-family: $body-font;
   font-size: 20px;
   font-style: normal;
   font-variant: normal;
   padding: 5px;
-  list-style-image: url("/images/404-UL.png");
+  list-style-image: url("/assets/logos/404-UL.png");
   list-style-position: outside;
 }
 
@@ -81,7 +81,7 @@ li.about {
 
 ul {
   list-style-type: none;
-  font-family: 'Forum', 'Cinzel', serif;
+  font-family: $body-font;
   font-size: 20px;
 }
 /* Nav Bar*/
@@ -92,29 +92,25 @@ ul {
 }
 
 div.index-nav-position {
-  // position: -webkit-sticky;  // required for Safari
-  // position: sticky;
   top: 0;
   z-index: 2;
 }
 
 div.nav-position {
   width: 100%;
-  // position: fixed;
   top: 0;
   z-index: 10000;
 }
 
 .nav {
-  font-family: 'Forum', 'Cinzel', serif;
+  font-family: $body-font;
   font-size: 22px;
   text-align: center;
   margin: auto;
   list-style-type: none;
-  background-color: #717273;
+  background-color: $medium-grey;
   width: 100%;
   justify-content: center;
-  // position: fixed;
   z-index: 10000;
   overflow: hidden;
   display: flex;
@@ -130,7 +126,7 @@ div.nav-position {
 .navlist ul {
   display: none;
   position: absolute;
-  background-color: #717273;
+  background-color: $medium-grey;
   border: none;
   padding: 0;
   -webkit-padding-start: 0;
@@ -156,19 +152,19 @@ li.navlist:hover ul {
   display: block;
   text-align: left;
   font-size: 20px;
-  color: #ffffff !important;
+  color: white !important;
   text-decoration: none;
   opacity: 1;
 }
 
 .navlist ul li a:hover,
 .selected {
-  background: #d61e40;
+  background: $pink-accent;
 }
 
 .navlink {
   display: inline-block;
-  color: #ffffff !important;
+  color: white !important;
   text-align: center;
   padding: 14px 45px;
   border: none;
@@ -177,7 +173,7 @@ li.navlist:hover ul {
 }
 
 .navlink:hover {
-  background: rgba(238, 34, 72, 0.8);
+  background: $pink-accent;
 }
 
 #navlanding {
@@ -196,11 +192,11 @@ li.navlist:hover ul {
 }
 
 div.button li.button {
-  background-color: rgba(238, 34, 72, 0.8);
+  background-color: $pink-accent;
 }
 /*landing page*/
 .tile-main-content {
-  background-color: #f1f1f1;
+  background-color: $background-color;
   display: inline-block;
   text-align: center;
   width: 100%;
@@ -210,7 +206,7 @@ div.button li.button {
   display: inline-block;
   text-align: left;
   position: relative;
-  font-family: 'Forum', 'Cinzel', serif;
+  font-family: $body-font;
   font-size: 20px;
   font-weight: bold;
   max-width: 250px;
@@ -218,7 +214,7 @@ div.button li.button {
 
   &:hover {
     .tiletext-br {
-      background: rgba(238, 34, 72, 0.8);
+      background: $pink-accent;
     }
   }
 }
@@ -242,8 +238,8 @@ div.button li.button {
 }
 /*footer*/
 .site-footer {
-  font-family: 'Forum', 'Cinzel', serif;
-  background-color: #C4D8E2;
+  font-family: $body-font;
+  background-color: $light-blue;
   overflow: hidden;
   margin: 0;
   padding: 20px;
@@ -291,7 +287,7 @@ div.button li.button {
 
 .copyright {
   font-size: 14px;
-  color: #717273;
+  color: $medium-grey;
   position: fixed;
   bottom: 0;
   margin-left: 2px;
@@ -302,7 +298,7 @@ div.button li.button {
 }
 
 div.cont-section {
-  background-color: #fefefe;
+  background-color: white;
   padding-left: 5%;
   padding-right: 5%;
   margin: auto;
@@ -313,12 +309,12 @@ div.cont-section img {
   height: 100px;
   width: 100px;
   margin: 4px 15px 10px 0;
-  border: 1px solid #000000;
+  border: 1px solid $medium-grey;
   float: left;
 }
 
 div.cont-section p {
-  font-family: 'Forum', 'Cinzel', 'Constantia', serif;
+  font-family: $body-font;
   font-size: 18px;
   font-variant: normal;
   margin: 1px 0 0;
@@ -380,7 +376,7 @@ div.cont-section p {
 .colordesc {
   float: left;
   padding: 20px;
-  font-family: 'Forum', 'Cinzel', serif;
+  font-family: $body-font;
   font-size: 18px;
   table-layout: fixed;
   vertical-align: middle;
@@ -413,7 +409,7 @@ div.cont-section p {
 /*Plate Gallery (with search?)*/
 .gallery-block {
   text-align: center;
-  background-color: #fefefe;
+  background-color: white;
   padding-left: 5%;
   padding-right: 5%;
   padding-top: 4%;
@@ -523,8 +519,8 @@ div.cont-section p {
 }
 
 .map-link {
-  font-family: 'Forum', 'Cinzel', serif;
-  background-color: #7b7c7c;
+  font-family: $body-font;
+  background-color: $medium-grey;
   border: none;
   color: white;
   width: 100%;
@@ -541,7 +537,7 @@ div.cont-section p {
 }
 
 .map-link:hover {
-  background-color: #fefefe;
+  background-color: white;
   color: red;
   text-decoration: none;
 }
@@ -587,7 +583,7 @@ div.card-block {
 }
 
 .timeline-cont-section {
-  background-color: #fefefe;
+  background-color: white;
   margin: auto;
   position: left;
   width: 100%;
@@ -668,7 +664,7 @@ div.hvrbox {
   width: 231px;
   height: 350px;
   background: rgba(0, 0, 0, 0.8);
-  color: #fff;
+  color: white;
   padding: 10px;
   -moz-transition: all 0.4s ease-in-out 0s;
   -webkit-transition: all 0.4s ease-in-out 0s;
@@ -712,7 +708,7 @@ div.hvrbox {
   max-width: 46em;
 
   &:before {
-    background-color: #717273;
+    background-color: $medium-grey;
     content: '';
     margin-left: -1px;
     position: absolute;
@@ -728,7 +724,7 @@ div.hvrbox {
 
   &:hover {
     .timeline-event-icon {
-      background-color: #d61e40;
+      background-color: $pink-accent;
     }
 
     .timeline-event-thumbnail {}
@@ -744,7 +740,7 @@ div.hvrbox {
 
   h3 {
     font-size: 1.75em;
-    color: #d61e40;
+    color: $pink-accent;
   }
 
   h4 {
@@ -762,8 +758,8 @@ div.hvrbox {
 }
 
 .timeline-event-icon {
-  background-color: #717273;
-  outline: 10px solid #d61e40;
+  background-color: $medium-grey;
+  outline: 10px solid $pink-accent;
   display: block;
   margin: 0.5em 0.5em 0.5em -0.5em;
   position: absolute;
@@ -776,7 +772,7 @@ div.hvrbox {
 .timeline-event-thumbnail {
   color: white;
   font-size: 0.95em;
-  background-color: #717273;
+  background-color: $medium-grey;
   display: inline-block;
   margin-bottom: 1.2em;
   padding: 0.25em 1em 0.2em;
@@ -806,24 +802,24 @@ div.hvrbox {
   }
 
   a {
-    color: #111111;
+    color: black;
     text-decoration: none;
   }
 
   &:hover {
-    background-color: #ffffff;
+    background-color: white;
   }
 
   .item-label {
     text-transform: uppercase;
-    color: #d61e40;
+    color: $pink-accent;
   }
 }
-
-.iiif_image {
-  height: 60vh;
+#iiif-viewer {
+  height: 50vh;
   width: 100%;
   border: 1px solid grey;
+  max-height: 500px;
 }
 
 .sq-thumb-sm {
