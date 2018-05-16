@@ -1,9 +1,9 @@
 # Journal des Dames et des Modes [![Build Status](https://travis-ci.org/stylerevolution/stylerevolution.github.io.svg?branch=master)](https://travis-ci.org/stylerevolution/stylerevolution.github.io)
 
 <table style="width:100%;"><tr>
-  <td><a href="https://stylerevolution.github.io"><img src="https://github.com/stylerevolution/stylerevolution.github.io/blob/master/images/projects/parislondonproject.jpg?raw=true" /></a></td>
-  <td><a href="https://stylerevolution.github.io"><img src="https://github.com/stylerevolution/stylerevolution.github.io/blob/master/images/projects/corsetsbodiesproject.jpg?raw=true"/></a></td>
-  <td><a href="https://stylerevolution.github.io"><img src="https://github.com/stylerevolution/stylerevolution.github.io/blob/master/images/projects/politicsfashionproject.jpg?raw=true" /></a></td>
+  <td><a href="https://stylerevolution.github.io"><img src="https://github.com/stylerevolution/stylerevolution.github.io/blob/master/media/projects/parislondonproject.jpg?raw=true" /></a></td>
+  <td><a href="https://stylerevolution.github.io"><img src="https://github.com/stylerevolution/stylerevolution.github.io/blob/master/media/projects/corsetsbodiesproject.jpg?raw=true"/></a></td>
+  <td><a href="https://stylerevolution.github.io"><img src="https://github.com/stylerevolution/stylerevolution.github.io/blob/master/media/projects/politicsfashionproject.jpg?raw=true" /></a></td>
 </tr></table>
 
 ## About

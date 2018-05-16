@@ -2,10 +2,8 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import url('https://fonts.googleapis.com/css?family=Forum|Playfair+Display');
-
 $body-font: 'Forum', serif;
-$headining-font: 'Playfair Display', serif;
+$heading-font: 'Playfair Display', serif;
 
 $background-color: #f1f1f1;
 $pink-accent: #d61e40;
@@ -13,4 +11,5 @@ $medium-grey: #717273;
 $light-blue: #C4D8E2;
 
 @import 'minima';
+@import url('https://fonts.googleapis.com/css?family=Forum|Playfair+Display');
 @import 'srplates';
