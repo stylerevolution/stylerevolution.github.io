@@ -5,7 +5,7 @@ author: Barthelemy Glama
 permalink: /lawvsfashion/
 ---
 
-<h1>Reforming Menswear<br>Fashion Success vs. Legislative Failure</h1>
+<h1>Reforming Menswear:<br>Fashion Success<br>vs. Legislative Failure</h1>
 
 As the plates of the <i>Journal des Dames et des Modes</i> explicitly reveal, the masculine costume changed only in details throughout the revolutionary period. Reflecting the general move towards simplification that followed the overthrow of the <i>Ancien Régime</i> and the disappearance of the ornate court costume, the introduction of the <i>redingote</i> (which name and form were inspired by the British riding coat) was perhaps the most – if not the only – significant innovation in everyday masculine fashion after the French Revolution.
 
@@ -27,11 +27,9 @@ However, David’s projects stood apparently very far from the new aspirations o
 ## The Directoire extravaganza
 
 In 1795, a new regime, the Directoire, replaced the National Convention after the end of Robespierre’s one-year “Reign of Terror.” Seeking stability, authority and political legitimacy in this period of utmost turmoil, the new government did not resist the temptation to exploit the official costume: as stipulated by the Constitution, members of the Directoire always had indeed to appear in formal dress, and civil servants had to do likewise while performing their duties. The costume of the <i>Directeurs</i> (Image 2 on the timeline) was pretty similar, in its form, to David’s tentative design for people’s representatives of the Convention era (Image 1 on the timeline): a white tunic, tight-fitting pants, a wide blue belt, a long red mantle, and a large hat with feathers reminiscent of the <i>Ancien Régime</i>. Supposedly giving panache and prestige to those who were wearing it, this formal outfit was meant to impress the citizens, especially during the public audience sessions held by the <i>Directeurs</i> at the Luxembourg Palace. However, this costume – and the quite old-fashioned theatrics surrounding it – may not have reached the expected impact and many where those who mocked it, such as Lord Swinburne, the British ambassador, who described these sessions as “puppet parades.”
-<br>
 
 ![](/media/lawvsfashion/image2.png)
 <p style="margin-top: -1rem"><b>Fig. 2.</b> A Costume for the Members of the Council of Five Hundred.</p>
-<br>
 
 Even more curious was the costume projected by the Constitution for the members of the Council of Five Hundred, the legislative body of the Directoire regime, composed of a long white dress, a wide blue belt, a scarlet mantle (all in wool), and a blue embroidered velvet hat (see Image 1 on <b>Fig. 2</b>). Members of the Council reportedly found it so odd and ridiculous that they never adopted it; they chose instead to wear the red mantle (the only piece they kept from the original project) and a tricolored belt over their everyday <i>redingote</i> (Image 2 on <b>Fig. 2</b>). Once again, fashion (Image 3 on <b>Fig. 2</b>) triumphed over legislation.
 
@@ -40,11 +38,10 @@ Even more curious was the costume projected by the Constitution for the members 
 
 When he became the First Consul after his 1799 coup to overthrow the Directoire regime, Napoléon Bonaparte tried to find a more successful solution to the question of the official costume. He adopted a red velvet coat with gold embroidery, long white breeches with embroidered gold palmettes, and short boots also embroidered in gold (see Image 3 on <b>Fig. 3</b>). The red color was in itself a political symbol, a reference to a thinly disguised caesarism.
 
-Interestingly, this solution took its vigor from the military, for Bonaparte’s consular costume was seemingly inspired by the uniform he wore as General during the Revolutionary wars (see Image 1 on <b>Fig. 3</b>) – in particular, the large collar as well as the ornate gold embroidery. Nonetheless, as First Consul, he chose to wear a civil dress, highlighting and legitimizing his newly acquired political status, which also referred to contemporary masculine fashion. The cut of the red coat, the long breeches, and the short boots are indeed very similar to those worn by the Parisian bourgeois, as it can be seen on JDM plates (Image 2 on <b>Fig. 3</b>).<br>
+Interestingly, this solution took its vigor from the military, for Bonaparte’s consular costume was seemingly inspired by the uniform he wore as General during the Revolutionary wars (see Image 1 on <b>Fig. 3</b>) – in particular, the large collar as well as the ornate gold embroidery. Nonetheless, as First Consul, he chose to wear a civil dress, highlighting and legitimizing his newly acquired political status, which also referred to contemporary masculine fashion. The cut of the red coat, the long breeches, and the short boots are indeed very similar to those worn by the Parisian bourgeois, as it can be seen on JDM plates (Image 2 on <b>Fig. 3</b>).
 
 ![](/media/lawvsfashion/image3.png)
 <p style="margin-top: -1rem"><b>Fig. 3.</b> A Costume for the <i>Premier Consul</i>.</p>
-<br>
 
 This merging of two different cultures was also applied to the official costumes Bonaparte reintroduced for all officials and dignitaries of the new regime, making immediately visible their function, rank, and position in the social hierarchy – an obsession for regulated dress which had a clear link to the military, while promoting the work of the silk industry of Lyon, as official clothing had to be manufactured from French-made materials.
 
@@ -53,14 +50,12 @@ This merging of two different cultures was also applied to the official costumes
 
 After Napoléon’s coronation in 1804 and the installation of the imperial regime, a new Etiquette was established with the frequent use of the phrase “fabric of French manufacture,” which was much publicized by the <i>Journal des Dames et des Modes</i>. A decree outlined once and for all the formal dress of the emperor, empress, French princes, and high dignitaries of the Empire: all categories of state official (from prefects to municipal secretaries, from members of the university to civil servants in the administration) were required to wear uniforms on formal occasions, whose common denominators were <i>Ancien Régime</i> short breeches with silk hose and shoes with buckles (see Image 4 on the timeline, showing the 1804 official costume that the presidents of the <i>cantons</i> wore for the coronation ceremony).
 
-At the imperial court, the dress de rigueur for the men who did not hold an official position (see Image 2 on <b>Fig. 4</b>), was again a revival of the <i>habit à la française</i>, the ornate court costume of Louis XVI’s reign (see Image 1 on <b>Fig. 4</b>): a blue or red coat, with a withe vest, short knee-breeches, silk stockings, and black pumps (sometimes with red hills). The new Etiquette also included a <i>demi-habillé</i> costume for semi-formal occasions, very similar to the precedent though bearing fewer ornamentations (see Image 3 on <b>Fig. 4</b>).<br>
+At the imperial court, the dress de rigueur for the men who did not hold an official position (see Image 2 on <b>Fig. 4</b>), was again a revival of the <i>habit à la française</i>, the ornate court costume of Louis XVI’s reign (see Image 1 on <b>Fig. 4</b>): a blue or red coat, with a withe vest, short knee-breeches, silk stockings, and black pumps (sometimes with red hills). The new Etiquette also included a <i>demi-habillé</i> costume for semi-formal occasions, very similar to the precedent though bearing fewer ornamentations (see Image 3 on <b>Fig. 4</b>).
 
 ![](/media/lawvsfashion/image4.png)
 <p style="margin-top: -1rem"><b>Fig. 4.</b> Etiquette vs. Fashion.</p>
-<br>
 
 Napoléon’s systematization of the masculine dress was conceived as a way of imposing uniforms on civilians and exerting his control over the Nation. If his style as First Consul, drawing inspiration from everyday fashion, was often successfully copied and launched a new industrial era for French manufacturers, the Etiquette of the new Empire, however, increased the gap between the social language of consumer culture (that tried to depart from the <i>Ancien Régime</i> style, as it is shown by JDM plates: see Image 4 on <b>Fig. 4</b>) and the political grammar of the official costume (that attempted to restore the pomp and circumstance of the court of Versailles). 
-
 
 ---
 
