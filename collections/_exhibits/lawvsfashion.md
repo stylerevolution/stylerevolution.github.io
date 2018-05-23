@@ -2,7 +2,7 @@
 layout: default
 title: Fashion Success vs. Legislative Failure
 author: Barthelemy Glama
-permalink: /fashionvslaw/
+permalink: /lawvsfashion/
 ---
 
 # Fashion Success vs. Legislative Failure
