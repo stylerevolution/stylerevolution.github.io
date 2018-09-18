@@ -1,12 +1,11 @@
 source 'https://rubygems.org'
-gem 'jekyll', '~> 3.8.1'
-gem 'minima'
+gem 'github-pages'
 
 group :development, :test do
-  gem 'wax_tasks'
+  gem 'capybara'
+  gem 'geckodriver-helper'
+  gem 'rack-jekyll'
   gem 'rspec'
   gem 'selenium-webdriver'
-  gem 'chromedriver-helper'
-  gem 'capybara'
-  gem 'rack-jekyll'
+  gem 'wax_tasks'
 end

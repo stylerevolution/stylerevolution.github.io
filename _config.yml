@@ -6,8 +6,8 @@ url: ''
 # build settings
 theme: minima
 permalink: pretty
-collections_dir: collections
 exclude: [Gemfile*, vendor, Rakefile, README*, spec]
+source: src
 
 # collection settings
 collections:
