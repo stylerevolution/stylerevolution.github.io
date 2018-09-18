@@ -1,3 +1,14 @@
+GIT
+  remote: https://github.com/mnyrop/wax_tasks.git
+  revision: 6a5a45a2bc0cf131686124ebd346fb0a05074176
+  branch: beta
+  specs:
+    wax_tasks (0.3.1)
+      html-proofer (~> 3)
+      jekyll (~> 3)
+      rake (~> 12)
+      wax_iiif (~> 0.0.2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -291,11 +302,6 @@ GEM
     unicode-display_width (1.4.0)
     wax_iiif (0.0.2)
       mini_magick (>= 4.8)
-    wax_tasks (0.3.0)
-      html-proofer (~> 3)
-      jekyll (~> 3)
-      rake (~> 12)
-      wax_iiif (~> 0.0.2)
     xpath (3.1.0)
       nokogiri (~> 1.8)
     yell (2.0.7)
@@ -310,7 +316,7 @@ DEPENDENCIES
   rack-jekyll
   rspec
   selenium-webdriver
-  wax_tasks
+  wax_tasks!
 
 BUNDLED WITH
    1.16.4

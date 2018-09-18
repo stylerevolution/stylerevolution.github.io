@@ -9,8 +9,6 @@ git:
 branches:
   except:
     - gh-pages
-before_script:
-  - bundle exec rake wax:lunr
 script:
   - bundle exec jekyll build
   - bundle exec rake wax:test
