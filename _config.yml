@@ -7,7 +7,6 @@ url: ''
 theme: minima
 permalink: pretty
 exclude: [Gemfile*, vendor, Rakefile, README*, spec]
-source: src
 
 # collection settings
 collections:

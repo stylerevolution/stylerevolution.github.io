@@ -1,9 +1,9 @@
-# Journal des Dames et des Modes [![Build Status](https://travis-ci.org/stylerevolution/stylerevolution.github.io.svg?branch=master)](https://travis-ci.org/stylerevolution/stylerevolution.github.io)
+# Journal des Dames et des Modes [![Build Status](https://travis-ci.org/stylerevolution/stylerevolution.github.io.svg?branch=master)](https://travis-ci.org/stylerevolution/stylerevolution.github.io) [![](https://img.shields.io/librariesio/github/mnyrop/stylerevolution.github.io.svg)](https://libraries.io/github/mnyrop/stylerevolution.github.io) 
 
 <table style="width:100%;"><tr>
-  <td><a href="https://stylerevolution.github.io"><img src="https://github.com/stylerevolution/stylerevolution.github.io/blob/master/media/projects/parislondonproject.jpg?raw=true" /></a></td>
-  <td><a href="https://stylerevolution.github.io"><img src="https://github.com/stylerevolution/stylerevolution.github.io/blob/master/media/projects/corsetsbodiesproject.jpg?raw=true"/></a></td>
-  <td><a href="https://stylerevolution.github.io"><img src="https://github.com/stylerevolution/stylerevolution.github.io/blob/master/media/projects/politicsfashionproject.jpg?raw=true" /></a></td>
+  <td><a href="https://stylerevolution.github.io"><img src="https://stylerevolution.github.io/media/landingtiles/blank_texilematerialglossary.jpg" /></a></td>
+  <td><a href="https://stylerevolution.github.io"><img src="https://stylerevolution.github.io/media/landingtiles/untitled_landing.jpg"/></a></td>
+  <td><a href="https://stylerevolution.github.io"><img src="https://stylerevolution.github.io/media/landingtiles/blank_texilematerialglossary.jpg" /></a></td>
 </tr></table>
 
 ## About
