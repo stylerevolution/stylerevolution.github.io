@@ -3,7 +3,7 @@
 <table style="width:100%;"><tr>
   <td><a href="https://stylerevolution.github.io"><img src="https://stylerevolution.github.io/media/landingtiles/blank_texilematerialglossary.jpg" /></a></td>
   <td><a href="https://stylerevolution.github.io"><img src="https://stylerevolution.github.io/media/landingtiles/untitled_landing.jpg"/></a></td>
-  <td><a href="https://stylerevolution.github.io"><img src="https://stylerevolution.github.io/media/landingtiles/blank_texilematerialglossary.jpg" /></a></td>
+  <td><a href="https://stylerevolution.github.io"><img src="https://stylerevolution.github.io/media/landingtiles/blank_manchamois.jpg" /></a></td>
 </tr></table>
 
 ## About
