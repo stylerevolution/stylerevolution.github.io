@@ -1,0 +1,19 @@
+{
+  "@type": "oa:Annotation",
+  "@id": "{{ 'iiif' | absolute_url }}/plates/annotation/plates-40.json",
+  "motivation": "sc:painting",
+  "resource": {
+    "@id": "{{ 'iiif' | absolute_url }}/images/plates-40/full/full/0/default.jpg",
+    "@type": "dcterms:Image",
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "{{ 'iiif' | absolute_url }}/images/plates-40",
+      "profile": "http://iiif.io/api/image/2/level0.json"
+    },
+    "width": 1438,
+    "height": 2000
+  },
+  "on": "{{ 'iiif' | absolute_url }}/plates/canvas/plates-40.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

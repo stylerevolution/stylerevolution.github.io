@@ -1,0 +1,29 @@
+{
+  "@type": "sc:Canvas",
+  "@id": "{{ 'iiif' | absolute_url }}/plates/canvas/plates-397.json",
+  "label": "front",
+  "width": 1457,
+  "height": 2000,
+  "thumbnail": "{{ 'iiif' | absolute_url }}/images/plates-397/full/250,/0/default.jpg",
+  "images": [
+    {
+      "@type": "oa:Annotation",
+      "@id": "{{ 'iiif' | absolute_url }}/plates/annotation/plates-397.json",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "{{ 'iiif' | absolute_url }}/images/plates-397/full/full/0/default.jpg",
+        "@type": "dcterms:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "{{ 'iiif' | absolute_url }}/images/plates-397",
+          "profile": "http://iiif.io/api/image/2/level0.json"
+        },
+        "width": 1457,
+        "height": 2000
+      },
+      "on": "{{ 'iiif' | absolute_url }}/plates/canvas/plates-397.json"
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}
