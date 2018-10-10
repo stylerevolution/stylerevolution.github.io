@@ -1,6 +1,9 @@
+---
+layout: none
+---
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "/iiif/images/plates-399",
+  "@id": "{{ 'iiif' | absolute_url }}/images/plates-399",
   "protocol": "http://iiif.io/api/image",
   "width": 1457,
   "height": 2000,

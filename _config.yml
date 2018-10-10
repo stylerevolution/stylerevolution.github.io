@@ -1,7 +1,6 @@
 title: Style Revolution
 description: Journal des Dames et des Modes
-baseurl: ''
-url: ''
+url: 'https://stylerevolution.github.io'
 
 # build settings
 theme: minima

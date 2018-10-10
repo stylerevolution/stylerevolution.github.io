@@ -1,11 +1,14 @@
+---
+layout: none
+---
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "/iiif/collection/top.json",
+  "@id": "{{ 'iiif' | absolute_url }}/collection/top.json",
   "@type": "sc:Collection",
   "label": "top",
   "manifests": [
     {
-      "@id": "/iiif/plates/manifest.json",
+      "@id": "{{ 'iiif' | absolute_url }}/plates/manifest.json",
       "@type": "sc:Manifest",
       "label": "plates"
     }
