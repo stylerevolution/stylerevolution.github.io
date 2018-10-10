@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "/iiif/images/plates-473",
+  "protocol": "http://iiif.io/api/image",
+  "width": 1408,
+  "height": 2000,
+  "sizes": [
+    {
+      "width": 1408,
+      "height": 2000
+    },
+    {
+      "width": 250,
+      "height": 355
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

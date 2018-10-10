@@ -816,7 +816,7 @@ div.hvrbox {
   }
 }
 #iiif-viewer {
-  height: 50vh;
+  min-height: 60vh;
   width: 100%;
   border: 1px solid grey;
   max-height: 500px;

@@ -1,0 +1,32 @@
+---
+permalink: /mirador/
+---
+
+<link rel="stylesheet" type="text/css" href="/build/mirador/css/mirador-combined.css">
+<script src="/build/mirador/mirador.js"></script>
+<div id="iiif-viewer" class="mirador" allowfullscreen="allowfullscreen"></div>
+<style>
+  .mirador{
+    display: block;
+    position: relative;
+    height: 100vh;
+    margin-bottom: 50px;
+  }
+  .mirador a {
+    color: inherit !important;
+  }
+</style>
+<script type="text/javascript">
+  $(function() {
+    Mirador({
+      id: 'iiif-viewer',
+      data: [
+        { "manifestUri": "/iiif/plates/manifest.json" }
+      ],
+      windowObjects: [{
+        loadedManifest: "/iiif/plates/manifest.json",
+        viewType: "BookView"
+      }]
+    });
+  });
+</script>

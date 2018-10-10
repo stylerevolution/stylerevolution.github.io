@@ -22,6 +22,8 @@ collections:
     keep_order: true
     source: plates.csv
     layout: plate-page
+    iiif:
+      is_document: true
     lunr_index:
       content: false
       fields: [title, _date, caption, translation, keywords, pid]

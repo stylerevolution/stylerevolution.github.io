@@ -3,39 +3,26 @@
 <script src="{{ site.js.leaflet-iiif.cdn }}"></script>
 <div id="iiif-viewer"></div>
 
-{%- capture manifest_uri -%}
-  {{ site.baseurl }}/iiif/{{ page.collection }}/{{ page.pid }}/manifest.json
+{%- capture image_uri -%}
+  {{ site.baseurl }}/iiif/images/{{ page.collection }}-{{ page.pid }}/info.json
 {%- endcapture -%}
 
-<script type="text/javascript">window.manifest = "{{ manifest_uri}}";</script>
+<script type="text/javascript">window.image_uri = "{{ image_uri }}";</script>
 <script>
-  function loadIIIFViewer(manifest_uri) {
+  function loadIIIFViewer(image_uri) {
     if ( $( "#iiif-viewer" ).length ) {
-      var iiif_viewer;
-      var iiifLayers = {};
-      var manifestUrl = manifest_uri;
-      iiif_viewer = L.map('iiif-viewer', {
+      var iiif_viewer = L.map('iiif-viewer', {
         center: [0, 0],
         crs: L.CRS.Simple,
         zoomDelta: 0.5,
         zoomSnap: 0,
         zoom: 0
       });
-      $.getJSON(manifestUrl, function(data) {
-        var i = 1;
-        $.each(data.sequences[0].canvases, function(_, val) {
-          var label = 'image ' + i;
-          iiifLayers[label] = L.tileLayer.iiif(val.images[0].resource.service['@id'] + '/info.json', {fitBounds: true});
-          i++;
-        });
-        if (i > 2){ L.control.layers(iiifLayers).addTo(iiif_viewer);}
-        iiifLayers[Object.keys(iiifLayers)[0]].addTo(iiif_viewer);
-      });
+      L.tileLayer.iiif(image_uri).addTo(iiif_viewer);
     }
   }
-
-  if (typeof(manifest) != "undefined"){
-    loadIIIFViewer(manifest);
-    console.log(manifest);
+  if (typeof(image_uri) != "undefined"){
+    loadIIIFViewer(image_uri);
+    console.log(image_uri);
   }
 </script>
