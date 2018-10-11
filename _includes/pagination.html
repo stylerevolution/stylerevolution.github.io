@@ -1,9 +1,10 @@
-{% assign documents = site[include.collection] | sort: 'order' %}
+{% assign collection = site.collections | where: "label", page.collection | first %}
+{% assign documents = collection.docs | sort: 'pid' %}
 {% assign first_url = documents.first.url | relative_url %}
 {% assign last_url = documents.last.url | relative_url %}
 
 {% for doc in documents %}
-  {% if doc.pid == include.pid %}
+  {% if doc.pid == page.pid %}
     {% if forloop.first %}
       {% assign prev_url = last_url | relative_url %}
     {% else %}

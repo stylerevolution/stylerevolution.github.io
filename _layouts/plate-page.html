@@ -5,7 +5,7 @@ layout: default
 <article class="post">
   <div class="post-content">
     {% include iiif_image.html %}
-    {% include pagination.html collection=page.collection pid=page.pid %}
+    {% include pagination.html %}
 
     <h2>Plate {{ page.title }}</h2>
     {% if page._date %}<h3>c. {{ page._date }}</h3>{% endif %}
