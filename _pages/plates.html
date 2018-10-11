@@ -13,7 +13,7 @@ permalink: /plates/
 		{% for item in site.data.plates %}
 			<li class="gallery">
 				<a href="{{ site.baseurl }}/plates/{{ item.pid }}">
-					<img class="galleryimage" src="{{ site.baseurl }}/iiif/images/plates-{{ item.pid }}/full/250,/0/default.jpg" alt="plate {{ item.pid}}">
+					<img class="galleryimage" src="{{ site.baseurl }}/iiif/images/plates/{{ item.pid }}/full/250,/0/default.jpg" alt="plate {{ item.pid}}">
 				</a>
 			</li>
 		{% endfor %}

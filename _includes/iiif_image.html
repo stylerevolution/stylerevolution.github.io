@@ -4,7 +4,7 @@
 <div id="iiif-viewer"></div>
 
 {%- capture image_uri -%}
-  {{ site.baseurl }}/iiif/images/{{ page.collection }}-{{ page.pid }}/info.json
+  {{ site.baseurl }}/iiif/images/{{ page.collection }}/{{ page.pid }}/info.json
 {%- endcapture -%}
 
 <script type="text/javascript">window.image_uri = "{{ image_uri }}";</script>

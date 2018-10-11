@@ -23,6 +23,7 @@ collections:
     layout: plate-page
     iiif:
       is_document: true
+      sort: true
     lunr_index:
       content: false
       fields: [title, _date, caption, translation, keywords, pid]

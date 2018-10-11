@@ -6,7 +6,7 @@ $(document).ready(function() {
   window.index = new elasticlunr.Index;
 
   index.saveDocument(false);
-  index.setRef('lunr_id');
+  index.setRef('lunr_index');
   index.addField('pid');
   index.addField('title');
   index.addField('author');
@@ -31,7 +31,7 @@ $(document).ready(function() {
 
     if (item.collection == 'plates') {
       label = 'Plate #' + item.pid;
-      thumb = '<img class="sq-thumb-sm search-thumb" src="{{ site.baseurl }}/iiif/plates/images/' + item.pid + '-1/full/250,/0/default.jpg"/>';
+      thumb = '<img class="sq-thumb-sm search-thumb" src="{{ site.baseurl }}/iiif/images/plates/' + item.pid + '/full/250,/0/default.jpg"/>';
 
       if (item._date) { meta.push('<b>Date: </b>' + item._date); }
       // if (item.caption) { meta.push('<b>Caption: </b>' + item.caption); }
