@@ -12,7 +12,7 @@ permalink: /underpinnings/
     <h2>No More Underwear!</h2>
       <img src="{{ site.baseurl }}/media/jm/stays.png" alt="stays" width="50%"/>
        <p>Women’s clothing before the Directoire phase of the French Revolution, that is before around 1795, relied on a complex architecture of petticoats, panniers, pads, and stays. These underpinnings were typically rigid and inflexible because they were constructed using stiffening tools such as whalebone (baleen), reed, and metal – hence the English word “stays”. <br><br></p>
-        <img style="float: left;" src="{{ site.baseurl }}/media/jm/1750frenchstays.jpg" alt="1750 french stays" align="left" width="50%"/><p>As the <i>Journal des dames et des modes</i> dramatically reveals, however, in a scant two years, by 1797, fashionable French women had staged an underwear revolution of their own. They both abandonned traditional undergarments, and adopted sheer, if not transparent, fabrics for clothes which were a fraction as full as they had been. Until 1804, when women’s fashion began a twenty-year return to earlier norms, the female form was publicly visible.</p>
+        <img style="float: left;" src="{{ site.baseurl }}/media/jm/1750frenchstays.jpg" alt="1750 french stays" align="left" width="50%"/><p>As the <i>Journal des dames et des modes</i> dramatically reveals, however, in a scant two years, by 1797, fashionable French women had staged an underwear revolution of their own. They both abandoned traditional undergarments, and adopted sheer, if not transparent, fabrics for clothes which were a fraction as full as they had been. Until 1804, when women’s fashion began a twenty-year return to earlier norms, the female form was publicly visible.</p>
        </div>
 
      <div class="corsets">
