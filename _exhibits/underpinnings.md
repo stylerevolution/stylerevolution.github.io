@@ -41,6 +41,5 @@ permalink: /underpinnings/
 
 </div>
   <p>Image of 1750's stays courtesy of <a href="https://www.mfa.org/">Museum of Fine Arts Boston</a>.</p>
-  <br>
   <p>Image of metal 'elastic' corset courtesy of <a href="https://www.metmuseum.org/">The Metropolitan Museum of Art</a>.</p>
 </div>
