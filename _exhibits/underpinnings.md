@@ -40,7 +40,7 @@ permalink: /underpinnings/
         Yet the <i>Journal des dames et des modes</i> did not hesitate to depict what it noticed in Paris: women whose bodies were revealed, not reshaped or concealed, by their clothing.  <br><br><br>All of Europe paid attention.  With the advent of the First Empire in France, however, the underwear pendulum began to swing back, and the <i>Journal des dames et des modes</i> with it, until by the 1820s, all European women were once again wearing underpinnings as restrictive as they had before 1795.</p>
 
 </div>
-
-  <p>Image of 1750's stays courtesy of Museum of Fine Arts Boston.<br>
-  Image of metal 'elastic' corset courtesy of The Metropolitan Museum of Art.</p>
+  <p>Image of 1750's stays courtesy of <a href="https://www.mfa.org/">Museum of Fine Arts Boston</a>.</p>
+  <br>
+  Image of metal 'elastic' corset courtesy of <a href="https://www.metmuseum.org/">The Metropolitan Museum of Art</a>.</p>
 </div>
