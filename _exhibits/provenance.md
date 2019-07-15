@@ -3,15 +3,7 @@ layout: default
 title: Belle da Costa Greene and The Morgan's JDM Plates
 author: Meredith Levin
 permalink: /provenance/
----
 
-# Macroscope of the *Journal des dames et des modes*
-
-This study is based on 499 images of the *Journal des dames et des modes* provided by The Morgan Library and Museum. The images were cropped in Photoshop and resized by 702x1248 pixels. In the original plates you can notice that each figure is framed with a black rectangle and also has a brief text describing the scene. For this study, I decided to crop the frame and text because they do not add any relevant information when analyzing the visual aspect of the portrayed human figures or accessories. On the other hand, it is important to mention that the images of the original plates are photographs of different sizes and taken with different light quality. Some of the photographs are also a bit cropped and tilted. All of these factors influenced the visualizations created in ImageJ and ImagePlot.
-
-After croping and resizing all the images, a spreadsheet was created in Excel to add the metadata of each image. Subsequently, the edited images ready and the metadata were imported to ImageJ as an the image sequence. Using that software I created a Montage of 25 by 20 images of the *Journal des dames et des modes.*
-
-![](/media/macroscope/image1.png)
 
 
 The Morgan Library & Museum’s collection of nearly 500 Directoire-era
@@ -20,7 +12,7 @@ dames et des modes (JDM), are a veritable treasure trove, highlighting
 the radical shifts in French fashion that transpired during the
 turbulent years between 1797 and 1804.
 
-![](media/image1.png){width="4.257911198600175in" height="5.03125in"}
+![](media/provenance/image1.png){width="4.257911198600175in" height="5.03125in"}
 
 J.P. Morgan, the American financier, benefactor, and avid collector of
 paintings, books, manuscripts, prints & drawings, acquired 18th-century
@@ -30,7 +22,7 @@ J.P. Morgan had begun acquiring manuscripts, Books of Hours, and costume
 plates from Badin’s eclectic holdings as early as 1905. (Letter from
 Ludovic Badin to J.P. Morgan, May 18, 1905, The Morgan Library & Museum)
 
-![](media/image2.png){width="4.253155074365704in"
+![](media/provenance/image2.png){width="4.253155074365704in"
 height="3.5104166666666665in"}
 
 In addition to acquiring and selling rare books, manuscripts, and objets
@@ -43,7 +35,7 @@ met some of his clients, including Morgan, through Beer. This June 21st
 of Morgan’s quest to fill his library back in New York. (The Morgan
 Library & Museum)
 
-![](media/image3.png){width="3.317062554680665in"
+![](media/provenance/image3.png){width="3.317062554680665in"
 height="3.786979440069991in"}
 
 Though not described specifically as engravings from the Journal des
@@ -56,7 +48,7 @@ the list on September 2, 1907, meaning that the costume plates have
 already made their way to New York.\
 (The Morgan Library & Museum)
 
-![](media/image4.png){width="4.625in" height="5.78125in"}
+![](media/provenance/image4.png){width="4.625in" height="5.78125in"}
 
 Belle da Costa Greene worked for the Morgan family for nearly fifty
 years, helping J.P. Morgan and his son amass an unrivaled collection of
@@ -80,7 +72,7 @@ Jul.
 (Photograph of Belle from 1911 by the American photographer, Clarence H.
 White, courtesy of the Princeton University Art Museum)
 
-![](media/image5.png){width="6.5in" height="3.65625in"}
+![](media/provenance/image5.png){width="6.5in" height="3.65625in"}
 
 Belle was famous in her day, not merely with booksellers, collectors,
 and fellow librarians, but with the wider public, making headlines with
@@ -95,7 +87,7 @@ the daring (and successful) last-minute bid she made for the Caxton
 *Morte D’Arthur*, paying a whopping \$42,800. (Chronicling America:
 America’s Historical Newspapers, Library of Congress)
 
-![](media/image6.png){width="4.276150481189851in"
+![](media/provenance/image6.png){width="4.276150481189851in"
 height="4.104166666666667in"}
 
 Belle da Costa Greene was revered for her intellect and she enjoyed a
@@ -110,7 +102,7 @@ in 1911.\
 (Courtesy of Princeton University Rare Books and Special Collections,
 Graphic Arts Collection, Firestone Library)
 
-![](media/image7.png){width="3.5208333333333335in"
+![](media/provenance/image7.png){width="3.5208333333333335in"
 height="5.666666666666667in"}
 
 A 1913 pastel portrait of Belle by the French artist Paul César Helleu
@@ -122,9 +114,9 @@ not coincidentally, the venerable *Journal des dames et des modes* was
 restarted in France in 1912 to once more showcase Parisian fashions and
 lifestyles. (Courtesy of Wikimedia Commons)
 
-![https://upload.wikimedia.org/wikipedia/commons/2/20/Belle\_da\_Costa\_Greene\_by\_Paul-Cesar\_Helleu%2C\_c\_1913.jpg](media/image8.jpeg){width="2.066661198600175in"
+![https://upload.wikimedia.org/wikipedia/commons/2/20/Belle\_da\_Costa\_Greene\_by\_Paul-Cesar\_Helleu%2C\_c\_1913.jpg](media/provenance/image8.jpeg){width="2.066661198600175in"
 height="2.9479166666666665in"}
-![](media/image9.png){width="2.5187423447069115in"
+![](media/provenance/image9.png){width="2.5187423447069115in"
 height="4.354166666666667in"}
 
 The design of the 20th-century JDM plates is astonishingly similar to
@@ -154,24 +146,24 @@ home with the great procession of royalty and diplomats, scholars and
 students who visited the collection.”\
 Extra images:
 
-![](media/image10.png){width="2.449728783902012in"
+![](media/provenance/image10.png){width="2.449728783902012in"
 height="4.208333333333333in"}
 
 (photo from 1911 courtesy of The Morgan)
 
-![https://www.themorgan.org/sites/default/files/images/exhibitions/online/AZ164\_belle.jpg](media/image11.jpeg){width="3.125in"
+![https://www.themorgan.org/sites/default/files/images/exhibitions/online/AZ164\_belle.jpg](media/provenance/image11.jpeg){width="3.125in"
 height="4.177083333333333in"}
 
 Laura Coombs Hills. Watercolor on ivory of Belle da Costa Greene, ca.
 1910. Gift of the estate of Belle da Costa Greene, 1950. (Courtesy of
 The Morgan)
 
-![](media/image12.png){width="6.03125in" height="8.15625in"}
+![](media/provenance/image12.png){width="6.03125in" height="8.15625in"}
 
 The American Club Woman Magazine, volumes 7, no. 6, June 1914 (courtesy
 of Google Books)
 
-![](media/image13.png){width="4.333333333333333in" height="5.4375in"}
+![](media/provenance/image13.png){width="4.333333333333333in" height="5.4375in"}
 
 “Fifty Thousand Dollars for that Book!” Color-printed illustration by
 Alexander Popini published on page one of *The World Magazine* (New
