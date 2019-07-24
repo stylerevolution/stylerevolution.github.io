@@ -12,8 +12,8 @@ dames et des modes</em> (JDM), are a veritable treasure trove, highlighting
 the radical shifts in French fashion that transpired during the
 turbulent years between 1797 and 1804.
 
-![](/media/provenance/image2.png)(Letter from
-Ludovic Badin to J.P. Morgan, May 18, 1905, The Morgan Library & Museum)
+![](/media/provenance/image2.png)
+(Letter from Ludovic Badin to J.P. Morgan, May 18, 1905, The Morgan Library & Museum)
 
 J.P. Morgan, American financier, benefactor, and avid collector of
 paintings, books, manuscripts, prints & drawings, acquired 18th-century
@@ -22,8 +22,8 @@ Badin. Correspondence preserved in The Morgan’s archives tells us that
 J.P. Morgan had begun acquiring manuscripts, Books of Hours, and costume
 plates from Badin’s eclectic holdings as early as 1905. 
 
-![](/media/provenance/image3.png)(The Morgan
-Library & Museum)
+![](/media/provenance/image3.png)
+(The Morgan Library & Museum)
 
 In addition to acquiring and selling rare books, manuscripts, and objets
 d’art to wealthy Americans and Europeans, Ludovic Badin worked as the
@@ -34,7 +34,8 @@ of sale written on Beer letterhead for 93,500 francs worth of'objects’
 purchased by Morgan from Badin indicates the monumental scale
 of Morgan’s quest to fill his New York library. 
 
-![](/media/provenance/image4.png)(The Morgan Library & Museum)
+![](/media/provenance/image4.png)
+(The Morgan Library & Museum)
 
 Though not described specifically as engravings from the <em>Journal des
 dames et des modes</em>, a bound volume of “coloured ‘Directoire’ costume
@@ -45,7 +46,8 @@ hired in 1906 to manage his burgeoning collection. She signs and dates
 the list on September 2, 1907, meaning that the costume plates have
 already made their way to New York.
 
-![](/media/provenance/image5.png)(Photograph of Belle from 1911 by the American photographer, Clarence H.
+![](/media/provenance/image5.png)
+(Photograph of Belle from 1911 by the American photographer, Clarence H.
 White, Princeton University Art Museum)
 
 Belle da Costa Greene worked for the Morgan family for nearly fifty
@@ -68,7 +70,8 @@ Biography*.  February, 2000. Oxford University Press,. Date of access 9
 Jul.
 2019, https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-1701223&gt;
 
-![](/media/provenance/image6.png)(Chronicling America:
+![](/media/provenance/image6.png)
+(Chronicling America:
 America’s Historical Newspapers, Library of Congress)
 
 Belle was famous in her day, not merely with booksellers, collectors,
@@ -83,7 +86,8 @@ large salary and her fearless approach to bidding at auction, including
 the daring (and successful) last-minute bid she made for the Caxton
 *Morte D’Arthur*, paying a whopping \$42,800. 
 
-![](/media/provenance/image7.png)(Princeton University Rare Books and Special Collections,
+![](/media/provenance/image7.png)
+(Princeton University Rare Books and Special Collections,
 Graphic Arts Collection, Firestone Library)
 
 Belle da Costa Greene was revered for her intellect and she enjoyed a
