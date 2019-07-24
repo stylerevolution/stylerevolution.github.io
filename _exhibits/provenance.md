@@ -13,6 +13,7 @@ the radical shifts in French fashion that transpired during the
 turbulent years between 1797 and 1804.
 
 ![](/media/provenance/image2.png)
+
 (Letter from Ludovic Badin to J.P. Morgan, May 18, 1905, The Morgan Library & Museum)
 
 J.P. Morgan, American financier, benefactor, and avid collector of
@@ -23,6 +24,7 @@ J.P. Morgan had begun acquiring manuscripts, Books of Hours, and costume
 plates from Badin’s eclectic holdings as early as 1905. 
 
 ![](/media/provenance/image3.png)
+
 (The Morgan Library & Museum)
 
 In addition to acquiring and selling rare books, manuscripts, and objets
@@ -35,6 +37,7 @@ purchased by Morgan from Badin indicates the monumental scale
 of Morgan’s quest to fill his New York library. 
 
 ![](/media/provenance/image4.png)
+
 (The Morgan Library & Museum)
 
 Though not described specifically as engravings from the <em>Journal des
@@ -47,6 +50,7 @@ the list on September 2, 1907, meaning that the costume plates have
 already made their way to New York.
 
 ![](/media/provenance/image5.png)
+
 (Photograph of Belle from 1911 by the American photographer, Clarence H.
 White, Princeton University Art Museum)
 
@@ -71,6 +75,7 @@ Jul.
 2019, https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-1701223&gt;
 
 ![](/media/provenance/image6.png)
+
 (Chronicling America:
 America’s Historical Newspapers, Library of Congress)
 
@@ -87,6 +92,7 @@ the daring (and successful) last-minute bid she made for the Caxton
 *Morte D’Arthur*, paying a whopping \$42,800. 
 
 ![](/media/provenance/image7.png)
+
 (Princeton University Rare Books and Special Collections,
 Graphic Arts Collection, Firestone Library)
 
@@ -101,6 +107,7 @@ commissioned a lovely etched bookplate by the artist Edward Gordon Craig
 in 1911.
 
 ![[](/media/provenance/image8.jpeg)
+
 (Wikimedia Commons)
 
 A 1913 pastel portrait of Belle by the French artist Paul César Helleu
@@ -110,6 +117,7 @@ plumed hats” and how “the sight of them in an auction room was enough to
 agitate every other bidder present.”  
 
 ![](/media/provenance/image9.png)
+
 (Wikimedia Commons)
 
 It is worth noting that, perhaps
