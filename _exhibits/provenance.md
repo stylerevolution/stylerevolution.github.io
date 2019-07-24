@@ -14,7 +14,7 @@ turbulent years between 1797 and 1804.
 
 ![](/media/provenance/image2.png)
 
-(Letter from Ludovic Badin to J.P. Morgan, May 18, 1905, The Morgan Library & Museum)
+(<em>Letter from Ludovic Badin to J.P. Morgan, May 18, 1905, The Morgan Library & Museum</em>)
 
 J.P. Morgan, American financier, benefactor, and avid collector of
 paintings, books, manuscripts, prints & drawings, acquired 18th-century
@@ -25,7 +25,7 @@ plates from Badin’s eclectic holdings as early as 1905.
 
 ![](/media/provenance/image3.png)
 
-(The Morgan Library & Museum)
+(<em>The Morgan Library & Museum</em>)
 
 In addition to acquiring and selling rare books, manuscripts, and objets
 d’art to wealthy Americans and Europeans, Ludovic Badin worked as the
@@ -38,7 +38,7 @@ of Morgan’s quest to fill his New York library.
 
 ![](/media/provenance/image4.png)
 
-(The Morgan Library & Museum)
+(<em>The Morgan Library & Museum</em>)
 
 Though not described specifically as engravings from the <em>Journal des
 dames et des modes</em>, a bound volume of “coloured ‘Directoire’ costume
@@ -51,8 +51,8 @@ already made their way to New York.
 
 ![](/media/provenance/image5.png)
 
-(Photograph of Belle from 1911 by the American photographer, Clarence H.
-White, Princeton University Art Museum)
+(<em>Photograph of Belle from 1911 by the American photographer, Clarence H.
+White, Princeton University Art Museum</em>)
 
 Belle da Costa Greene worked for the Morgan family for nearly fifty
 years, helping J.P. Morgan and his son amass an unrivaled collection of
@@ -76,8 +76,8 @@ Jul.
 
 ![](/media/provenance/image6.png)
 
-(Chronicling America:
-America’s Historical Newspapers, Library of Congress)
+(<em>Chronicling America:
+America’s Historical Newspapers, Library of Congress</em>)
 
 Belle was famous in her day, not merely with booksellers, collectors,
 and fellow librarians, but with the wider public, making headlines with
@@ -93,8 +93,8 @@ the daring (and successful) last-minute bid she made for the Caxton
 
 ![](/media/provenance/image7.png)
 
-(Princeton University Rare Books and Special Collections,
-Graphic Arts Collection, Firestone Library)
+(<em>Princeton University Rare Books and Special Collections,
+Graphic Arts Collection, Firestone Library</em>)
 
 Belle da Costa Greene was revered for her intellect and she enjoyed a
 prominent position in elite circles thanks to her close relationship
@@ -108,7 +108,7 @@ in 1911.
 
 ![[](/media/provenance/image8.jpeg)
 
-(Wikimedia Commons)
+(<em>Wikimedia Commons</em>)
 
 A 1913 pastel portrait of Belle by the French artist Paul César Helleu
 captures her elegance and glamor, including the iconic feather in her hat. Her
@@ -118,7 +118,7 @@ agitate every other bidder present.”
 
 ![](/media/provenance/image9.png)
 
-(Wikimedia Commons)
+(<em>Wikimedia Commons</em>)
 
 It is worth noting that, perhaps
 not coincidentally, the venerable *Journal des dames et des modes* was
