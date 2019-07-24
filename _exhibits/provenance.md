@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Belle da Costa Greene and The Morgan's JDM Plates
+title: Belle da Costa Greene and the Provenance of The Morgan's JDM Plates
 author: Meredith Levin
 permalink: /provenance/
 
-
+![](/media/provenance/image1.png)
 
 The Morgan Library & Museum’s collection of nearly 500 Directoire-era
 costume plates, originally published in the influential <em>Journal des
@@ -12,7 +12,8 @@ dames et des modes</em> (JDM), are a veritable treasure trove, highlighting
 the radical shifts in French fashion that transpired during the
 turbulent years between 1797 and 1804.
 
-![](/media/provenance/image1.png)
+![](/media/provenance/image2.png)(Letter from
+Ludovic Badin to J.P. Morgan, May 18, 1905, The Morgan Library & Museum)
 
 J.P. Morgan, American financier, benefactor, and avid collector of
 paintings, books, manuscripts, prints & drawings, acquired 18th-century
@@ -21,8 +22,8 @@ Badin. Correspondence preserved in The Morgan’s archives tells us that
 J.P. Morgan had begun acquiring manuscripts, Books of Hours, and costume
 plates from Badin’s eclectic holdings as early as 1905. 
 
-![](/media/provenance/image2.png)(Letter from
-Ludovic Badin to J.P. Morgan, May 18, 1905, The Morgan Library & Museum)
+![](/media/provenance/image3.png)(The Morgan
+Library & Museum)
 
 In addition to acquiring and selling rare books, manuscripts, and objets
 d’art to wealthy Americans and Europeans, Ludovic Badin worked as the
@@ -33,8 +34,7 @@ of sale written on Beer letterhead for 93,500 francs worth of'objects’
 purchased by Morgan from Badin indicates the monumental scale
 of Morgan’s quest to fill his New York library. 
 
-![](/media/provenance/image3.png)(The Morgan
-Library & Museum)
+![](/media/provenance/image4.png)(The Morgan Library & Museum)
 
 Though not described specifically as engravings from the <em>Journal des
 dames et des modes</em>, a bound volume of “coloured ‘Directoire’ costume
@@ -45,8 +45,8 @@ hired in 1906 to manage his burgeoning collection. She signs and dates
 the list on September 2, 1907, meaning that the costume plates have
 already made their way to New York.
 
-
-![](/media/provenance/image4.png)(The Morgan Library & Museum)
+![](/media/provenance/image5.png)(Photograph of Belle from 1911 by the American photographer, Clarence H.
+White, Princeton University Art Museum)
 
 Belle da Costa Greene worked for the Morgan family for nearly fifty
 years, helping J.P. Morgan and his son amass an unrivaled collection of
@@ -66,10 +66,10 @@ Constance. "Greene, Belle da Costa (1879-1950), library director,
 bibliographer, and art connoisseur." *American National
 Biography*.  February, 2000. Oxford University Press,. Date of access 9
 Jul.
-2019, &lt;https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-1701223&gt;
+2019, https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-1701223&gt;
 
-![](/media/provenance/image5.png)(Photograph of Belle from 1911 by the American photographer, Clarence H.
-White, courtesy of the Princeton University Art Museum)
+![](/media/provenance/image6.png)(Chronicling America:
+America’s Historical Newspapers, Library of Congress)
 
 Belle was famous in her day, not merely with booksellers, collectors,
 and fellow librarians, but with the wider public, making headlines with
@@ -83,8 +83,8 @@ large salary and her fearless approach to bidding at auction, including
 the daring (and successful) last-minute bid she made for the Caxton
 *Morte D’Arthur*, paying a whopping \$42,800. 
 
-![](/media/provenance/image6.png)(Chronicling America:
-America’s Historical Newspapers, Library of Congress)
+![](/media/provenance/image7.png)(Princeton University Rare Books and Special Collections,
+Graphic Arts Collection, Firestone Library)
 
 Belle da Costa Greene was revered for her intellect and she enjoyed a
 prominent position in elite circles thanks to her close relationship
@@ -96,8 +96,8 @@ connoisseurship extended to her personal library, for which she
 commissioned a lovely etched bookplate by the artist Edward Gordon Craig
 in 1911.
 
-![](/media/provenance/image7.png)(Courtesy of Princeton University Rare Books and Special Collections,
-Graphic Arts Collection, Firestone Library)
+![[](/media/provenance/image8.jpeg)
+(Wikimedia Commons)
 
 A 1913 pastel portrait of Belle by the French artist Paul César Helleu
 captures her elegance and glamor, including the iconic feather in her hat. Her
@@ -105,26 +105,25 @@ captures her elegance and glamor, including the iconic feather in her hat. Her
 plumed hats” and how “the sight of them in an auction room was enough to
 agitate every other bidder present.”  
 
-![[](/media/provenance/image8.jpeg)
-(Courtesy of Wikimedia Commons)
+![](/media/provenance/image9.png)
+(Wikimedia Commons)
 
 It is worth noting that, perhaps
 not coincidentally, the venerable *Journal des dames et des modes* was
-restarted in France in 1912 to once more showcase Parisian fashions and
-lifestyles.The design of the 20th-century JDM plates is astonishingly similar to
+restarted in 1912 to once more showcase French fashions and
+lifestyles. The design of the 20th-century JDM plates is astonishingly similar to
 that of the original 18th-century plates—there is no mistaking the
 influence of the earlier publication on the new iteration of the
 <em>Journal</em>. The new JDM stopped publishing in 1914 after the outbreak of
 WWI, but it seems very plausible that Belle da Costa Greene was among the
 many fashionable women who could have looked to the JDM for the latest
-trends and style guidelines. This plate from 1913, the same year as
-Helleu’s portrait of Belle, bears a striking resemblance to Belle’s
-outfit, from the feather in the hat to the fur wrap around the neck to
+trends and style guidelines. The fashions in this plate from 1913, the same year as
+Helleu’s pastel portrait of Belle, bear a striking resemblance to Belle’s
+outfit, from the feather in the hat to the fur wrap around the neck, to
 the lines of the coat, telling us that Belle was indeed, as they say in
 Paris, <em>très branché</em>. 
 
-![](/media/provenance/image9.png)
-(Courtesy of Wikimedia Commons)
+
 
 
 
