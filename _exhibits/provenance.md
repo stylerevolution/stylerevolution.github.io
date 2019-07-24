@@ -72,7 +72,7 @@ Constance. "Greene, Belle da Costa (1879-1950), library director,
 bibliographer, and art connoisseur." *American National
 Biography*.  February, 2000. Oxford University Press,. Date of access 9
 Jul.
-2019, https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-1701223&gt;
+2019, https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-1701223&gt
 
 ![](/media/provenance/image6.png)
 
