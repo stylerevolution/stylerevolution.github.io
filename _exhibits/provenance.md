@@ -3,6 +3,7 @@ layout: default
 title: Belle da Costa Greene and the Provenance of The Morgan's JDM Plates
 author: Meredith Levin
 permalink: /provenance/
+---
 
 ![](/media/provenance/image1.png)
 
