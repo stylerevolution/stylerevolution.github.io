@@ -111,7 +111,7 @@ in 1911.
 
 (<em>Wikimedia Commons</em>)
 
-A 1913 pastel portrait of Belle by the French artist Paul César Helleu
+A 1913 pastel portrait of Belle by French artist Paul César Helleu
 captures her elegance and glamor, including the iconic feather in her hat. Her
 1950 obituary in the *New York Herald Tribune* describes her “great
 plumed hats” and how “the sight of them in an auction room was enough to
@@ -125,13 +125,13 @@ It is worth noting that, perhaps
 not coincidentally, the venerable *Journal des dames et des modes* was
 restarted in 1912 to once more showcase French fashions and
 lifestyles. The design of the 20th-century JDM plates is astonishingly similar to
-that of the original 18th-century plates—there is no mistaking the
+that of the original 18th-century plates so there is no mistaking the
 influence of the earlier publication on the new iteration of the
 <em>Journal</em>. The new JDM stopped publishing in 1914 after the outbreak of
 WWI, but it seems very plausible that Belle da Costa Greene was among the
 many fashionable women who could have looked to the JDM for the latest
 trends and style guidelines. The fashions in this plate from 1913, the same year as
-Helleu’s pastel portrait of Belle, bear a striking resemblance to Belle’s
+Helleu’s pastel portrait of Belle, bear a striking resemblance to her portrait
 outfit, from the feather in the hat to the fur wrap around the neck, to
 the lines of the coat, telling us that Belle was indeed, as they say in
 Paris, <em>très branché</em>. 
