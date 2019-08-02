@@ -5,6 +5,8 @@ author: Meredith Levin
 permalink: /provenance/
 ---
 
+# Provenance of the *Journal des dames et des modes*
+
 ![](/media/provenance/image1.png)
 
 The Morgan Library & Museum’s collection of nearly 500 Directoire-era
