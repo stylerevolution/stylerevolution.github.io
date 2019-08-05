@@ -14,6 +14,7 @@ costume plates, originally published in the influential <em>Journal des
 dames et des modes</em> (JDM), are a veritable treasure trove, highlighting
 the radical shifts in French fashion that transpired during the
 turbulent years between 1797 and 1804.
+______________________________________________________________________________
 
 ![](/media/provenance/image2.png)
 
@@ -25,6 +26,7 @@ costume plates in May 1907 from a Parisian bookseller named Ludovic
 Badin. Correspondence preserved in The Morgan’s archives tells us that
 J.P. Morgan had begun acquiring manuscripts, Books of Hours, and costume
 plates from Badin’s eclectic holdings as early as 1905. 
+______________________________________________________________________________
 
 ![](/media/provenance/image3.png)
 
@@ -38,6 +40,7 @@ met some of his clients, including Morgan, through Beer. A June 21, 1906 bill
 of sale written on Beer letterhead for 93,500 francs worth of'objects’
 purchased by Morgan from Badin indicates the monumental scale
 of Morgan’s quest to fill his New York library. 
+______________________________________________________________________________
 
 ![](/media/provenance/image4.png)
 
@@ -51,6 +54,7 @@ annotated by Morgan’s young librarian, Belle da Costa Greene, whom he
 hired in 1906 to manage his burgeoning collection. She signs and dates
 the list on September 2, 1907, meaning that the costume plates have
 already made their way to New York.
+______________________________________________________________________________
 
 ![](/media/provenance/image5.png)
 
@@ -73,9 +77,8 @@ second woman elected a Fellow of the Medieval Academy of America, among
 her many notable achievements. For more on Belle’s life, see Koppelman,
 Constance. "Greene, Belle da Costa (1879-1950), library director,
 bibliographer, and art connoisseur." *American National
-Biography*.  February, 2000. Oxford University Press,. Date of access 9
-Jul.
-2019, https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-1701223&gt
+Biography*.  February, 2000. Oxford University Press, 2019. 
+______________________________________________________________________________
 
 ![](/media/provenance/image6.png)
 
@@ -93,6 +96,7 @@ on March 16, 1921 in the *Omaha Daily Bee*, shares her astonishingly
 large salary and her fearless approach to bidding at auction, including
 the daring (and successful) last-minute bid she made for the Caxton
 *Morte D’Arthur*, paying a whopping \$42,800. 
+______________________________________________________________________________
 
 ![](/media/provenance/image7.png)
 
@@ -108,6 +112,7 @@ built his collection, given her taste for high fashion. Belle’s
 connoisseurship extended to her personal library, for which she
 commissioned a lovely etched bookplate by the artist Edward Gordon Craig
 in 1911.
+______________________________________________________________________________
 
 ![](/media/provenance/image8.jpeg)
 
@@ -118,6 +123,7 @@ captures her elegance and glamor, including the iconic feather in her hat. Her
 1950 obituary in the *New York Herald Tribune* describes her “great
 plumed hats” and how “the sight of them in an auction room was enough to
 agitate every other bidder present.”  
+______________________________________________________________________________
 
 ![](/media/provenance/image9.png)
 
@@ -137,7 +143,8 @@ Helleu’s pastel portrait of Belle, bear a striking resemblance to her portrait
 outfit, from the feather in the hat to the fur wrap around the neck, to
 the lines of the coat, telling us that Belle was indeed, as they say in
 Paris, <em>très branché</em>. 
-
+______________________________________________________________________________
+-Meredith Levin, 2019
 
 
 
