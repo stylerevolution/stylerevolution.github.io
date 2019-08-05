@@ -109,7 +109,7 @@ connoisseurship extended to her personal library, for which she
 commissioned a lovely etched bookplate by the artist Edward Gordon Craig
 in 1911.
 
-![[](/media/provenance/image8.jpeg)
+![](/media/provenance/image8.jpeg)
 
 (<em>Wikimedia Commons</em>)
 
