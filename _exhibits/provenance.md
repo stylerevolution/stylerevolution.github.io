@@ -144,7 +144,7 @@ outfit, from the feather in the hat to the fur wrap around the neck, to
 the lines of the coat, telling us that Belle was indeed, as they say in
 Paris, <em>très branché</em>. 
 ______________________________________________________________________________
--Meredith Levin, 2019
+
 
 
 
