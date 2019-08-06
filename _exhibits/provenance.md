@@ -5,7 +5,7 @@ author: Meredith Levin
 permalink: /provenance/
 ---
 
-# Provenance of the *Journal des dames et des modes*
+# Provenance of the The Morgan's *Journal des dames et des modes* Plates
 
 ![](/media/provenance/image1.png)
 
